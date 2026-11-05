@@ -15,6 +15,15 @@ iptv-org Tamil/English M3U + metadata ───┘                              
   (fallback `https://raw.githubusercontent.com/tjsudarsan/iptv-manifest/main/docs/v1/manifest.json`)
 - **Human-readable list:** [`reports/latest.md`](reports/latest.md)
 
+## Programme guide
+
+`generator/guide.py` builds `v1/guide.json` every run from public sources (Airtel Xstream's EPG API for Indian
+channels, the i.mjh.nz XMLTV files for international ones), using iptv-org's guide index to map channels.
+It covers about half the channels today; `reports/guide.md` on the [`guide` branch](../../tree/guide) lists each
+channel's source. Published at `https://tjsudarsan.github.io/iptv-manifest/v1/guide.json`, fallback
+`https://raw.githubusercontent.com/tjsudarsan/iptv-manifest/guide/v1/guide.json` (replaced, not appended, so
+history does not grow). Schema: `{"schema":1,"from":…,"to":…,"channels":{"<id>":[[start,stop,"title","desc"],…]}}`.
+
 ## Changing channels
 
 Edit `config/channels.toml` and push to `main` (or ask Claude). The workflow tests the generator,

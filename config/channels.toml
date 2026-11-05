@@ -186,3 +186,15 @@ unavailable = "Fails from India (TV check 2026-11-04: HTTP 403)"
 # category = "ta-entertainment"
 # url = "https://example.com/live/master.m3u8"
 # logo = "https://example.com/logo.png"
+
+# ---------------------------------------------------------------- programme guide
+# Published separately as docs/v1/guide.json (Pages) and the `guide` branch; see generator/guide.py.
+[guide]
+hours_behind = 2
+hours_ahead = 36
+title_max = 80
+description_max = 160
+min_channels = 10          # fewer channels with programmes than this keeps the previous guide
+workers = 6
+# Pin a source for a channel: "airtelxstream.in:<site_id>" or "i.mjh.nz:<path>#<channel>"
+[guide.overrides]

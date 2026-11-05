@@ -1,2 +1,4 @@
 __pycache__/
 *.pyc
+docs/v1/guide.json
+reports/guide.md

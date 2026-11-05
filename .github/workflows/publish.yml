@@ -44,6 +44,21 @@ jobs:
             git commit -m "Publish manifest version ${version}"
             git push
           fi
+      # The guide changes every run, so it is never committed to main: it goes to Pages and to a
+      # single-commit `guide` branch (raw.githubusercontent.com fallback) that is replaced each time.
+      - name: Build programme guide
+        id: guide
+        continue-on-error: true
+        run: python -m generator.guide
+      - name: Publish guide branch
+        if: steps.guide.outcome == 'success'
+        run: |
+          tmp=$(mktemp -d)
+          mkdir -p "$tmp/v1" && cp docs/v1/guide.json "$tmp/v1/" && cp reports/guide.md "$tmp/README.md"
+          cd "$tmp" && git init -q -b guide && git add -A
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+            commit -q -m "Programme guide $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push -q -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" guide
       # GitHub Pages is the TV's primary URL; raw.githubusercontent.com is its fallback,
       # so a Pages problem must not fail the run.
       - uses: actions/configure-pages@v5
