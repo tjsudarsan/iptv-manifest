@@ -1,0 +1,961 @@
+{
+ "version": 1,
+ "content_hash": "9fccbf3ac94cd9771df8fd37aeb253c201802a3a625d84b25d6fd458db5a8532",
+ "generated_at": "2026-11-05T04:00:42Z",
+ "service_ids": {
+  "7SMusic.in@SD": 9502,
+  "AFV.us": 9628,
+  "AMNTV.in@SD": 9503,
+  "AXNAdria.us": 9629,
+  "AXNBlack.us": 9630,
+  "AXNCEE.es": 9631,
+  "AXNCrime.us": 9632,
+  "AXNWhite.us": 9633,
+  "AaryaaTV.in@SD": 9504,
+  "AaseervathamTV.in@SD": 9505,
+  "AasthaTamil.in@SD": 9506,
+  "AathavanTV.uk@SD": 9507,
+  "AngelTV.in@America": 9508,
+  "AngelTV.in@India": 9509,
+  "AngelTV.in@IndoChina": 9510,
+  "AngelTV.in@Indonesia": 9511,
+  "AnimalPlanet.in": 9634,
+  "AnimalPlanet.in@HD": 9512,
+  "AnimalPlanet.in@SD": 9513,
+  "AnimaxAsia.sg": 9635,
+  "ArputharYesuTV.in@SD": 9514,
+  "AsiaTV.lk@HD": 9515,
+  "AutenticHistory.de": 9636,
+  "BBCEarth.uk": 9637,
+  "BeritaRTM.my@SD": 9516,
+  "BhagyamTV.in@SD": 9517,
+  "Boomerang.us": 9638,
+  "CartoonNetwork.in@SD": 9518,
+  "CartoonNetworkAsia.sg": 9639,
+  "Chithiram.in@SD": 9519,
+  "ColorsTamil.in@HD": 9520,
+  "ComedyCentral.us": 9640,
+  "CuriosityNOW.de": 9641,
+  "DDSports.in": 9642,
+  "DDSports.in@HD": 9521,
+  "DDTamil.in@HD": 9522,
+  "DDTamil.in@SD": 9523,
+  "DharsanTV.in@SD": 9524,
+  "DhoolTV.in@SD": 9525,
+  "DiscoveryChannel.in": 9643,
+  "DiscoveryChannel.in@HD": 9526,
+  "DiscoveryChannel.in@SD": 9527,
+  "DiscoveryHistory.uk": 9644,
+  "DiscoveryKids.in": 9645,
+  "DiscoveryKids.in@SD": 9528,
+  "DiscoveryScience.in": 9646,
+  "DiscoveryTurbo.in": 9647,
+  "DisneyChannel.in": 9648,
+  "DisneyChannel.in@HD": 9529,
+  "DisneyInternationalHD.in": 9649,
+  "DisneyJunior.in": 9650,
+  "DisneyJunior.in@SD": 9530,
+  "DisneyXD.us": 9651,
+  "DocuBayTV.in": 9652,
+  "DoveChannel.us": 9653,
+  "DryBarComedyPlus.us": 9654,
+  "EETTV.ca@SD": 9531,
+  "ESPN.us": 9655,
+  "ESPN2.us": 9656,
+  "Eurosport.in": 9657,
+  "FailArmy.us": 9658,
+  "FoxSports1.us": 9659,
+  "FoxSports2.us": 9660,
+  "Getfactual.us": 9661,
+  "HBO.us": 9662,
+  "HBOAsia.sg": 9663,
+  "HBOFamilyAsia.sg": 9664,
+  "HBOHitsAsia.sg": 9665,
+  "HBOSignatureAsia.sg": 9666,
+  "HebronTV.in@SD": 9532,
+  "History.us": 9667,
+  "HistoryHit.uk": 9668,
+  "HistoryTV18.in": 9669,
+  "HistoryTV18.in@HD": 9533,
+  "HosannaTV.in@Tamil": 9534,
+  "IBCBakthi.uk@SD": 9535,
+  "IBCTamil.uk@SD": 9536,
+  "ImaiTV.lk@SD": 9537,
+  "InWonder.nl": 9670,
+  "IsaiAruvi.in@SD": 9538,
+  "JayaPlus.in@SD": 9539,
+  "JoyTV.in@SD": 9540,
+  "JustforLaughsGags.us": 9671,
+  "KalaignarMurasu.in@SD": 9541,
+  "KalaignarSeithigal.in@SD": 9542,
+  "KalaignarTV.in@SD": 9543,
+  "LifeTV.in@SD": 9544,
+  "MKSix.in@SD": 9545,
+  "MNaduTV.in@SD": 9546,
+  "MTA6Asia.uk@SD": 9547,
+  "MTA7Asia.uk@SD": 9548,
+  "MTVBiggestPop.us": 9672,
+  "MTVClassic.us": 9673,
+  "MTVGlobal.uk": 9674,
+  "MTVLive.us": 9675,
+  "MadhaTV.in@SD": 9549,
+  "MadhimugamTV.in@SD": 9550,
+  "MagellanTVNow.us": 9676,
+  "MahimaiTV.in@SD": 9551,
+  "MakkalTV.in@SD": 9552,
+  "MalaiMurasuTV.in@SD": 9553,
+  "MarutamTV.in@SD": 9554,
+  "MeiAlaiTV.in@SD": 9555,
+  "MonaraTV.lk@SD": 9556,
+  "MoonTV.in@SD": 9557,
+  "MoviesNow.in": 9677,
+  "MoviesNow.in@HD": 9558,
+  "MrBeanAnimated.uk": 9678,
+  "MrBeanLiveAction.uk": 9679,
+  "NDTVGoodTimes.in@SD": 9559,
+  "NDTVLANKA.lk@SD": 9560,
+  "NHTamilGold.in@HD": 9561,
+  "NTCTV.in@SD": 9562,
+  "NambikkaiTV.in@SD": 9563,
+  "NationalGeographic.us": 9680,
+  "NationalGeographicWild.us": 9681,
+  "NatureTime.ca": 9682,
+  "News18TamilNadu.in@SD": 9564,
+  "News7Tamil.in@SD": 9565,
+  "NewsJ.in@SD": 9566,
+  "NewsTamil24x7.in@SD": 9567,
+  "NickJr.in": 9683,
+  "Nickelodeon.in@SD": 9568,
+  "NickelodeonGlobal.uk": 9684,
+  "OMTV.in@SD": 9569,
+  "Okey.my@SD": 9570,
+  "OliTV.in@SD": 9571,
+  "PeppersTV.in@SD": 9572,
+  "Pogo.in@SD": 9573,
+  "PolimerNews.in@SD": 9501,
+  "PolimerTV.in@SD": 9574,
+  "PuthiyaThalaimurai.in@SD": 9575,
+  "PuthiyaThalaimuraiExpress.in@SD": 9576,
+  "PuthuyugamTV.in@SD": 9577,
+  "RajDigitalPlus.in@SD": 9578,
+  "RajMusixTamil.in@SD": 9579,
+  "RajTV.in@SD": 9580,
+  "RakutenTVActionMovies.es": 9685,
+  "RakutenTVComedyMovies.es": 9686,
+  "RakutenTVDramaMovies.es": 9687,
+  "RakutenTVFamilyMovies.es": 9688,
+  "RedBullTV.at": 9689,
+  "SVBC2.in@SD": 9581,
+  "SaiTV.in@SD": 9582,
+  "SairamTV.in@SD": 9583,
+  "SanaPlus.in@SD": 9584,
+  "SanaTV.in@SD": 9585,
+  "SankaraTV.in@SD": 9586,
+  "SathiyamTV.in@SD": 9587,
+  "ShakthiTV.lk@SD": 9588,
+  "SirippoliTV.in@SD": 9589,
+  "SivanTV.ch@SD": 9590,
+  "SkySportsF1.uk": 9690,
+  "Sonic.in@SD": 9591,
+  "SonyBBCEarth.in": 9691,
+  "SonyBBCEarth.in@HD": 9592,
+  "SonyPix.in": 9692,
+  "SonyPix.in@HD": 9593,
+  "SonySportsTen1.in": 9693,
+  "SonySportsTen2.in": 9694,
+  "SonySportsTen5.in": 9695,
+  "SooriyanTV.ca@SD": 9594,
+  "StarSports2.in": 9696,
+  "StarSports2.in@HD": 9596,
+  "StarSports2.in@SD": 9597,
+  "StarSports3.in": 9697,
+  "StarSportsSelect1.in": 9698,
+  "StarSportsSelect2.in": 9699,
+  "StarTamilTelevision.lk@SD": 9598,
+  "StarVijay.in@UK": 9599,
+  "SubinTV.in@SD": 9600,
+  "SunTV.in@HD": 9601,
+  "SuriyaTV.in@SD": 9602,
+  "SuriyanTV.in@SD": 9603,
+  "TLC.in": 9700,
+  "TV2.my@SD": 9604,
+  "TamilJanam.in@SD": 9605,
+  "TamilVisionTV.ca@SD": 9606,
+  "TamilanTV.in@SD": 9607,
+  "TenCricket.in": 9701,
+  "TerraMaterWILD.de": 9702,
+  "ThalaaTV.in@HD": 9608,
+  "ThanthiOne.in@SD": 9609,
+  "ThanthiTV.in@SD": 9610,
+  "TheBobRossChannel.us": 9703,
+  "ThePetCollective.us": 9704,
+  "ThendralTV.in@SD": 9611,
+  "TravelChannel.pl": 9705,
+  "Travelxp.in@4KHDR": 9612,
+  "Travelxp.in@HD": 9613,
+  "Tunes6.in@SD": 9614,
+  "UCTV.us": 9706,
+  "UltimateTV.in@SD": 9615,
+  "VaanavilTV.in@SD": 9616,
+  "VasanthTV.in@SD": 9617,
+  "VelichamTV.in@SD": 9618,
+  "VendharTV.in@SD": 9619,
+  "VerbumTV.lk@SD": 9620,
+  "VijayTakkar.in@APAC": 9621,
+  "VillageTV.in@SD": 9622,
+  "WOWKidz.in@Tamil": 9623,
+  "WWENetwork.us": 9707,
+  "WarnerTVAsia.us": 9708,
+  "WildEarth.za": 9709,
+  "Willow.us": 9710,
+  "WillowSports.us": 9711,
+  "WinTV.in@SD": 9624,
+  "Wonder.uk": 9712,
+  "ZeeTamil.in@HD": 9625,
+  "ZeeTamil.in@SD": 9626,
+  "ZeeTamilNews.in@SD": 9627,
+  "beINSPORTSXTRA.us": 9713
+ },
+ "streams": {
+  "7SMusic.in@SD": {
+   "url": "https://cdn.pishow.tv/ott/live/1257/master.m3u8",
+   "available": true
+  },
+  "AFV.us": {
+   "url": "https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8",
+   "available": true
+  },
+  "AXNAdria.us": {
+   "url": "",
+   "available": false
+  },
+  "AXNBlack.us": {
+   "url": "",
+   "available": false
+  },
+  "AXNCEE.es": {
+   "url": "",
+   "available": false
+  },
+  "AXNCrime.us": {
+   "url": "",
+   "available": false
+  },
+  "AXNWhite.us": {
+   "url": "",
+   "available": false
+  },
+  "AaryaaTV.in@SD": {
+   "url": "https://stream.ottlive.co.in/aryatvtamil/index.m3u8",
+   "available": true
+  },
+  "AasthaTamil.in@SD": {
+   "url": "https://aasthaott.akamaized.net/110923/smil:aasthatamil.smil/playlist.m3u8",
+   "available": true
+  },
+  "AathavanTV.uk@SD": {
+   "url": "",
+   "available": false
+  },
+  "AnimalPlanet.in": {
+   "url": "",
+   "available": false
+  },
+  "AnimalPlanet.in@HD": {
+   "url": "",
+   "available": false
+  },
+  "AnimalPlanet.in@SD": {
+   "url": "",
+   "available": false
+  },
+  "AnimaxAsia.sg": {
+   "url": "https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8",
+   "available": true
+  },
+  "AsiaTV.lk@HD": {
+   "url": "",
+   "available": false
+  },
+  "AutenticHistory.de": {
+   "url": "https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8",
+   "available": true
+  },
+  "BBCEarth.uk": {
+   "url": "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8",
+   "available": true
+  },
+  "BeritaRTM.my@SD": {
+   "url": "",
+   "available": false
+  },
+  "BhagyamTV.in@SD": {
+   "url": "https://ott.bhagyam.net/hls/bhagyamweb/index-1409148900-now.m3u8",
+   "available": true
+  },
+  "Boomerang.us": {
+   "url": "",
+   "available": false
+  },
+  "CartoonNetwork.in@SD": {
+   "url": "",
+   "available": false
+  },
+  "CartoonNetworkAsia.sg": {
+   "url": "",
+   "available": false
+  },
+  "Chithiram.in@SD": {
+   "url": "https://cdn.pishow.tv/ott/live/1243/master.m3u8",
+   "available": true
+  },
+  "ColorsTamil.in@HD": {
+   "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorstamilhd11.smil/playlist.m3u8",
+   "available": true
+  },
+  "ComedyCentral.us": {
+   "url": "",
+   "available": false
+  },
+  "CuriosityNOW.de": {
+   "url": "https://amg00170-amg00170c4-samsung-gb-4232.playouts.now.amagi.tv/playlist.m3u8",
+   "available": true
+  },
+  "DDSports.in": {
+   "url": "https://cdn.pishow.tv/ott/live/1161/master.m3u8",
+   "available": true
+  },
+  "DDSports.in@HD": {
+   "url": "https://cdn.pishow.tv/ott/live/1161/master.m3u8",
+   "available": true
+  },
+  "DDTamil.in@HD": {
+   "url": "https://cdn.pishow.tv/ott/live/1737/master.m3u8",
+   "available": true
+  },
+  "DDTamil.in@SD": {
+   "url": "",
+   "available": false
+  },
+  "DiscoveryChannel.in": {
+   "url": "",
+   "available": false
+  },
+  "DiscoveryChannel.in@HD": {
+   "url": "",
+   "available": false
+  },
+  "DiscoveryChannel.in@SD": {
+   "url": "",
+   "available": false
+  },
+  "DiscoveryHistory.uk": {
+   "url": "",
+   "available": false
+  },
+  "DiscoveryKids.in": {
+   "url": "",
+   "available": false
+  },
+  "DiscoveryKids.in@SD": {
+   "url": "",
+   "available": false
+  },
+  "DiscoveryScience.in": {
+   "url": "",
+   "available": false
+  },
+  "DiscoveryTurbo.in": {
+   "url": "",
+   "available": false
+  },
+  "DisneyChannel.in": {
+   "url": "",
+   "available": false
+  },
+  "DisneyChannel.in@HD": {
+   "url": "",
+   "available": false
+  },
+  "DisneyInternationalHD.in": {
+   "url": "",
+   "available": false
+  },
+  "DisneyJunior.in": {
+   "url": "",
+   "available": false
+  },
+  "DisneyJunior.in@SD": {
+   "url": "",
+   "available": false
+  },
+  "DisneyXD.us": {
+   "url": "",
+   "available": false
+  },
+  "DocuBayTV.in": {
+   "url": "https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8",
+   "available": true
+  },
+  "DoveChannel.us": {
+   "url": "https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8",
+   "available": true
+  },
+  "DryBarComedyPlus.us": {
+   "url": "https://drybar-drybarcomedy-1-au.samsung.wurl.tv/playlist.m3u8",
+   "available": true
+  },
+  "ESPN.us": {
+   "url": "",
+   "available": false
+  },
+  "ESPN2.us": {
+   "url": "",
+   "available": false
+  },
+  "Eurosport.in": {
+   "url": "",
+   "available": false
+  },
+  "FailArmy.us": {
+   "url": "https://failarmy-international-au.samsung.wurl.tv/playlist.m3u8",
+   "available": true
+  },
+  "FoxSports1.us": {
+   "url": "",
+   "available": false
+  },
+  "FoxSports2.us": {
+   "url": "",
+   "available": false
+  },
+  "Getfactual.us": {
+   "url": "https://d1nhni5l2n8hjt.cloudfront.net/gf.m3u8",
+   "available": true
+  },
+  "HBO.us": {
+   "url": "",
+   "available": false
+  },
+  "HBOAsia.sg": {
+   "url": "",
+   "available": false
+  },
+  "HBOFamilyAsia.sg": {
+   "url": "",
+   "available": false
+  },
+  "HBOHitsAsia.sg": {
+   "url": "",
+   "available": false
+  },
+  "HBOSignatureAsia.sg": {
+   "url": "",
+   "available": false
+  },
+  "History.us": {
+   "url": "",
+   "available": false
+  },
+  "HistoryHit.uk": {
+   "url": "https://lds-timeline-rakuten.amagi.tv/playlist.m3u8",
+   "available": true
+  },
+  "HistoryTV18.in": {
+   "url": "https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8",
+   "available": true
+  },
+  "HistoryTV18.in@HD": {
+   "url": "https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8",
+   "available": true
+  },
+  "IBCBakthi.uk@SD": {
+   "url": "",
+   "available": false
+  },
+  "IBCTamil.uk@SD": {
+   "url": "",
+   "available": false
+  },
+  "ImaiTV.lk@SD": {
+   "url": "https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8",
+   "available": true
+  },
+  "InWonder.nl": {
+   "url": "https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8",
+   "available": true
+  },
+  "IsaiAruvi.in@SD": {
+   "url": "https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8",
+   "available": true
+  },
+  "JayaPlus.in@SD": {
+   "url": "",
+   "available": false
+  },
+  "JustforLaughsGags.us": {
+   "url": "https://streams2.sofast.tv/ptnr-yupptv/title-JUST_FOR_LAUGHS_GAGS_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2790d143-5874-4146-bf91-9063c52b2f15/manifest.m3u8",
+   "available": true
+  },
+  "KalaignarMurasu.in@SD": {
+   "url": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/murasu_nim_https/050522/murasu/playlist.m3u8",
+   "available": true
+  },
+  "KalaignarSeithigal.in@SD": {
+   "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/KalaignarSeithigal.m3u8",
+   "available": true
+  },
+  "KalaignarTV.in@SD": {
+   "url": "https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8",
+   "available": true
+  },
+  "MTVBiggestPop.us": {
+   "url": "",
+   "available": false
+  },
+  "MTVClassic.us": {
+   "url": "",
+   "available": false
+  },
+  "MTVGlobal.uk": {
+   "url": "",
+   "available": false
+  },
+  "MTVLive.us": {
+   "url": "",
+   "available": false
+  },
+  "MadhimugamTV.in@SD": {
+   "url": "https://mumt01.tangotv.in/O5aw8Zn3MATHIMUGAMTV/index.m3u8",
+   "available": true
+  },
+  "MagellanTVNow.us": {
+   "url": "https://amg00376-magellan-amg00376c5-samsung-au-1708.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungau/playlist.m3u8",
+   "available": true
+  },
+  "MakkalTV.in@SD": {
+   "url": "https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8",
+   "available": true
+  },
+  "MalaiMurasuTV.in@SD": {
+   "url": "https://streams.tangotv.in/MALAIMURASUSEITHIGAL/ORIGIN/index.m3u8",
+   "available": true
+  },
+  "MarutamTV.in@SD": {
+   "url": "https://mntv.livebox.co.in/mntvhls/live.m3u8",
+   "available": true
+  },
+  "MonaraTV.lk@SD": {
+   "url": "",
+   "available": false
+  },
+  "MoviesNow.in": {
+   "url": "",
+   "available": false
+  },
+  "MoviesNow.in@HD": {
+   "url": "",
+   "available": false
+  },
+  "MrBeanAnimated.uk": {
+   "url": "https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8",
+   "available": true
+  },
+  "MrBeanLiveAction.uk": {
+   "url": "https://amg00627-amg00627c39-samsung-gb-5569.playouts.now.amagi.tv/playlist.m3u8",
+   "available": true
+  },
+  "NDTVGoodTimes.in@SD": {
+   "url": "https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8",
+   "available": true
+  },
+  "NDTVLANKA.lk@SD": {
+   "url": "",
+   "available": false
+  },
+  "NHTamilGold.in@HD": {
+   "url": "https://d3arbp6l7f096k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-gv6wgpbb4mgwk/playlist.m3u8?ads.ads_cdn=cf&ads.app_domain=APP_DOMAIN&ads.cdn=cf",
+   "available": true
+  },
+  "NTCTV.in@SD": {
+   "url": "https://galaxyott.live/hls/ntv.m3u8",
+   "available": true
+  },
+  "NationalGeographic.us": {
+   "url": "",
+   "available": false
+  },
+  "NationalGeographicWild.us": {
+   "url": "",
+   "available": false
+  },
+  "NatureTime.ca": {
+   "url": "https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8",
+   "available": true
+  },
+  "News18TamilNadu.in@SD": {
+   "url": "https://n18syndication.akamaized.net/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/master.m3u8",
+   "available": true
+  },
+  "News7Tamil.in@SD": {
+   "url": "https://segment.yuppcdn.net/240122/news7/playlist.m3u8",
+   "available": true
+  },
+  "NewsJ.in@SD": {
+   "url": "https://cdn.pishow.tv/ott/live/1279/master.m3u8",
+   "available": true
+  },
+  "NewsTamil24x7.in@SD": {
+   "url": "https://cdn.pishow.tv/ott/live/1433/master.m3u8",
+   "available": true
+  },
+  "NickJr.in": {
+   "url": "",
+   "available": false
+  },
+  "Nickelodeon.in@SD": {
+   "url": "",
+   "available": false
+  },
+  "NickelodeonGlobal.uk": {
+   "url": "",
+   "available": false
+  },
+  "OMTV.in@SD": {
+   "url": "https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8",
+   "available": true
+  },
+  "Okey.my@SD": {
+   "url": "",
+   "available": false
+  },
+  "OliTV.in@SD": {
+   "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
+   "available": true
+  },
+  "PeppersTV.in@SD": {
+   "url": "https://cdn.pishow.tv/ott/live/1383/master.m3u8",
+   "available": true
+  },
+  "Pogo.in@SD": {
+   "url": "",
+   "available": false
+  },
+  "PolimerNews.in@SD": {
+   "url": "https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8",
+   "available": true
+  },
+  "PolimerTV.in@SD": {
+   "url": "https://cdn.pishow.tv/ott/live/1241/master.m3u8",
+   "available": true
+  },
+  "PuthiyaThalaimurai.in@SD": {
+   "url": "https://mumt07.tangotv.in/zHjX9OFlPUTHIYAEXPRESS/index.m3u8",
+   "available": true
+  },
+  "PuthiyaThalaimuraiExpress.in@SD": {
+   "url": "https://samitaorigin.tangotv.in/PUTHIYAEXPRESS/SAMITAORIGIN/index.m3u8",
+   "available": true
+  },
+  "PuthuyugamTV.in@SD": {
+   "url": "https://mumt04.tangotv.in/m18aqlK4PUTHUYUGAMTV/index.m3u8",
+   "available": true
+  },
+  "RajDigitalPlus.in@SD": {
+   "url": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8",
+   "available": true
+  },
+  "RajMusixTamil.in@SD": {
+   "url": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8",
+   "available": true
+  },
+  "RajTV.in@SD": {
+   "url": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RAJTV/master_1.m3u8",
+   "available": true
+  },
+  "RakutenTVActionMovies.es": {
+   "url": "",
+   "available": false
+  },
+  "RakutenTVComedyMovies.es": {
+   "url": "",
+   "available": false
+  },
+  "RakutenTVDramaMovies.es": {
+   "url": "https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8",
+   "available": true
+  },
+  "RakutenTVFamilyMovies.es": {
+   "url": "",
+   "available": false
+  },
+  "RedBullTV.at": {
+   "url": "https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8",
+   "available": true
+  },
+  "SVBC2.in@SD": {
+   "url": "https://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/playlist.m3u8",
+   "available": true
+  },
+  "SaiTV.in@SD": {
+   "url": "https://mumbai-edge.smartplaytv.in/SaiTV/index.m3u8",
+   "available": true
+  },
+  "SairamTV.in@SD": {
+   "url": "https://mumt04.tangotv.in/m18aqlK4SAIRAMTV/index.m3u8",
+   "available": true
+  },
+  "SanaPlus.in@SD": {
+   "url": "https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8",
+   "available": true
+  },
+  "SanaTV.in@SD": {
+   "url": "https://vglivessai.akamaized.net/us/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b6d9e864-ec16-410a-804d-ccf8f720bfaa/index.m3u8",
+   "available": true
+  },
+  "SankaraTV.in@SD": {
+   "url": "https://mumt05.tangotv.in/87NeALx2SRISANKARA/index.m3u8",
+   "available": true
+  },
+  "SathiyamTV.in@SD": {
+   "url": "https://mumt07.tangotv.in/zHjX9OFlSATHIYAMTV/index.m3u8",
+   "available": true
+  },
+  "ShakthiTV.lk@SD": {
+   "url": "https://mumbai-edge.smartplaytv.in/ShakthiTV/index.m3u8",
+   "available": true
+  },
+  "SirippoliTV.in@SD": {
+   "url": "https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8",
+   "available": true
+  },
+  "SivanTV.ch@SD": {
+   "url": "http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8",
+   "available": true
+  },
+  "SkySportsF1.uk": {
+   "url": "",
+   "available": false
+  },
+  "Sonic.in@SD": {
+   "url": "",
+   "available": false
+  },
+  "SonyBBCEarth.in": {
+   "url": "",
+   "available": false
+  },
+  "SonyBBCEarth.in@HD": {
+   "url": "",
+   "available": false
+  },
+  "SonyPix.in": {
+   "url": "",
+   "available": false
+  },
+  "SonyPix.in@HD": {
+   "url": "",
+   "available": false
+  },
+  "SonySportsTen1.in": {
+   "url": "",
+   "available": false
+  },
+  "SonySportsTen2.in": {
+   "url": "",
+   "available": false
+  },
+  "SonySportsTen5.in": {
+   "url": "",
+   "available": false
+  },
+  "SooriyanTV.ca@SD": {
+   "url": "https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8",
+   "available": true
+  },
+  "StarSports2.in": {
+   "url": "",
+   "available": false
+  },
+  "StarSports2.in@HD": {
+   "url": "",
+   "available": false
+  },
+  "StarSports2.in@SD": {
+   "url": "",
+   "available": false
+  },
+  "StarSports3.in": {
+   "url": "",
+   "available": false
+  },
+  "StarSportsSelect1.in": {
+   "url": "",
+   "available": false
+  },
+  "StarSportsSelect2.in": {
+   "url": "",
+   "available": false
+  },
+  "StarTamilTelevision.lk@SD": {
+   "url": "",
+   "available": false
+  },
+  "StarVijay.in@UK": {
+   "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starvijayuk.smil/playlist.m3u8",
+   "available": true
+  },
+  "SubinTV.in@SD": {
+   "url": "https://stream.galaxyott.live/live/subintv/index.m3u8",
+   "available": true
+  },
+  "SunTV.in@HD": {
+   "url": "https://d2px1d6ssc60fw.cloudfront.net/SunTV/SunTV-HDR10-IN-index.m3u8",
+   "available": true
+  },
+  "SuriyaTV.in@SD": {
+   "url": "https://stream.ottlive.co.in/suryatvtamil/index.m3u8",
+   "available": true
+  },
+  "SuriyanTV.in@SD": {
+   "url": "",
+   "available": false
+  },
+  "TLC.in": {
+   "url": "",
+   "available": false
+  },
+  "TV2.my@SD": {
+   "url": "",
+   "available": false
+  },
+  "TamilJanam.in@SD": {
+   "url": "https://mumt01.tangotv.in/O5aw8Zn3JANAMTVTAMIL/index.m3u8",
+   "available": true
+  },
+  "TamilanTV.in@SD": {
+   "url": "https://mumt04.tangotv.in/m18aqlK4TAMILANTELEVISION/index.m3u8",
+   "available": true
+  },
+  "TenCricket.in": {
+   "url": "",
+   "available": false
+  },
+  "TerraMaterWILD.de": {
+   "url": "",
+   "available": false
+  },
+  "ThalaaTV.in@HD": {
+   "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8",
+   "available": true
+  },
+  "ThanthiOne.in@SD": {
+   "url": "https://mumt07.tangotv.in/zHjX9OFlTHANTHIONE/index.m3u8",
+   "available": true
+  },
+  "ThanthiTV.in@SD": {
+   "url": "https://streams.tangotv.in/THANTHITV/ORIGIN/index.m3u8",
+   "available": true
+  },
+  "TheBobRossChannel.us": {
+   "url": "",
+   "available": false
+  },
+  "ThePetCollective.us": {
+   "url": "https://the-pet-collective-international-dk.samsung.wurl.tv/playlist.m3u8",
+   "available": true
+  },
+  "TravelChannel.pl": {
+   "url": "",
+   "available": false
+  },
+  "Travelxp.in@4KHDR": {
+   "url": "",
+   "available": false
+  },
+  "Travelxp.in@HD": {
+   "url": "",
+   "available": false
+  },
+  "Tunes6.in@SD": {
+   "url": "https://stream.d6-pro.com/Tunes6music/live/video.m3u8",
+   "available": true
+  },
+  "UCTV.us": {
+   "url": "https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8",
+   "available": true
+  },
+  "UltimateTV.in@SD": {
+   "url": "https://stream.ottlive.co.in/utvtamil/index.m3u8",
+   "available": true
+  },
+  "VasanthTV.in@SD": {
+   "url": "https://mumt04.tangotv.in/m18aqlK4VASANTHTV/index.m3u8",
+   "available": true
+  },
+  "VelichamTV.in@SD": {
+   "url": "https://mumt05.tangotv.in/87NeALx2VALICHAMPLUS/index.m3u8",
+   "available": true
+  },
+  "VendharTV.in@SD": {
+   "url": "https://mumt04.tangotv.in/m18aqlK4VENDHARTV/index.m3u8",
+   "available": true
+  },
+  "VijayTakkar.in@APAC": {
+   "url": "",
+   "available": false
+  },
+  "WOWKidz.in@Tamil": {
+   "url": "",
+   "available": false
+  },
+  "WWENetwork.us": {
+   "url": "",
+   "available": false
+  },
+  "WarnerTVAsia.us": {
+   "url": "",
+   "available": false
+  },
+  "WildEarth.za": {
+   "url": "https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8",
+   "available": true
+  },
+  "Willow.us": {
+   "url": "",
+   "available": false
+  },
+  "WillowSports.us": {
+   "url": "",
+   "available": false
+  },
+  "WinTV.in@SD": {
+   "url": "",
+   "available": false
+  },
+  "Wonder.uk": {
+   "url": "https://lds-wonder-rakuten.amagi.tv/playlist.m3u8",
+   "available": true
+  },
+  "ZeeTamil.in@HD": {
+   "url": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Tamil_HD/hls/Zee_Tamil_HD.m3u8",
+   "available": true
+  },
+  "ZeeTamil.in@SD": {
+   "url": "",
+   "available": false
+  },
+  "ZeeTamilNews.in@SD": {
+   "url": "",
+   "available": false
+  },
+  "beINSPORTSXTRA.us": {
+   "url": "https://bein-xtra-bein.amagi.tv/playlist.m3u8",
+   "available": true
+  }
+ },
+ "source_counts": {
+  "ta": 126,
+  "en": 86
+ }
+}

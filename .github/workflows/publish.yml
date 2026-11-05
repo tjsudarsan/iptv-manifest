@@ -1,0 +1,55 @@
+name: Publish manifest
+
+on:
+  schedule:
+    - cron: "23 */6 * * *"   # every 6 hours: re-check sources and streams
+  push:
+    branches: [main]
+    paths: ["config/**", "generator/**", "tests/**", ".github/workflows/publish.yml"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    environment:
+      name: github-pages
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Test generator
+        run: python -m unittest discover -s tests -t . -v
+      - name: Generate manifest
+        run: python -m generator.generate
+      - name: Commit published files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs state reports
+          if git diff --cached --quiet; then
+            echo "No changes to publish"
+          else
+            version=$(python -c 'import json;print(json.load(open("docs/v1/manifest.json"))["version"])')
+            git commit -m "Publish manifest version ${version}"
+            git push
+          fi
+      # GitHub Pages is the TV's primary URL; raw.githubusercontent.com is its fallback,
+      # so a Pages problem must not fail the run.
+      - uses: actions/configure-pages@v5
+        continue-on-error: true
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+      - uses: actions/deploy-pages@v4
+        continue-on-error: true

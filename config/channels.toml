@@ -1,0 +1,188 @@
+# Live TV channel configuration — the single source of truth for the owner's Sony TV.
+#
+# Edit this file (or ask Claude to) and push to main. The "Publish manifest" workflow
+# regenerates docs/v1/manifest.json, which the TV downloads on its own schedule.
+#
+# Identity rules (do not break):
+#   * A channel's `id` is its permanent identity on the TV (Sony provider row, saved focus).
+#   * Service IDs live in state/state.json and are never reused or renumbered.
+#   * Display numbers are contiguous in category order and are recomputed on every run.
+
+[publish]
+refresh_minutes = 360      # how often the TV checks for a new manifest
+min_app_version = 19       # TV builds older than this ignore the manifest
+max_channels = 500
+first_service_id = 9502    # new channels get the next unused service ID from here
+
+[network]
+# Plain-HTTP streams are rejected except on these hosts (must match the TV's network config).
+http_allowed_hosts = ["sivantv.livebox.co.in"]
+probe_workers = 8
+timeout_seconds = 7
+
+[classification]
+# iptv-org channel metadata (is_nsfw, religious category) used by the content policy.
+source = "https://iptv-org.github.io/api/channels.json"
+
+# ---------------------------------------------------------------- policy
+
+[policy]
+# Owner removals: every feed/quality variant of these base IDs is excluded.
+excluded_ids = [
+  "DhoolTV.in", "EETTV.ca", "MKSix.in", "MNaduTV.in", "MeiAlaiTV.in", "MoonTV.in",
+  "TamilVisionTV.ca", "ThendralTV.in", "VaanavilTV.in", "AMNTV.in",
+]
+# Religious channels are excluded unless their base ID is listed here (reviewed Hindu devotional).
+allowed_devotional_ids = [
+  "AasthaTamil.in", "BhagyamTV.in", "IBCBakthi.uk", "OMTV.in",
+  "SaiTV.in", "SairamTV.in", "SankaraTV.in", "SivanTV.ch", "SVBC2.in",
+]
+# Treated as religious even when the source classification says otherwise.
+religious_override_ids = ["VerbumTV.lk", "SaiTV.in"]
+# Channels absent from the classification source are excluded until reviewed.
+require_classification = true
+
+# ---------------------------------------------------------------- languages
+# Language order is tab order on the TV. Category order below is row order.
+
+[[languages]]
+id = "ta"
+name = "Tamil"
+audio = ["ta", "tam"]
+source = "https://iptv-org.github.io/iptv/languages/tam.m3u"
+selection = "all"            # every source channel, subject to policy
+keep_feed_suffix = true      # IDs keep "@SD"/"@HD" (existing TV identities)
+fallback_category = "ta-other"
+
+[[languages]]
+id = "en"
+name = "English"
+audio = ["en", "eng"]
+source = "https://iptv-org.github.io/iptv/languages/eng.m3u"
+selection = "listed"         # only IDs listed in this language's categories
+keep_feed_suffix = false     # IDs are canonical base IDs
+fallback_category = "en-entertainment"
+
+# ---------------------------------------------------------------- categories
+# For selection="all": a channel goes to the first category in `classify_order` whose
+#   `ids` contain its base ID or whose `tags` match a source group token; else fallback.
+# For selection="listed": `ids` both select and categorise channels.
+# `pinned` IDs lead the row in that order; the rest sort by name.
+
+[[categories]]
+id = "ta-music"
+language = "ta"
+name = "Music"
+tags = ["music"]
+pinned = ["IsaiAruvi.in", "RajMusixTamil.in", "VijayTakkar.in", "7SMusic.in", "PeppersTV.in",
+          "Tunes6.in", "UltimateTV.in", "SanaPlus.in", "AaryaaTV.in"]
+
+[[categories]]
+id = "ta-entertainment"
+language = "ta"
+name = "Entertainment & comedy"
+tags = ["entertainment", "comedy", "movies", "general"]
+ids = ["SunTV.in", "KalaignarTV.in", "SirippoliTV.in", "StarVijay.in", "ZeeTamil.in",
+       "ColorsTamil.in", "RajTV.in", "PolimerTV.in", "KalaignarMurasu.in"]
+pinned = ["SunTV.in", "KalaignarTV.in", "SirippoliTV.in", "StarVijay.in", "ZeeTamil.in",
+          "ColorsTamil.in", "RajTV.in", "PolimerTV.in", "KalaignarMurasu.in"]
+
+[[categories]]
+id = "ta-news"
+language = "ta"
+name = "News"
+tags = ["news"]
+
+[[categories]]
+id = "ta-other"
+language = "ta"
+name = "Other"
+
+[[categories]]
+id = "ta-devotional"
+language = "ta"
+name = "Hindu devotional"
+tags = ["religious", "devotional"]
+ids = ["AasthaTamil.in", "BhagyamTV.in", "IBCBakthi.uk", "OMTV.in", "SaiTV.in",
+       "SairamTV.in", "SankaraTV.in", "SivanTV.ch", "SVBC2.in"]
+
+[[categories]]
+id = "en-entertainment"
+language = "en"
+name = "Entertainment & comedy"
+ids = ["MrBeanLiveAction.uk", "JustforLaughsGags.us", "AFV.us", "FailArmy.us", "ThePetCollective.us",
+       "DryBarComedyPlus.us", "TheBobRossChannel.us", "DoveChannel.us", "ComedyCentral.us",
+       "AXNWhite.us", "MTVGlobal.uk"]
+
+[[categories]]
+id = "en-movies"
+language = "en"
+name = "Movies"
+ids = ["RakutenTVFamilyMovies.es", "RakutenTVComedyMovies.es", "RakutenTVActionMovies.es",
+       "RakutenTVDramaMovies.es", "HBO.us", "HBOAsia.sg", "HBOFamilyAsia.sg", "HBOHitsAsia.sg",
+       "HBOSignatureAsia.sg", "SonyPix.in", "MoviesNow.in", "AXNAdria.us", "AXNBlack.us",
+       "AXNCEE.es", "AXNCrime.us", "WarnerTVAsia.us"]
+
+[[categories]]
+id = "en-cartoons"
+language = "en"
+name = "Cartoons & anime"
+ids = ["MrBeanAnimated.uk", "CartoonNetworkAsia.sg", "Boomerang.us", "NickelodeonGlobal.uk",
+       "DisneyChannel.in", "DisneyInternationalHD.in", "DisneyXD.us", "DisneyJunior.in",
+       "AnimaxAsia.sg", "DiscoveryKids.in", "NickJr.in"]
+
+[[categories]]
+id = "en-factual"
+language = "en"
+name = "Science, nature & history"
+ids = ["CuriosityNOW.de", "MagellanTVNow.us", "DocuBayTV.in", "Getfactual.us", "HistoryHit.uk",
+       "HistoryTV18.in", "AutenticHistory.de", "WildEarth.za", "NatureTime.ca", "TerraMaterWILD.de",
+       "Wonder.uk", "InWonder.nl", "UCTV.us", "DiscoveryChannel.in", "DiscoveryScience.in",
+       "NationalGeographic.us", "NationalGeographicWild.us", "AnimalPlanet.in", "BBCEarth.uk",
+       "SonyBBCEarth.in", "History.us", "DiscoveryHistory.uk", "TLC.in", "TravelChannel.pl"]
+
+[[categories]]
+id = "en-sports"
+language = "en"
+name = "Sports"
+ids = ["SonySportsTen1.in", "SonySportsTen2.in", "SonySportsTen5.in", "StarSports2.in",
+       "StarSports3.in", "StarSportsSelect1.in", "StarSportsSelect2.in", "DDSports.in", "Willow.us",
+       "WillowSports.us", "TenCricket.in", "ESPN.us", "ESPN2.us", "Eurosport.in", "FoxSports1.us",
+       "FoxSports2.us", "SkySportsF1.uk", "RedBullTV.at", "beINSPORTSXTRA.us", "WWENetwork.us",
+       "DiscoveryTurbo.in"]
+
+[[categories]]
+id = "en-music"
+language = "en"
+name = "Music"
+ids = ["MTVClassic.us", "MTVLive.us", "MTVBiggestPop.us"]
+
+[classify_order]
+# Rule evaluation order for selection="all" languages (devotional wins over music, etc.).
+ta = ["ta-devotional", "ta-music", "ta-news", "ta-entertainment"]
+
+# ---------------------------------------------------------------- overrides & manual channels
+# Per-channel tweaks, keyed by full channel ID. Supported keys: name, logo, category,
+# url (forces this stream), unavailable ("reason": keep listed but not playable),
+# disabled (true hides the channel entirely).
+#
+# The generator probes streams from GitHub's US servers. These pass there but fail from India
+# (the TV's own checks on 2026-11-04), so they stay unavailable until re-verified on the TV.
+[overrides."FoxSports2.us"]
+unavailable = "Fails from India (TV check 2026-11-04: timeout)"
+
+[overrides."WillowSports.us"]
+unavailable = "Fails from India (TV check 2026-11-04: HTTP 403)"
+
+#
+# [overrides."SunTV.in@HD"]
+# name = "Sun TV"
+#
+# Channels not in any source:
+# [[manual]]
+# id = "MyChannel.in"
+# name = "My Channel"
+# language = "ta"
+# category = "ta-entertainment"
+# url = "https://example.com/live/master.m3u8"
+# logo = "https://example.com/logo.png"
