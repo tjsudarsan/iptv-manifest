@@ -1,7 +1,7 @@
 {
- "version": 1,
- "content_hash": "9fccbf3ac94cd9771df8fd37aeb253c201802a3a625d84b25d6fd458db5a8532",
- "generated_at": "2026-11-05T04:00:42Z",
+ "version": 2,
+ "content_hash": "45e35213a71a97cc1e7b6a9d020a03d55a520a4cbbfde6a9e9700bc2b0f9ac68",
+ "generated_at": "2026-11-05T14:46:06Z",
  "service_ids": {
   "7SMusic.in@SD": 9502,
   "AFV.us": 9628,
@@ -510,8 +510,8 @@
    "available": true
   },
   "MTVBiggestPop.us": {
-   "url": "",
-   "available": false
+   "url": "https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8",
+   "available": true
   },
   "MTVClassic.us": {
    "url": "",

@@ -1,6 +1,6 @@
 # Live TV manifest report
 
-Version 1 · generated 2026-11-05T04:00:42Z · 88 channels, 96 unavailable, 28 excluded
+Version 2 · generated 2026-11-05T14:46:06Z · 89 channels, 95 unavailable, 28 excluded
 
 ## Tamil
 
@@ -26,23 +26,25 @@ Version 1 · generated 2026-11-05T04:00:42Z · 88 channels, 96 unavailable, 28 e
 
 **Sports** 86–88: 86 beIN SPORTS XTRA (1080p), 87 DD Sports HD (1080p), 88 Red Bull TV (1080p)
 
+**Music** 89–89: 89 MTV Biggest Pop (1080p)
+
 ## Unavailable
 
 - Vijay Takkar APAC (1080p) (VijayTakkar.in@APAC, Music): Not an HLS playlist
 - Zee Tamil (576p) [Geo-blocked] (ZeeTamil.in@SD, Entertainment & comedy): HTTP 403
 - Aathavan TV (720p) (AathavanTV.uk@SD, Entertainment & comedy): Not an HLS playlist
-- Asia TV (720p) (AsiaTV.lk@HD, Entertainment & comedy): [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1035)
+- Asia TV (720p) (AsiaTV.lk@HD, Entertainment & comedy): [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1011)
 - DD Tamil (576p) (DDTamil.in@SD, Entertainment & comedy): Requires additional request headers
 - Discovery Channel (India) (720p) (DiscoveryChannel.in@SD, Entertainment & comedy): Encrypted stream; not checked
 - Discovery Channel (India) HD (720p) (DiscoveryChannel.in@HD, Entertainment & comedy): Encrypted stream; not checked
 - IBC Tamil (1080p) (IBCTamil.uk@SD, Entertainment & comedy): [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ibc.massstream.net'. (_ssl.c:10
 - Jaya Plus (576p) (JayaPlus.in@SD, Entertainment & comedy): HTTP 404
-- Monara TV (720p) [Not 24/7] (MonaraTV.lk@SD, Entertainment & comedy): [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1035)
+- Monara TV (720p) [Not 24/7] (MonaraTV.lk@SD, Entertainment & comedy): [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)
 - Movies Now HD (1080p) (MoviesNow.in@HD, Entertainment & comedy): Unsupported stream address
-- NDTV LANKA (1080p) (NDTVLANKA.lk@SD, Entertainment & comedy): [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1035)
+- NDTV LANKA (1080p) (NDTVLANKA.lk@SD, Entertainment & comedy): [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)
 - Okey [Geo-blocked] (Okey.my@SD, Entertainment & comedy): Requires additional request headers
 - Sony Pix HD (1080p) (SonyPix.in@HD, Entertainment & comedy): Unsupported stream address
-- Star Tamil Television (360p) (StarTamilTelevision.lk@SD, Entertainment & comedy): _ssl.c:1018: The handshake operation timed out
+- Star Tamil Television (360p) (StarTamilTelevision.lk@SD, Entertainment & comedy): timed out
 - Suriyan TV (576p) (SuriyanTV.in@SD, Entertainment & comedy): [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'stream.sscloud7.com'. (_ssl.c:1
 - TV2 (Malaysia) (1080p) (TV2.my@SD, Entertainment & comedy): Unsupported stream address
 - Berita RTM [Geo-blocked] (BeritaRTM.my@SD, News): Requires additional request headers
@@ -121,7 +123,6 @@ Version 1 · generated 2026-11-05T04:00:42Z · 88 channels, 96 unavailable, 28 e
 - Willow (720p) (Willow.us, Sports): Unsupported stream address
 - Willow Sports (1080p) (WillowSports.us, Sports): Fails from India (TV check 2026-11-04: HTTP 403)
 - WWE Network (1080p) (WWENetwork.us, Sports): Unsupported stream address
-- MTV Biggest Pop (1080p) (MTVBiggestPop.us, Music): Encrypted stream; not checked
 - MTV Classic CA (720p) (MTVClassic.us, Music): Encrypted stream; not checked
 - MTV Live (720p) (MTVLive.us, Music): Unsupported stream address
 
