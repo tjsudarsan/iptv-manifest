@@ -1,6 +1,6 @@
 # Live TV manifest report
 
-Version 3 · generated 2026-11-06T06:58:07Z · 90 channels, 94 unavailable, 28 excluded
+Version 4 · generated 2026-11-06T13:45:56Z · 90 channels, 94 unavailable, 28 excluded
 
 ## Tamil
 

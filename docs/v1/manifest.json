@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "version": 3,
- "generated_at": "2026-11-06T06:58:07Z",
+ "version": 4,
+ "generated_at": "2026-11-06T13:45:56Z",
  "min_app_version": 19,
  "refresh_minutes": 360,
  "languages": [
@@ -32,6 +32,11 @@
    "id": "ta-entertainment",
    "language": "ta",
    "name": "Entertainment & comedy"
+  },
+  {
+   "id": "ta-sun",
+   "language": "ta",
+   "name": "Sun network (Sun NXT)"
   },
   {
    "id": "ta-news",
@@ -1545,6 +1550,62 @@
    "name": "MTV Live (720p)",
    "language": "en",
    "category": "en-music"
+  }
+ ],
+ "shortcuts": [
+  {
+   "id": "sunnxt.KTV.in",
+   "name": "KTV",
+   "language": "ta",
+   "category": "ta-sun",
+   "app": "com.suntv.sunnxt",
+   "uri": "",
+   "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/KTV_HD.png"
+  },
+  {
+   "id": "sunnxt.SunMusic.in",
+   "name": "Sun Music",
+   "language": "ta",
+   "category": "ta-sun",
+   "app": "com.suntv.sunnxt",
+   "uri": "",
+   "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Music_HD.png"
+  },
+  {
+   "id": "sunnxt.AdithyaTV.in",
+   "name": "Adithya TV",
+   "language": "ta",
+   "category": "ta-sun",
+   "app": "com.suntv.sunnxt",
+   "uri": "",
+   "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Adithya_TV.png"
+  },
+  {
+   "id": "sunnxt.ChuttiTV.in",
+   "name": "Chutti TV",
+   "language": "ta",
+   "category": "ta-sun",
+   "app": "com.suntv.sunnxt",
+   "uri": "",
+   "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Chutti_TV.png"
+  },
+  {
+   "id": "sunnxt.SunLife.in",
+   "name": "Sun Life",
+   "language": "ta",
+   "category": "ta-sun",
+   "app": "com.suntv.sunnxt",
+   "uri": "",
+   "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Life.png"
+  },
+  {
+   "id": "sunnxt.SunNews.in",
+   "name": "Sun News",
+   "language": "ta",
+   "category": "ta-sun",
+   "app": "com.suntv.sunnxt",
+   "uri": "",
+   "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sun_News.png"
   }
  ]
 }
