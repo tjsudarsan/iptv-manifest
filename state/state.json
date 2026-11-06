@@ -1,7 +1,7 @@
 {
- "version": 2,
- "content_hash": "45e35213a71a97cc1e7b6a9d020a03d55a520a4cbbfde6a9e9700bc2b0f9ac68",
- "generated_at": "2026-11-05T14:46:06Z",
+ "version": 3,
+ "content_hash": "11e4cff3563907de716e43e2fd64c58fb1aaf640744a01cf015168c5cf42ad3e",
+ "generated_at": "2026-11-06T06:58:07Z",
  "service_ids": {
   "7SMusic.in@SD": 9502,
   "AFV.us": 9628,
@@ -598,7 +598,7 @@
    "available": true
   },
   "News7Tamil.in@SD": {
-   "url": "https://segment.yuppcdn.net/240122/news7/playlist.m3u8",
+   "url": "https://cdn.pishow.tv/ott/live/1498/master.m3u8",
    "available": true
   },
   "NewsJ.in@SD": {
@@ -642,7 +642,7 @@
    "available": false
   },
   "PolimerNews.in@SD": {
-   "url": "https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8",
+   "url": "https://cdn.pishow.tv/ott/live/1245/master.m3u8",
    "available": true
   },
   "PolimerTV.in@SD": {
@@ -650,7 +650,7 @@
    "available": true
   },
   "PuthiyaThalaimurai.in@SD": {
-   "url": "https://mumt07.tangotv.in/zHjX9OFlPUTHIYAEXPRESS/index.m3u8",
+   "url": "https://cdn.pishow.tv/ott/live/1261/master.m3u8",
    "available": true
   },
   "PuthiyaThalaimuraiExpress.in@SD": {
@@ -670,7 +670,7 @@
    "available": true
   },
   "RajTV.in@SD": {
-   "url": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RAJTV/master_1.m3u8",
+   "url": "https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/b8640d6b-d131-4401-9451-944e1e65fe79/0.m3u8",
    "available": true
   },
   "RakutenTVActionMovies.es": {
@@ -698,11 +698,11 @@
    "available": true
   },
   "SaiTV.in@SD": {
-   "url": "https://mumbai-edge.smartplaytv.in/SaiTV/index.m3u8",
+   "url": "https://cdn.pishow.tv/ott/live/1235/master.m3u8",
    "available": true
   },
   "SairamTV.in@SD": {
-   "url": "https://mumt04.tangotv.in/m18aqlK4SAIRAMTV/index.m3u8",
+   "url": "https://cdn.pishow.tv/ott/live/1611/master.m3u8",
    "available": true
   },
   "SanaPlus.in@SD": {
@@ -714,7 +714,7 @@
    "available": true
   },
   "SankaraTV.in@SD": {
-   "url": "https://mumt05.tangotv.in/87NeALx2SRISANKARA/index.m3u8",
+   "url": "https://mumbai-edge.smartplaytv.in/SriSankara/index.m3u8",
    "available": true
   },
   "SathiyamTV.in@SD": {
@@ -818,8 +818,8 @@
    "available": true
   },
   "SuriyanTV.in@SD": {
-   "url": "",
-   "available": false
+   "url": "https://hlslive.olidigital.in/suriyantv/suriyantv/index.m3u8",
+   "available": true
   },
   "TLC.in": {
    "url": "",
@@ -894,7 +894,7 @@
    "available": true
   },
   "VelichamTV.in@SD": {
-   "url": "https://mumt05.tangotv.in/87NeALx2VALICHAMPLUS/index.m3u8",
+   "url": "https://mumbai-edge.smartplaytv.in/Velichamtv/index.m3u8",
    "available": true
   },
   "VendharTV.in@SD": {
