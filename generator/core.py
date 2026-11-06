@@ -256,6 +256,19 @@ def build_manifest(config: dict, layout: Layout, rows: list[Resolved], service_i
     # Reasons stay in the report: they fluctuate between runs and would bump the version needlessly.
     unavailable = [{"id": r.id, "name": r.name, "language": r.language, "category": r.category}
                    for r in ordered if not r.available]
+    shortcuts = []
+    for sc in config.get("shortcuts", []):
+        cat = layout.by_id.get(sc.get("category"))
+        if cat is None or not re.fullmatch(r"[a-z][a-z0-9_]*(\.[a-z0-9_]+)+", sc.get("app", "")):
+            raise ValueError(f"Invalid shortcut {sc.get('id')}")
+        uri = sc.get("uri", "")
+        if uri and not re.match(r"^(https://|[a-z][a-z0-9+.-]*://)", uri) or re.match(r"^(intent|file|content|javascript):", uri):
+            raise ValueError(f"Invalid shortcut link {sc.get('id')}")
+        shortcuts.append({"id": sc["id"], "name": sc["name"], "language": cat["language"], "category": cat["id"],
+                          "app": sc["app"], "uri": uri, "logo": sc.get("logo", "") if logo_allowed(sc.get("logo", "")) else ""})
+    if len({s["id"] for s in shortcuts} | {c["id"] for c in channels} | {u["id"] for u in unavailable}) != \
+            len(shortcuts) + len(channels) + len(unavailable):
+        raise ValueError("Shortcut ID collides with a channel")
     if len(channels) + len(unavailable) > config["publish"]["max_channels"]:
         raise ValueError("Too many channels")
     if not channels:
@@ -270,4 +283,5 @@ def build_manifest(config: dict, layout: Layout, rows: list[Resolved], service_i
         "categories": [{"id": c["id"], "language": c["language"], "name": c["name"]} for c in layout.categories],
         "channels": channels,
         "unavailable": unavailable,
+        "shortcuts": shortcuts,
     }

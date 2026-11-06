@@ -134,6 +134,18 @@ class GenerateTest(unittest.TestCase):
         # Category list always contains every configured row, in TV row order.
         self.assertEqual([c["id"] for c in CONFIG["categories"]], [c["id"] for c in manifest["categories"]])
 
+    def test_shortcuts_are_published_and_validated(self):
+        manifest, _, _, _ = self.run_once(empty_state())
+        ktv = next(s for s in manifest["shortcuts"] if s["id"] == "sunnxt.KTV.in")
+        self.assertEqual(("ta", "ta-sun", "com.suntv.sunnxt"), (ktv["language"], ktv["category"], ktv["app"]))
+        self.assertIn("ta-sun", [c["id"] for c in manifest["categories"]])
+        import copy
+        bad = copy.deepcopy(CONFIG)
+        bad["shortcuts"][0]["uri"] = "intent://evil#Intent;end"
+        with self.assertRaises(ValueError):
+            core.build_manifest(bad, LAYOUT, [core.Resolved("A", "A", "ta", "ta-music", "", "https://x.example/a.m3u8", True, "")],
+                                {"A": 1}, 1, "now")
+
     def test_rerun_without_changes_keeps_version(self):
         manifest, state, _, _ = self.run_once(empty_state())
         again, state2, _, changed = self.run_once(state)
