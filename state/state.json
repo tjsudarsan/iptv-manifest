@@ -1,7 +1,7 @@
 {
- "version": 5,
- "content_hash": "7e60ed42ce345d0bc653d47cf8773e64bcaf51ddd0f680649fed7dcdfeeff031",
- "generated_at": "2026-11-07T06:10:29Z",
+ "version": 6,
+ "content_hash": "52e7aefa0a9fe13e8e620d0248ebe764cc01b32bfe2bc5d60681427ed05071c1",
+ "generated_at": "2026-11-08T06:15:34Z",
  "service_ids": {
   "7SMusic.in@SD": 9502,
   "AFV.us": 9628,
@@ -248,10 +248,6 @@
    "url": "",
    "available": false
   },
-  "AXNWhite.us": {
-   "url": "",
-   "available": false
-  },
   "AaryaaTV.in@SD": {
    "url": "https://stream.ottlive.co.in/aryatvtamil/index.m3u8",
    "available": true
@@ -385,18 +381,6 @@
    "available": false
   },
   "DisneyChannel.in@HD": {
-   "url": "",
-   "available": false
-  },
-  "DisneyInternationalHD.in": {
-   "url": "",
-   "available": false
-  },
-  "DisneyJunior.in": {
-   "url": "",
-   "available": false
-  },
-  "DisneyJunior.in@SD": {
    "url": "",
    "available": false
   },
@@ -768,17 +752,9 @@
    "url": "",
    "available": false
   },
-  "SonyPix.in": {
-   "url": "",
-   "available": false
-  },
-  "SonyPix.in@HD": {
-   "url": "",
-   "available": false
-  },
   "SonyYay.in@SD": {
-   "url": "",
-   "available": false
+   "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
+   "available": true
   },
   "SooriyanTV.ca@SD": {
    "url": "https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8",
@@ -791,14 +767,6 @@
   "StarMoviesSelect.in@HD": {
    "url": "https://livetv.shamon-cable.net:8443/Star-movies-select/index.m3u8",
    "available": true
-  },
-  "StarSports2.in": {
-   "url": "",
-   "available": false
-  },
-  "StarSports2.in@SD": {
-   "url": "",
-   "available": false
   },
   "StarSportsSelect2.in": {
    "url": "",
@@ -912,10 +880,6 @@
    "url": "",
    "available": false
   },
-  "WWENetwork.us": {
-   "url": "",
-   "available": false
-  },
   "WarnerTVAsia.us": {
    "url": "",
    "available": false
@@ -958,7 +922,7 @@
   }
  },
  "source_counts": {
-  "ta": 132,
-  "en": 79
+  "ta": 129,
+  "en": 73
  }
 }
