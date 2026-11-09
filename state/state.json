@@ -1,7 +1,7 @@
 {
- "version": 6,
- "content_hash": "52e7aefa0a9fe13e8e620d0248ebe764cc01b32bfe2bc5d60681427ed05071c1",
- "generated_at": "2026-11-08T06:15:34Z",
+ "version": 7,
+ "content_hash": "5cf3f5a1960479f2afcff4d5ecf54e98f66c02bdc154a691eed6f8444e8c35c8",
+ "generated_at": "2026-11-09T06:48:58Z",
  "service_ids": {
   "7SMusic.in@SD": 9502,
   "AFV.us": 9628,
@@ -744,14 +744,6 @@
    "url": "",
    "available": false
   },
-  "SonyBBCEarth.in": {
-   "url": "",
-   "available": false
-  },
-  "SonyBBCEarth.in@HD": {
-   "url": "",
-   "available": false
-  },
   "SonyYay.in@SD": {
    "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
    "available": true
@@ -763,10 +755,6 @@
   "StarMovies.in@HD": {
    "url": "",
    "available": false
-  },
-  "StarMoviesSelect.in@HD": {
-   "url": "https://livetv.shamon-cable.net:8443/Star-movies-select/index.m3u8",
-   "available": true
   },
   "StarSportsSelect2.in": {
    "url": "",
@@ -922,7 +910,7 @@
   }
  },
  "source_counts": {
-  "ta": 129,
-  "en": 73
+  "ta": 127,
+  "en": 72
  }
 }
