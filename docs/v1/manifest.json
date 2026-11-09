@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "version": 7,
- "generated_at": "2026-11-09T06:48:58Z",
+ "version": 8,
+ "generated_at": "2026-11-09T22:29:50Z",
  "min_app_version": 19,
  "refresh_minutes": 360,
  "languages": [
@@ -796,9 +796,19 @@
    "url": "https://the-pet-collective-international-dk.samsung.wurl.tv/playlist.m3u8"
   },
   {
+   "id": "RakutenTVActionMovies.es",
+   "service_id": 9685,
+   "number": "72",
+   "name": "Rakuten TV Action Movies UK (1080p)",
+   "language": "en",
+   "category": "en-movies",
+   "logo": "https://i.imgur.com/Meew6eX.png",
+   "url": "https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8"
+  },
+  {
    "id": "RakutenTVDramaMovies.es",
    "service_id": 9687,
-   "number": "72",
+   "number": "73",
    "name": "Rakuten TV Drama Movies UK (1080p)",
    "language": "en",
    "category": "en-movies",
@@ -808,7 +818,7 @@
   {
    "id": "AnimaxAsia.sg",
    "service_id": 9635,
-   "number": "73",
+   "number": "74",
    "name": "Animax Asia India (1080p) [Geo-blocked]",
    "language": "en",
    "category": "en-cartoons",
@@ -818,7 +828,7 @@
   {
    "id": "MrBeanAnimated.uk",
    "service_id": 9678,
-   "number": "74",
+   "number": "75",
    "name": "Mr Bean Animated (1080p)",
    "language": "en",
    "category": "en-cartoons",
@@ -828,7 +838,7 @@
   {
    "id": "AutenticHistory.de",
    "service_id": 9636,
-   "number": "75",
+   "number": "76",
    "name": "Autentic History (1080p)",
    "language": "en",
    "category": "en-factual",
@@ -838,7 +848,7 @@
   {
    "id": "BBCEarth.uk",
    "service_id": 9637,
-   "number": "76",
+   "number": "77",
    "name": "BBC Earth US (1080p)",
    "language": "en",
    "category": "en-factual",
@@ -848,7 +858,7 @@
   {
    "id": "CuriosityNOW.de",
    "service_id": 9641,
-   "number": "77",
+   "number": "78",
    "name": "Curiosity NOW EN (1080p)",
    "language": "en",
    "category": "en-factual",
@@ -858,7 +868,7 @@
   {
    "id": "DocuBayTV.in",
    "service_id": 9652,
-   "number": "78",
+   "number": "79",
    "name": "DocuBay TV (1080p)",
    "language": "en",
    "category": "en-factual",
@@ -868,7 +878,7 @@
   {
    "id": "Getfactual.us",
    "service_id": 9661,
-   "number": "79",
+   "number": "80",
    "name": "Get.factual (720p)",
    "language": "en",
    "category": "en-factual",
@@ -878,7 +888,7 @@
   {
    "id": "HistoryHit.uk",
    "service_id": 9668,
-   "number": "80",
+   "number": "81",
    "name": "History Hit (1080p)",
    "language": "en",
    "category": "en-factual",
@@ -888,7 +898,7 @@
   {
    "id": "HistoryTV18.in",
    "service_id": 9669,
-   "number": "81",
+   "number": "82",
    "name": "History TV18 HD (1080p) [Geo-blocked]",
    "language": "en",
    "category": "en-factual",
@@ -898,7 +908,7 @@
   {
    "id": "InWonder.nl",
    "service_id": 9670,
-   "number": "82",
+   "number": "83",
    "name": "InWonder (1080p)",
    "language": "en",
    "category": "en-factual",
@@ -908,7 +918,7 @@
   {
    "id": "MagellanTVNow.us",
    "service_id": 9676,
-   "number": "83",
+   "number": "84",
    "name": "MagellanTV Now (1080p)",
    "language": "en",
    "category": "en-factual",
@@ -918,7 +928,7 @@
   {
    "id": "NatureTime.ca",
    "service_id": 9682,
-   "number": "84",
+   "number": "85",
    "name": "NatureTime AU (1080p)",
    "language": "en",
    "category": "en-factual",
@@ -928,7 +938,7 @@
   {
    "id": "UCTV.us",
    "service_id": 9706,
-   "number": "85",
+   "number": "86",
    "name": "UCTV (720p) [Not 24/7]",
    "language": "en",
    "category": "en-factual",
@@ -938,7 +948,7 @@
   {
    "id": "WildEarth.za",
    "service_id": 9709,
-   "number": "86",
+   "number": "87",
    "name": "WildEarth (1080p)",
    "language": "en",
    "category": "en-factual",
@@ -948,7 +958,7 @@
   {
    "id": "Wonder.uk",
    "service_id": 9712,
-   "number": "87",
+   "number": "88",
    "name": "Wonder (1080p)",
    "language": "en",
    "category": "en-factual",
@@ -958,7 +968,7 @@
   {
    "id": "beINSPORTSXTRA.us",
    "service_id": 9713,
-   "number": "88",
+   "number": "89",
    "name": "beIN SPORTS XTRA (1080p)",
    "language": "en",
    "category": "en-sports",
@@ -968,7 +978,7 @@
   {
    "id": "DDSports.in",
    "service_id": 9642,
-   "number": "89",
+   "number": "90",
    "name": "DD Sports HD (1080p)",
    "language": "en",
    "category": "en-sports",
@@ -978,7 +988,7 @@
   {
    "id": "Eurosport.in",
    "service_id": 9657,
-   "number": "90",
+   "number": "91",
    "name": "Eurosport (India) HD (1080p)",
    "language": "en",
    "category": "en-sports",
@@ -988,7 +998,7 @@
   {
    "id": "RedBullTV.at",
    "service_id": 9689,
-   "number": "91",
+   "number": "92",
    "name": "Red Bull TV (1080p)",
    "language": "en",
    "category": "en-sports",
@@ -998,7 +1008,7 @@
   {
    "id": "MTVBiggestPop.us",
    "service_id": 9672,
-   "number": "92",
+   "number": "93",
    "name": "MTV Biggest Pop (1080p)",
    "language": "en",
    "category": "en-music",
@@ -1292,12 +1302,6 @@
   {
    "id": "MoviesNow.in",
    "name": "Movies Now HD (1080p)",
-   "language": "en",
-   "category": "en-movies"
-  },
-  {
-   "id": "RakutenTVActionMovies.es",
-   "name": "Rakuten TV Action Movies Finland (1080p)",
    "language": "en",
    "category": "en-movies"
   },
