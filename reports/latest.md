@@ -1,6 +1,6 @@
 # Live TV manifest report
 
-Version 8 · generated 2026-11-09T22:29:50Z · 93 channels, 78 unavailable, 28 excluded
+Version 9 · generated 2026-11-10T16:30:03Z · 94 channels, 77 unavailable, 28 excluded
 
 ## Tamil
 
@@ -18,15 +18,15 @@ Version 8 · generated 2026-11-09T22:29:50Z · 93 channels, 78 unavailable, 28 e
 
 **Entertainment & comedy** 65–71: 65 AFV (720p), 66 Dove Channel (1080p), 67 Dry Bar Comedy+ (720p), 68 FailArmy (720p), 69 Just for Laughs Gags (1080p), 70 Mr Bean Live Action (1080p), 71 The Pet Collective (720p)
 
-**Movies** 72–73: 72 Rakuten TV Action Movies UK (1080p), 73 Rakuten TV Drama Movies UK (1080p)
+**Movies** 72–74: 72 Rakuten TV Action Movies UK (1080p), 73 Rakuten TV Drama Movies UK (1080p), 74 Rakuten TV Family Movies UK (1080p)
 
-**Cartoons & anime** 74–75: 74 Animax Asia India (1080p) [Geo-blocked], 75 Mr Bean Animated (1080p)
+**Cartoons & anime** 75–76: 75 Animax Asia India (1080p) [Geo-blocked], 76 Mr Bean Animated (1080p)
 
-**Science, nature & history** 76–88: 76 Autentic History (1080p), 77 BBC Earth US (1080p), 78 Curiosity NOW EN (1080p), 79 DocuBay TV (1080p), 80 Get.factual (720p), 81 History Hit (1080p), 82 History TV18 HD (1080p) [Geo-blocked], 83 InWonder (1080p), 84 MagellanTV Now (1080p), 85 NatureTime AU (1080p), 86 UCTV (720p) [Not 24/7], 87 WildEarth (1080p), 88 Wonder (1080p)
+**Science, nature & history** 77–89: 77 Autentic History (1080p), 78 BBC Earth US (1080p), 79 Curiosity NOW EN (1080p), 80 DocuBay TV (1080p), 81 Get.factual (720p), 82 History Hit (1080p), 83 History TV18 HD (1080p) [Geo-blocked], 84 InWonder (1080p), 85 MagellanTV Now (1080p), 86 NatureTime AU (1080p), 87 UCTV (720p) [Not 24/7], 88 WildEarth (1080p), 89 Wonder (1080p)
 
-**Sports** 89–92: 89 beIN SPORTS XTRA (1080p), 90 DD Sports HD (1080p), 91 Eurosport (India) HD (1080p), 92 Red Bull TV (1080p)
+**Sports** 90–93: 90 beIN SPORTS XTRA (1080p), 91 DD Sports HD (1080p), 92 Eurosport (India) HD (1080p), 93 Red Bull TV (1080p)
 
-**Music** 93–93: 93 MTV Biggest Pop (1080p)
+**Music** 94–94: 94 MTV Biggest Pop (1080p)
 
 ## Unavailable
 
@@ -79,7 +79,6 @@ Version 8 · generated 2026-11-09T22:29:50Z · 93 channels, 78 unavailable, 28 e
 - HBO Signature Asia HD (1080p) (HBOSignatureAsia.sg, Movies): Unsupported stream address
 - Movies Now HD (1080p) (MoviesNow.in, Movies): Unsupported stream address
 - Rakuten TV Comedy Movies Finland (1080p) (RakutenTVComedyMovies.es, Movies): Encrypted stream; not checked
-- Rakuten TV Family Movies Finland (1080p) (RakutenTVFamilyMovies.es, Movies): Encrypted stream; not checked
 - Warner TV Asia (720p) (WarnerTVAsia.us, Movies): Requires additional request headers
 - Boomerang (720p) (Boomerang.us, Cartoons & anime): Unsupported stream address
 - Cartoon Network Asia (720p) (CartoonNetworkAsia.sg, Cartoons & anime): Unsupported stream address
