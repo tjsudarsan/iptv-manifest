@@ -87,12 +87,6 @@ ids = ["SunTV.in", "KalaignarTV.in", "SirippoliTV.in", "StarVijay.in", "ZeeTamil
 pinned = ["SunTV.in", "KalaignarTV.in", "SirippoliTV.in", "StarVijay.in", "ZeeTamil.in",
           "ColorsTamil.in", "RajTV.in", "PolimerTV.in", "KalaignarMurasu.in"]
 
-# App shortcuts (see [[shortcuts]] below); no stream or channel number.
-[[categories]]
-id = "ta-sun"
-language = "ta"
-name = "Sun network (Sun NXT)"
-
 [[categories]]
 id = "ta-news"
 language = "ta"
@@ -209,50 +203,4 @@ workers = 6
 # Tiles that open another installed app (usually straight to a live channel) instead of playing a stream.
 # Used for paid channels the owner already gets through a subscription app. `uri` is the app's own link
 # for that channel (empty: just open the app). No channel number; Channel +/- does not reach them.
-[[shortcuts]]
-id = "sunnxt.KTV.in"
-name = "KTV"
-category = "ta-sun"
-app = "com.suntv.sunnxt"
-uri = ""
-logo = "https://jiotvimages.cdn.jio.com/dare_images/images/KTV_HD.png"
-
-[[shortcuts]]
-id = "sunnxt.SunMusic.in"
-name = "Sun Music"
-category = "ta-sun"
-app = "com.suntv.sunnxt"
-uri = ""
-logo = "https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Music_HD.png"
-
-[[shortcuts]]
-id = "sunnxt.AdithyaTV.in"
-name = "Adithya TV"
-category = "ta-sun"
-app = "com.suntv.sunnxt"
-uri = ""
-logo = "https://jiotvimages.cdn.jio.com/dare_images/images/Adithya_TV.png"
-
-[[shortcuts]]
-id = "sunnxt.ChuttiTV.in"
-name = "Chutti TV"
-category = "ta-sun"
-app = "com.suntv.sunnxt"
-uri = ""
-logo = "https://jiotvimages.cdn.jio.com/dare_images/images/Chutti_TV.png"
-
-[[shortcuts]]
-id = "sunnxt.SunLife.in"
-name = "Sun Life"
-category = "ta-sun"
-app = "com.suntv.sunnxt"
-uri = ""
-logo = "https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Life.png"
-
-[[shortcuts]]
-id = "sunnxt.SunNews.in"
-name = "Sun News"
-category = "ta-sun"
-app = "com.suntv.sunnxt"
-uri = ""
-logo = "https://jiotvimages.cdn.jio.com/dare_images/images/Sun_News.png"
+# (Sun NXT shortcuts removed 2026-11-10 at the owner's request: Sun NXT opens its profile picker, not the channel.)

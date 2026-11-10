@@ -135,16 +135,18 @@ class GenerateTest(unittest.TestCase):
         self.assertEqual([c["id"] for c in CONFIG["categories"]], [c["id"] for c in manifest["categories"]])
 
     def test_shortcuts_are_published_and_validated(self):
-        manifest, _, _, _ = self.run_once(empty_state())
-        ktv = next(s for s in manifest["shortcuts"] if s["id"] == "sunnxt.KTV.in")
-        self.assertEqual(("ta", "ta-sun", "com.suntv.sunnxt"), (ktv["language"], ktv["category"], ktv["app"]))
-        self.assertIn("ta-sun", [c["id"] for c in manifest["categories"]])
         import copy
-        bad = copy.deepcopy(CONFIG)
-        bad["shortcuts"][0]["uri"] = "intent://evil#Intent;end"
+        cfg = copy.deepcopy(CONFIG)
+        cfg["shortcuts"] = [{"id": "app.KTV.in", "name": "KTV", "category": "ta-music", "app": "com.example.tv",
+                             "uri": "", "logo": ""}]
+        row = [core.Resolved("A", "A", "ta", "ta-music", "", "https://x.example/a.m3u8", True, "")]
+        m = core.build_manifest(cfg, LAYOUT, row, {"A": 1}, 1, "now")
+        self.assertEqual([("app.KTV.in", "ta", "ta-music", "com.example.tv")],
+                         [(x["id"], x["language"], x["category"], x["app"]) for x in m["shortcuts"]])
+        cfg["shortcuts"][0]["uri"] = "intent://evil#Intent;end"
         with self.assertRaises(ValueError):
-            core.build_manifest(bad, LAYOUT, [core.Resolved("A", "A", "ta", "ta-music", "", "https://x.example/a.m3u8", True, "")],
-                                {"A": 1}, 1, "now")
+            core.build_manifest(cfg, LAYOUT, row, {"A": 1}, 1, "now")
+        self.assertEqual([], core.build_manifest(CONFIG, LAYOUT, row, {"A": 1}, 1, "now")["shortcuts"])
 
     def test_rerun_without_changes_keeps_version(self):
         manifest, state, _, _ = self.run_once(empty_state())
