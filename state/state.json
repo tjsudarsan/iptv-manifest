@@ -1,7 +1,7 @@
 {
- "version": 9,
- "content_hash": "5c01e819f98b25fc3d5708f89a643a15697075f9f057b0d6a6cbe1e3e614f3ec",
- "generated_at": "2026-11-10T16:30:03Z",
+ "version": 10,
+ "content_hash": "63c1daf55f032997563caf870d14a962763187c265bf9b5f6186d64ad784b5c2",
+ "generated_at": "2026-11-11T06:41:04Z",
  "service_ids": {
   "7SMusic.in@SD": 9502,
   "AFV.us": 9628,
@@ -260,18 +260,6 @@
    "url": "",
    "available": false
   },
-  "AnimalPlanet.in": {
-   "url": "",
-   "available": false
-  },
-  "AnimalPlanet.in@HD": {
-   "url": "",
-   "available": false
-  },
-  "AnimalPlanet.in@SD": {
-   "url": "",
-   "available": false
-  },
   "AnimaxAsia.sg": {
    "url": "https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8",
    "available": true
@@ -297,10 +285,6 @@
    "available": true
   },
   "Boomerang.us": {
-   "url": "",
-   "available": false
-  },
-  "CartoonNetwork.in@SD": {
    "url": "",
    "available": false
   },
@@ -352,27 +336,7 @@
    "url": "",
    "available": false
   },
-  "DiscoveryChannel.in@SD": {
-   "url": "",
-   "available": false
-  },
   "DiscoveryHistory.uk": {
-   "url": "",
-   "available": false
-  },
-  "DiscoveryKids.in": {
-   "url": "",
-   "available": false
-  },
-  "DiscoveryKids.in@SD": {
-   "url": "",
-   "available": false
-  },
-  "DiscoveryScience.in": {
-   "url": "",
-   "available": false
-  },
-  "DiscoveryTurbo.in": {
    "url": "",
    "available": false
   },
@@ -784,10 +748,6 @@
    "url": "https://hlslive.olidigital.in/suriyantv/suriyantv/index.m3u8",
    "available": true
   },
-  "TLC.in": {
-   "url": "",
-   "available": false
-  },
   "TV2.my@SD": {
    "url": "",
    "available": false
@@ -910,7 +870,7 @@
   }
  },
  "source_counts": {
-  "ta": 127,
-  "en": 72
+  "ta": 122,
+  "en": 67
  }
 }

@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "version": 9,
- "generated_at": "2026-11-10T16:30:03Z",
+ "version": 10,
+ "generated_at": "2026-11-11T06:41:04Z",
  "min_app_version": 19,
  "refresh_minutes": 360,
  "languages": [
@@ -1053,12 +1053,6 @@
    "category": "ta-entertainment"
   },
   {
-   "id": "DiscoveryChannel.in@SD",
-   "name": "Discovery Channel (India) (720p)",
-   "language": "ta",
-   "category": "ta-entertainment"
-  },
-  {
    "id": "DiscoveryChannel.in@HD",
    "name": "Discovery Channel (India) HD (1080p)",
    "language": "ta",
@@ -1137,32 +1131,8 @@
    "category": "ta-news"
   },
   {
-   "id": "AnimalPlanet.in@SD",
-   "name": "Animal Planet (India) (720p)",
-   "language": "ta",
-   "category": "ta-other"
-  },
-  {
-   "id": "AnimalPlanet.in@HD",
-   "name": "Animal Planet (India) HD (720p)",
-   "language": "ta",
-   "category": "ta-other"
-  },
-  {
-   "id": "CartoonNetwork.in@SD",
-   "name": "Cartoon Network (India) (720p)",
-   "language": "ta",
-   "category": "ta-other"
-  },
-  {
    "id": "CartoonNetworkHDPlus.in@HD",
    "name": "Cartoon Network HD+ (1080p)",
-   "language": "ta",
-   "category": "ta-other"
-  },
-  {
-   "id": "DiscoveryKids.in@SD",
-   "name": "Discovery Kids (720p)",
    "language": "ta",
    "category": "ta-other"
   },
@@ -1192,7 +1162,7 @@
   },
   {
    "id": "Pogo.in@SD",
-   "name": "Pogo (720p)",
+   "name": "Pogo (576p)",
    "language": "ta",
    "category": "ta-other"
   },
@@ -1335,12 +1305,6 @@
    "category": "en-cartoons"
   },
   {
-   "id": "DiscoveryKids.in",
-   "name": "Discovery Kids (720p)",
-   "language": "en",
-   "category": "en-cartoons"
-  },
-  {
    "id": "DisneyChannel.in",
    "name": "Disney Channel (India) HD (1080p)",
    "language": "en",
@@ -1359,26 +1323,14 @@
    "category": "en-cartoons"
   },
   {
-   "id": "AnimalPlanet.in",
-   "name": "Animal Planet (India) (720p)",
-   "language": "en",
-   "category": "en-factual"
-  },
-  {
    "id": "DiscoveryChannel.in",
-   "name": "Discovery Channel (India) (720p)",
+   "name": "Discovery Channel (India) HD (1080p)",
    "language": "en",
    "category": "en-factual"
   },
   {
    "id": "DiscoveryHistory.uk",
    "name": "Discovery History",
-   "language": "en",
-   "category": "en-factual"
-  },
-  {
-   "id": "DiscoveryScience.in",
-   "name": "Discovery Science (720p)",
    "language": "en",
    "category": "en-factual"
   },
@@ -1407,22 +1359,10 @@
    "category": "en-factual"
   },
   {
-   "id": "TLC.in",
-   "name": "TLC (India) (720p)",
-   "language": "en",
-   "category": "en-factual"
-  },
-  {
    "id": "TravelChannel.pl",
    "name": "Travel Channel (Poland) (576i)",
    "language": "en",
    "category": "en-factual"
-  },
-  {
-   "id": "DiscoveryTurbo.in",
-   "name": "Discovery Turbo (India) (720p)",
-   "language": "en",
-   "category": "en-sports"
   },
   {
    "id": "ESPN.us",

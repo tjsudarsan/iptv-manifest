@@ -1,6 +1,6 @@
 # Live TV manifest report
 
-Version 9 · generated 2026-11-10T16:30:03Z · 94 channels, 77 unavailable, 28 excluded
+Version 10 · generated 2026-11-11T06:41:04Z · 94 channels, 67 unavailable, 28 excluded
 
 ## Tamil
 
@@ -35,7 +35,6 @@ Version 9 · generated 2026-11-10T16:30:03Z · 94 channels, 77 unavailable, 28 e
 - Aathavan TV (720p) (AathavanTV.uk@SD, Entertainment & comedy): Not an HLS playlist
 - Asia TV (720p) (AsiaTV.lk@HD, Entertainment & comedy): [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1011)
 - DD Tamil (576p) (DDTamil.in@SD, Entertainment & comedy): Requires additional request headers
-- Discovery Channel (India) (720p) (DiscoveryChannel.in@SD, Entertainment & comedy): HTTP 404
 - Discovery Channel (India) HD (1080p) (DiscoveryChannel.in@HD, Entertainment & comedy): Unsupported stream address
 - IBC Tamil (1080p) (IBCTamil.uk@SD, Entertainment & comedy): [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ibc.massstream.net'. (_ssl.c:10
 - Jaya Plus (576p) (JayaPlus.in@SD, Entertainment & comedy): HTTP 404
@@ -49,16 +48,12 @@ Version 9 · generated 2026-11-10T16:30:03Z · 94 channels, 77 unavailable, 28 e
 - TV2 (Malaysia) (1080p) (TV2.my@SD, Entertainment & comedy): Requires additional request headers
 - Berita RTM (1080p) (BeritaRTM.my@SD, News): Requires additional request headers
 - Zee Tamil News (720p) (ZeeTamilNews.in@SD, News): DNS lookup failed
-- Animal Planet (India) (720p) (AnimalPlanet.in@SD, Other): HTTP 404
-- Animal Planet (India) HD (720p) (AnimalPlanet.in@HD, Other): HTTP 404
-- Cartoon Network (India) (720p) (CartoonNetwork.in@SD, Other): HTTP 404
 - Cartoon Network HD+ (1080p) (CartoonNetworkHDPlus.in@HD, Other): Unsupported stream address
-- Discovery Kids (720p) (DiscoveryKids.in@SD, Other): HTTP 404
 - Disney Channel (India) HD (1080p) (DisneyChannel.in@HD, Other): Unsupported stream address
 - Hungama TV (576p) (HungamaTV.in@SD, Other): Unsupported stream address
 - National Geographic (India) HD (1080p) (NationalGeographic.in@HD, Other): Unsupported stream address
 - Nickelodeon (India) (576p) (Nickelodeon.in@SD, Other): Unsupported stream address
-- Pogo (720p) (Pogo.in@SD, Other): HTTP 404
+- Pogo (576p) (Pogo.in@SD, Other): Unsupported stream address
 - Sonic (576p) (Sonic.in@SD, Other): Unsupported stream address
 - Travelxp 4K HDR (2160p) [Geo-blocked] (Travelxp.in@4KHDR, Other): HTTP 403
 - Travelxp HD (1080p) [Geo-blocked] (Travelxp.in@HD, Other): HTTP 503
@@ -82,21 +77,16 @@ Version 9 · generated 2026-11-10T16:30:03Z · 94 channels, 77 unavailable, 28 e
 - Warner TV Asia (720p) (WarnerTVAsia.us, Movies): Requires additional request headers
 - Boomerang (720p) (Boomerang.us, Cartoons & anime): Unsupported stream address
 - Cartoon Network Asia (720p) (CartoonNetworkAsia.sg, Cartoons & anime): Unsupported stream address
-- Discovery Kids (720p) (DiscoveryKids.in, Cartoons & anime): HTTP 404
 - Disney Channel (India) HD (1080p) (DisneyChannel.in, Cartoons & anime): Unsupported stream address
 - Disney XD (United States) (720p) (DisneyXD.us, Cartoons & anime): Unsupported stream address
 - Nick Jr. (India) (576p) (NickJr.in, Cartoons & anime): Unsupported stream address
-- Animal Planet (India) (720p) (AnimalPlanet.in, Science, nature & history): HTTP 404
-- Discovery Channel (India) (720p) (DiscoveryChannel.in, Science, nature & history): Unsupported stream address
+- Discovery Channel (India) HD (1080p) (DiscoveryChannel.in, Science, nature & history): Unsupported stream address
 - Discovery History (DiscoveryHistory.uk, Science, nature & history): Unsupported stream address
-- Discovery Science (720p) (DiscoveryScience.in, Science, nature & history): HTTP 404
 - History (United States) (720p) (History.us, Science, nature & history): Unsupported stream address
 - National Geographic (United States) (720p) (NationalGeographic.us, Science, nature & history): Unsupported stream address
 - National Geographic Wild (United States) HD East (720p) (NationalGeographicWild.us, Science, nature & history): Unsupported stream address
 - Terra Mater WILD English (1080p) (TerraMaterWILD.de, Science, nature & history): DNS lookup failed
-- TLC (India) (720p) (TLC.in, Science, nature & history): HTTP 404
 - Travel Channel (Poland) (576i) (TravelChannel.pl, Science, nature & history): Unsupported stream address
-- Discovery Turbo (India) (720p) (DiscoveryTurbo.in, Sports): HTTP 404
 - ESPN (United States) (432p) (ESPN.us, Sports): Unsupported stream address
 - ESPN 2 (United States) HD (720p) (ESPN2.us, Sports): Unsupported stream address
 - Fox Sports 1 (720p) (FoxSports1.us, Sports): Unsupported stream address
