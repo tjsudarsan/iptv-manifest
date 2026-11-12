@@ -1,7 +1,7 @@
 {
- "version": 10,
- "content_hash": "63c1daf55f032997563caf870d14a962763187c265bf9b5f6186d64ad784b5c2",
- "generated_at": "2026-11-11T06:41:04Z",
+ "version": 11,
+ "content_hash": "649900238215bb050b83d1c3db68861ceb532b3b1dd037b137dfb9932a1d02d4",
+ "generated_at": "2026-11-12T07:22:46Z",
  "service_ids": {
   "7SMusic.in@SD": 9502,
   "AFV.us": 9628,
@@ -67,6 +67,7 @@
   "FailArmy.us": 9658,
   "FoxSports1.us": 9659,
   "FoxSports2.us": 9660,
+  "GemTV.in@SD": 9721,
   "Getfactual.us": 9661,
   "HBO.us": 9662,
   "HBOAsia.sg": 9663,
@@ -340,14 +341,6 @@
    "url": "",
    "available": false
   },
-  "DisneyChannel.in": {
-   "url": "",
-   "available": false
-  },
-  "DisneyChannel.in@HD": {
-   "url": "",
-   "available": false
-  },
   "DisneyXD.us": {
    "url": "",
    "available": false
@@ -388,6 +381,10 @@
    "url": "",
    "available": false
   },
+  "GemTV.in@SD": {
+   "url": "https://gemtv.circle7stream.com/gem/fcce47a8559e30755582c396ce7fce9e.sdp/playlist.m3u8",
+   "available": true
+  },
   "Getfactual.us": {
    "url": "https://d1nhni5l2n8hjt.cloudfront.net/gf.m3u8",
    "available": true
@@ -427,10 +424,6 @@
   "HistoryTV18.in@HD": {
    "url": "https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8",
    "available": true
-  },
-  "HungamaTV.in@SD": {
-   "url": "",
-   "available": false
   },
   "IBCBakthi.uk@SD": {
    "url": "",
@@ -520,10 +513,6 @@
    "url": "",
    "available": false
   },
-  "MoviesNowPlus.in@HD": {
-   "url": "",
-   "available": false
-  },
   "MrBeanAnimated.uk": {
    "url": "https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8",
    "available": true
@@ -547,10 +536,6 @@
   "NTCTV.in@SD": {
    "url": "https://galaxyott.live/hls/ntv.m3u8",
    "available": true
-  },
-  "NationalGeographic.in@HD": {
-   "url": "",
-   "available": false
   },
   "NationalGeographic.us": {
    "url": "",
@@ -716,10 +701,6 @@
    "url": "https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8",
    "available": true
   },
-  "StarMovies.in@HD": {
-   "url": "",
-   "available": false
-  },
   "StarSportsSelect2.in": {
    "url": "",
    "available": false
@@ -765,7 +746,7 @@
    "available": false
   },
   "ThalaaTV.in@HD": {
-   "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8",
+   "url": "https://streams2.sofast.tv/ptnr-khabriya/title-THALAA-TV-TAM_Khabriya/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c9d5c8a0-8c52-47bc-954d-e64a11314de2/manifest.m3u8",
    "available": true
   },
   "ThanthiOne.in@SD": {
@@ -870,7 +851,7 @@
   }
  },
  "source_counts": {
-  "ta": 122,
-  "en": 67
+  "ta": 118,
+  "en": 66
  }
 }

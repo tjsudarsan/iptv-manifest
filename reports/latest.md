@@ -1,6 +1,6 @@
 # Live TV manifest report
 
-Version 10 · generated 2026-11-11T06:41:04Z · 94 channels, 67 unavailable, 28 excluded
+Version 11 · generated 2026-11-12T07:22:46Z · 95 channels, 61 unavailable, 28 excluded
 
 ## Tamil
 
@@ -8,25 +8,25 @@ Version 10 · generated 2026-11-11T06:41:04Z · 94 channels, 67 unavailable, 28 
 
 **Entertainment & comedy** 9–33: 9 Sun TV HD (1080p), 10 Kalaignar TV (396p), 11 Sirippoli TV (576p), 12 Star Vijay UK (396p), 13 Zee Tamil HD (1080p), 14 Colors Tamil HD (720p), 15 Raj TV (1080p), 16 Polimer TV (720p), 17 Kalaignar Murasu (396p), 18 DD Tamil HD (1080p), 19 Makkal TV (576i), 20 Marutam TV (1080p), 21 NH Tamil Gold (1080p), 22 NTC TV (720p), 23 Oli TV (India) (1080p), 24 Raj Digital Plus (1080p), 25 Sana TV (1080p), 26 Sooriyan TV (1080p), 27 Subin TV (1080p), 28 Suriya TV (1080p), 29 Suriyan TV (576p), 30 Thalaa TV (1080p), 31 Thanthi One (576p), 32 Vasanth TV (576p), 33 Vendhar TV (576p)
 
-**News** 34–47: 34 Kalaignar Seithigal (576p), 35 Madhimugam TV (576p), 36 Malai Murasu TV (576p), 37 News 7 Tamil (576p), 38 News J (720p) [Not 24/7], 39 News Tamil 24x7 (1080p), 40 News18 Tamil Nadu (1080p), 41 Polimer News (576p), 42 Puthiya Thalaimurai (576p), 43 Puthiya Thalaimurai Express (720p), 44 Sathiyam TV (576p), 45 Tamil Janam (576p), 46 Thanthi TV (576p), 47 Velicham TV (576p)
+**News** 34–48: 34 Gem TV (720p), 35 Kalaignar Seithigal (576p), 36 Madhimugam TV (576p), 37 Malai Murasu TV (576p), 38 News 7 Tamil (576p), 39 News J (720p) [Not 24/7], 40 News Tamil 24x7 (1080p), 41 News18 Tamil Nadu (1080p), 42 Polimer News (576p), 43 Puthiya Thalaimurai (576p), 44 Puthiya Thalaimurai Express (720p), 45 Sathiyam TV (576p), 46 Tamil Janam (576p), 47 Thanthi TV (576p), 48 Velicham TV (576p)
 
-**Other** 48–56: 48 Chithiram (576p), 49 DD Sports HD (1080p), 50 History TV18 HD (1080p) [Geo-blocked], 51 Imai TV (1080p), 52 NDTV Good Times (1080p), 53 Puthuyugam TV (576p), 54 Shakthi TV (576p), 55 Sony Yay! (576p), 56 Tamilan TV (576p)
+**Other** 49–57: 49 Chithiram (576p), 50 DD Sports HD (1080p), 51 History TV18 HD (1080p) [Geo-blocked], 52 Imai TV (1080p), 53 NDTV Good Times (1080p), 54 Puthuyugam TV (576p), 55 Shakthi TV (576p), 56 Sony Yay! (576p), 57 Tamilan TV (576p)
 
-**Hindu devotional** 57–64: 57 Aastha Tamil (480p), 58 Bhagyam TV (1080p), 59 OM TV (576p), 60 Sai TV (576p), 61 Sairam TV (576p), 62 Sankara TV (576p), 63 Sivan TV (1080p), 64 SVBC 2 (1080p)
+**Hindu devotional** 58–65: 58 Aastha Tamil (480p), 59 Bhagyam TV (1080p), 60 OM TV (576p), 61 Sai TV (576p), 62 Sairam TV (576p), 63 Sankara TV (576p), 64 Sivan TV (1080p), 65 SVBC 2 (1080p)
 
 ## English
 
-**Entertainment & comedy** 65–71: 65 AFV (720p), 66 Dove Channel (1080p), 67 Dry Bar Comedy+ (720p), 68 FailArmy (720p), 69 Just for Laughs Gags (1080p), 70 Mr Bean Live Action (1080p), 71 The Pet Collective (720p)
+**Entertainment & comedy** 66–72: 66 AFV (720p), 67 Dove Channel (1080p), 68 Dry Bar Comedy+ (720p), 69 FailArmy (720p), 70 Just for Laughs Gags (1080p), 71 Mr Bean Live Action (1080p), 72 The Pet Collective (720p)
 
-**Movies** 72–74: 72 Rakuten TV Action Movies UK (1080p), 73 Rakuten TV Drama Movies UK (1080p), 74 Rakuten TV Family Movies UK (1080p)
+**Movies** 73–75: 73 Rakuten TV Action Movies UK (1080p), 74 Rakuten TV Drama Movies UK (1080p), 75 Rakuten TV Family Movies UK (1080p)
 
-**Cartoons & anime** 75–76: 75 Animax Asia India (1080p) [Geo-blocked], 76 Mr Bean Animated (1080p)
+**Cartoons & anime** 76–77: 76 Animax Asia India (1080p) [Geo-blocked], 77 Mr Bean Animated (1080p)
 
-**Science, nature & history** 77–89: 77 Autentic History (1080p), 78 BBC Earth US (1080p), 79 Curiosity NOW EN (1080p), 80 DocuBay TV (1080p), 81 Get.factual (720p), 82 History Hit (1080p), 83 History TV18 HD (1080p) [Geo-blocked], 84 InWonder (1080p), 85 MagellanTV Now (1080p), 86 NatureTime AU (1080p), 87 UCTV (720p) [Not 24/7], 88 WildEarth (1080p), 89 Wonder (1080p)
+**Science, nature & history** 78–90: 78 Autentic History (1080p), 79 BBC Earth US (1080p), 80 Curiosity NOW EN (1080p), 81 DocuBay TV (1080p), 82 Get.factual (720p), 83 History Hit (1080p), 84 History TV18 HD (1080p) [Geo-blocked], 85 InWonder (1080p), 86 MagellanTV Now (1080p), 87 NatureTime AU (1080p), 88 UCTV (720p) [Not 24/7], 89 WildEarth (1080p), 90 Wonder (1080p)
 
-**Sports** 90–93: 90 beIN SPORTS XTRA (1080p), 91 DD Sports HD (1080p), 92 Eurosport (India) HD (1080p), 93 Red Bull TV (1080p)
+**Sports** 91–94: 91 beIN SPORTS XTRA (1080p), 92 DD Sports HD (1080p), 93 Eurosport (India) HD (1080p), 94 Red Bull TV (1080p)
 
-**Music** 94–94: 94 MTV Biggest Pop (1080p)
+**Music** 95–95: 95 MTV Biggest Pop (1080p)
 
 ## Unavailable
 
@@ -39,19 +39,14 @@ Version 10 · generated 2026-11-11T06:41:04Z · 94 channels, 67 unavailable, 28 
 - IBC Tamil (1080p) (IBCTamil.uk@SD, Entertainment & comedy): [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ibc.massstream.net'. (_ssl.c:10
 - Jaya Plus (576p) (JayaPlus.in@SD, Entertainment & comedy): HTTP 404
 - Monara TV (720p) [Not 24/7] (MonaraTV.lk@SD, Entertainment & comedy): [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)
-- Movies Now + (1080p) (MoviesNowPlus.in@HD, Entertainment & comedy): Unsupported stream address
-- Movies Now HD (1080p) (MoviesNow.in@HD, Entertainment & comedy): Unsupported stream address
+- Movies Now HD (576p) (MoviesNow.in@HD, Entertainment & comedy): Unsupported stream address
 - NDTV LANKA (1080p) (NDTVLANKA.lk@SD, Entertainment & comedy): [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)
 - Okey (1080p) (Okey.my@SD, Entertainment & comedy): Requires additional request headers
-- Star Movies (India) HD (1080p) (StarMovies.in@HD, Entertainment & comedy): Unsupported stream address
 - Star Tamil Television (360p) (StarTamilTelevision.lk@SD, Entertainment & comedy): timed out
 - TV2 (Malaysia) (1080p) (TV2.my@SD, Entertainment & comedy): Requires additional request headers
 - Berita RTM (1080p) (BeritaRTM.my@SD, News): Requires additional request headers
 - Zee Tamil News (720p) (ZeeTamilNews.in@SD, News): DNS lookup failed
 - Cartoon Network HD+ (1080p) (CartoonNetworkHDPlus.in@HD, Other): Unsupported stream address
-- Disney Channel (India) HD (1080p) (DisneyChannel.in@HD, Other): Unsupported stream address
-- Hungama TV (576p) (HungamaTV.in@SD, Other): Unsupported stream address
-- National Geographic (India) HD (1080p) (NationalGeographic.in@HD, Other): Unsupported stream address
 - Nickelodeon (India) (576p) (Nickelodeon.in@SD, Other): Unsupported stream address
 - Pogo (576p) (Pogo.in@SD, Other): Unsupported stream address
 - Sonic (576p) (Sonic.in@SD, Other): Unsupported stream address
@@ -72,12 +67,11 @@ Version 10 · generated 2026-11-11T06:41:04Z · 94 channels, 67 unavailable, 28 
 - HBO Family Asia HD (1080p) (HBOFamilyAsia.sg, Movies): Unsupported stream address
 - HBO Hits Asia HD (1080p) (HBOHitsAsia.sg, Movies): Unsupported stream address
 - HBO Signature Asia HD (1080p) (HBOSignatureAsia.sg, Movies): Unsupported stream address
-- Movies Now HD (1080p) (MoviesNow.in, Movies): Unsupported stream address
+- Movies Now HD (576p) (MoviesNow.in, Movies): Unsupported stream address
 - Rakuten TV Comedy Movies Finland (1080p) (RakutenTVComedyMovies.es, Movies): Encrypted stream; not checked
 - Warner TV Asia (720p) (WarnerTVAsia.us, Movies): Requires additional request headers
 - Boomerang (720p) (Boomerang.us, Cartoons & anime): Unsupported stream address
 - Cartoon Network Asia (720p) (CartoonNetworkAsia.sg, Cartoons & anime): Unsupported stream address
-- Disney Channel (India) HD (1080p) (DisneyChannel.in, Cartoons & anime): Unsupported stream address
 - Disney XD (United States) (720p) (DisneyXD.us, Cartoons & anime): Unsupported stream address
 - Nick Jr. (India) (576p) (NickJr.in, Cartoons & anime): Unsupported stream address
 - Discovery Channel (India) HD (1080p) (DiscoveryChannel.in, Science, nature & history): Unsupported stream address
