@@ -1,6 +1,6 @@
 # Live TV manifest report
 
-Version 11 · generated 2026-11-12T07:22:46Z · 95 channels, 61 unavailable, 28 excluded
+Version 12 · generated 2026-11-13T06:55:17Z · 95 channels, 61 unavailable, 28 excluded
 
 ## Tamil
 
@@ -70,7 +70,7 @@ Version 11 · generated 2026-11-12T07:22:46Z · 95 channels, 61 unavailable, 28 
 - Movies Now HD (576p) (MoviesNow.in, Movies): Unsupported stream address
 - Rakuten TV Comedy Movies Finland (1080p) (RakutenTVComedyMovies.es, Movies): Encrypted stream; not checked
 - Warner TV Asia (720p) (WarnerTVAsia.us, Movies): Requires additional request headers
-- Boomerang (720p) (Boomerang.us, Cartoons & anime): Unsupported stream address
+- Boomerang (United States) (720p) (Boomerang.us, Cartoons & anime): Unsupported stream address
 - Cartoon Network Asia (720p) (CartoonNetworkAsia.sg, Cartoons & anime): Unsupported stream address
 - Disney XD (United States) (720p) (DisneyXD.us, Cartoons & anime): Unsupported stream address
 - Nick Jr. (India) (576p) (NickJr.in, Cartoons & anime): Unsupported stream address

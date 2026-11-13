@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "version": 11,
- "generated_at": "2026-11-12T07:22:46Z",
+ "version": 12,
+ "generated_at": "2026-11-13T06:55:17Z",
  "min_app_version": 19,
  "refresh_minutes": 360,
  "languages": [
@@ -1274,7 +1274,7 @@
   },
   {
    "id": "Boomerang.us",
-   "name": "Boomerang (720p)",
+   "name": "Boomerang (United States) (720p)",
    "language": "en",
    "category": "en-cartoons"
   },
