@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "version": 12,
- "generated_at": "2026-11-13T06:55:17Z",
+ "version": 13,
+ "generated_at": "2026-11-14T06:55:36Z",
  "min_app_version": 19,
  "refresh_minutes": 360,
  "languages": [
@@ -811,9 +811,19 @@
    "url": "https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8"
   },
   {
+   "id": "RakutenTVComedyMovies.es",
+   "service_id": 9686,
+   "number": "74",
+   "name": "Rakuten TV Comedy Movies UK (1080p)",
+   "language": "en",
+   "category": "en-movies",
+   "logo": "https://i.imgur.com/Meew6eX.png",
+   "url": "https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8"
+  },
+  {
    "id": "RakutenTVDramaMovies.es",
    "service_id": 9687,
-   "number": "74",
+   "number": "75",
    "name": "Rakuten TV Drama Movies UK (1080p)",
    "language": "en",
    "category": "en-movies",
@@ -823,7 +833,7 @@
   {
    "id": "RakutenTVFamilyMovies.es",
    "service_id": 9688,
-   "number": "75",
+   "number": "76",
    "name": "Rakuten TV Family Movies UK (1080p)",
    "language": "en",
    "category": "en-movies",
@@ -833,7 +843,7 @@
   {
    "id": "AnimaxAsia.sg",
    "service_id": 9635,
-   "number": "76",
+   "number": "77",
    "name": "Animax Asia India (1080p) [Geo-blocked]",
    "language": "en",
    "category": "en-cartoons",
@@ -843,7 +853,7 @@
   {
    "id": "MrBeanAnimated.uk",
    "service_id": 9678,
-   "number": "77",
+   "number": "78",
    "name": "Mr Bean Animated (1080p)",
    "language": "en",
    "category": "en-cartoons",
@@ -853,7 +863,7 @@
   {
    "id": "AutenticHistory.de",
    "service_id": 9636,
-   "number": "78",
+   "number": "79",
    "name": "Autentic History (1080p)",
    "language": "en",
    "category": "en-factual",
@@ -863,7 +873,7 @@
   {
    "id": "BBCEarth.uk",
    "service_id": 9637,
-   "number": "79",
+   "number": "80",
    "name": "BBC Earth US (1080p)",
    "language": "en",
    "category": "en-factual",
@@ -873,7 +883,7 @@
   {
    "id": "CuriosityNOW.de",
    "service_id": 9641,
-   "number": "80",
+   "number": "81",
    "name": "Curiosity NOW EN (1080p)",
    "language": "en",
    "category": "en-factual",
@@ -883,7 +893,7 @@
   {
    "id": "DocuBayTV.in",
    "service_id": 9652,
-   "number": "81",
+   "number": "82",
    "name": "DocuBay TV (1080p)",
    "language": "en",
    "category": "en-factual",
@@ -893,7 +903,7 @@
   {
    "id": "Getfactual.us",
    "service_id": 9661,
-   "number": "82",
+   "number": "83",
    "name": "Get.factual (720p)",
    "language": "en",
    "category": "en-factual",
@@ -903,7 +913,7 @@
   {
    "id": "HistoryHit.uk",
    "service_id": 9668,
-   "number": "83",
+   "number": "84",
    "name": "History Hit (1080p)",
    "language": "en",
    "category": "en-factual",
@@ -913,7 +923,7 @@
   {
    "id": "HistoryTV18.in",
    "service_id": 9669,
-   "number": "84",
+   "number": "85",
    "name": "History TV18 HD (1080p) [Geo-blocked]",
    "language": "en",
    "category": "en-factual",
@@ -923,7 +933,7 @@
   {
    "id": "InWonder.nl",
    "service_id": 9670,
-   "number": "85",
+   "number": "86",
    "name": "InWonder (1080p)",
    "language": "en",
    "category": "en-factual",
@@ -933,7 +943,7 @@
   {
    "id": "MagellanTVNow.us",
    "service_id": 9676,
-   "number": "86",
+   "number": "87",
    "name": "MagellanTV Now (1080p)",
    "language": "en",
    "category": "en-factual",
@@ -943,7 +953,7 @@
   {
    "id": "NatureTime.ca",
    "service_id": 9682,
-   "number": "87",
+   "number": "88",
    "name": "NatureTime AU (1080p)",
    "language": "en",
    "category": "en-factual",
@@ -953,7 +963,7 @@
   {
    "id": "UCTV.us",
    "service_id": 9706,
-   "number": "88",
+   "number": "89",
    "name": "UCTV (720p) [Not 24/7]",
    "language": "en",
    "category": "en-factual",
@@ -963,7 +973,7 @@
   {
    "id": "WildEarth.za",
    "service_id": 9709,
-   "number": "89",
+   "number": "90",
    "name": "WildEarth (1080p)",
    "language": "en",
    "category": "en-factual",
@@ -973,7 +983,7 @@
   {
    "id": "Wonder.uk",
    "service_id": 9712,
-   "number": "90",
+   "number": "91",
    "name": "Wonder (1080p)",
    "language": "en",
    "category": "en-factual",
@@ -983,7 +993,7 @@
   {
    "id": "beINSPORTSXTRA.us",
    "service_id": 9713,
-   "number": "91",
+   "number": "92",
    "name": "beIN SPORTS XTRA (1080p)",
    "language": "en",
    "category": "en-sports",
@@ -993,7 +1003,7 @@
   {
    "id": "DDSports.in",
    "service_id": 9642,
-   "number": "92",
+   "number": "93",
    "name": "DD Sports HD (1080p)",
    "language": "en",
    "category": "en-sports",
@@ -1003,7 +1013,7 @@
   {
    "id": "Eurosport.in",
    "service_id": 9657,
-   "number": "93",
+   "number": "94",
    "name": "Eurosport (India) HD (1080p)",
    "language": "en",
    "category": "en-sports",
@@ -1013,7 +1023,7 @@
   {
    "id": "RedBullTV.at",
    "service_id": 9689,
-   "number": "94",
+   "number": "95",
    "name": "Red Bull TV (1080p)",
    "language": "en",
    "category": "en-sports",
@@ -1023,7 +1033,7 @@
   {
    "id": "MTVBiggestPop.us",
    "service_id": 9672,
-   "number": "95",
+   "number": "96",
    "name": "MTV Biggest Pop (1080p)",
    "language": "en",
    "category": "en-music",
@@ -1261,12 +1271,6 @@
    "category": "en-movies"
   },
   {
-   "id": "RakutenTVComedyMovies.es",
-   "name": "Rakuten TV Comedy Movies Finland (1080p)",
-   "language": "en",
-   "category": "en-movies"
-  },
-  {
    "id": "WarnerTVAsia.us",
    "name": "Warner TV Asia (720p)",
    "language": "en",
@@ -1365,12 +1369,6 @@
   {
    "id": "SkySportsF1.uk",
    "name": "Sky Sports F1 (720p)",
-   "language": "en",
-   "category": "en-sports"
-  },
-  {
-   "id": "StarSportsSelect2.in",
-   "name": "Star Sports Select 2 HD (720p)",
    "language": "en",
    "category": "en-sports"
   },

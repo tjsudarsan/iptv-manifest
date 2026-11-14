@@ -1,7 +1,7 @@
 {
- "version": 12,
- "content_hash": "631640cc8663b4414ffd4b581f27efebf51232730992f8ab7d45b75311552209",
- "generated_at": "2026-11-13T06:55:17Z",
+ "version": 13,
+ "content_hash": "e265d4ea481bda23cac64c37c11d367cd15302fc8af3afdc4c0b9e87d534cc49",
+ "generated_at": "2026-11-14T06:55:36Z",
  "service_ids": {
   "7SMusic.in@SD": 9502,
   "AFV.us": 9628,
@@ -630,8 +630,8 @@
    "available": true
   },
   "RakutenTVComedyMovies.es": {
-   "url": "",
-   "available": false
+   "url": "https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8",
+   "available": true
   },
   "RakutenTVDramaMovies.es": {
    "url": "https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8",
@@ -700,10 +700,6 @@
   "SooriyanTV.ca@SD": {
    "url": "https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8",
    "available": true
-  },
-  "StarSportsSelect2.in": {
-   "url": "",
-   "available": false
   },
   "StarTamilTelevision.lk@SD": {
    "url": "",
@@ -852,6 +848,6 @@
  },
  "source_counts": {
   "ta": 118,
-  "en": 66
+  "en": 65
  }
 }
