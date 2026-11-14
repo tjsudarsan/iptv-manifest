@@ -162,6 +162,22 @@ class GenerateTest(unittest.TestCase):
         sun = next(c for c in again["channels"] if c["id"] == "SunTV.in@HD")
         self.assertEqual("https://example.com/old-sun.m3u8", sun["url"])
 
+    def test_probe_crash_marks_only_that_channel_unavailable(self):
+        import http.client
+        original = net.probe
+        def flaky(url, **kw):
+            if "sun" in url:
+                raise http.client.IncompleteRead(b"")
+        net.probe = flaky
+        try:
+            with tempfile.TemporaryDirectory() as d:
+                manifest, _, rows, _ = generate.run(CONFIG, empty_state(), sources(Path(d)), now="2026-01-01T00:00:00Z")
+        finally:
+            net.probe = original
+        self.assertNotIn("SunTV.in@HD", [c["id"] for c in manifest["channels"]])
+        self.assertIn("SunTV.in@HD", [u["id"] for u in manifest["unavailable"]])
+        self.assertIn("IsaiAruvi.in@SD", [c["id"] for c in manifest["channels"]])
+
     def test_truncated_source_is_rejected(self):
         state = empty_state()
         state["source_counts"] = {"ta": 100}

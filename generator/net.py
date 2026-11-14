@@ -1,6 +1,7 @@
 """Bounded HTTP fetching and HLS probing (mirrors the TV's CatalogNetwork). TLS verification stays on."""
 from __future__ import annotations
 
+import http.client
 import ipaddress
 import re
 import socket
@@ -63,9 +64,13 @@ def fetch(url: str, limit: int, *, sample: bool = False, timeout: float = 7,
         with resp:
             if resp.status != 200:
                 raise ProbeError(f"HTTP {resp.status}")
-            data = resp.read(limit)
-            if not sample and len(data) == limit and resp.read(1):
-                raise ProbeError("Response too large")
+            try:
+                data = resp.read(limit)
+                if not sample and len(data) == limit and resp.read(1):
+                    raise ProbeError("Response too large")
+            except (http.client.HTTPException, OSError, ValueError) as e:
+                # A server that drops the connection mid-body is a failed stream, not a failed run.
+                raise ProbeError(f"Incomplete response ({type(e).__name__})") from e
             return data, url
     raise ProbeError("Too many redirects")
 

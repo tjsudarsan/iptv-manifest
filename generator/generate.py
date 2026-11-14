@@ -142,7 +142,7 @@ def resolve(cid: str, language: str, options: list[core.Item], layout: core.Layo
         try:
             probe(o.url)
             return row(o, o.url, True, "Playlist and media sample checked")
-        except net.ProbeError as e:
+        except Exception as e:  # any probe failure (even an unexpected one) only fails this option
             reason = str(e) or "Stream check failed"
     if old_ok:
         return row(first, previous["url"], True, "Source change failed checks; retained previous stream")
