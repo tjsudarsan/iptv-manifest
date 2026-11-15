@@ -1,7 +1,7 @@
 {
- "version": 13,
- "content_hash": "e265d4ea481bda23cac64c37c11d367cd15302fc8af3afdc4c0b9e87d534cc49",
- "generated_at": "2026-11-14T06:55:36Z",
+ "version": 14,
+ "content_hash": "45de0f80c3c96dfbeaa8aef41bf80e0143df4ecd2c8d4b7e4cc741ce4cd805dc",
+ "generated_at": "2026-11-15T06:45:45Z",
  "service_ids": {
   "7SMusic.in@SD": 9502,
   "AFV.us": 9628,
@@ -306,8 +306,8 @@
    "available": true
   },
   "ComedyCentral.us": {
-   "url": "",
-   "available": false
+   "url": "https://tvnow.hostless.app/comedy-central.m3u8",
+   "available": true
   },
   "CuriosityNOW.de": {
    "url": "https://amg00170-amg00170c4-samsung-gb-4232.playouts.now.amagi.tv/playlist.m3u8",

@@ -1,6 +1,6 @@
 # Live TV manifest report
 
-Version 13 · generated 2026-11-14T06:55:36Z · 96 channels, 59 unavailable, 28 excluded
+Version 14 · generated 2026-11-15T06:45:45Z · 97 channels, 58 unavailable, 28 excluded
 
 ## Tamil
 
@@ -16,17 +16,17 @@ Version 13 · generated 2026-11-14T06:55:36Z · 96 channels, 59 unavailable, 28 
 
 ## English
 
-**Entertainment & comedy** 66–72: 66 AFV (720p), 67 Dove Channel (1080p), 68 Dry Bar Comedy+ (720p), 69 FailArmy (720p), 70 Just for Laughs Gags (1080p), 71 Mr Bean Live Action (1080p), 72 The Pet Collective (720p)
+**Entertainment & comedy** 66–73: 66 AFV (720p), 67 Comedy Central (United States) (1080p), 68 Dove Channel (1080p), 69 Dry Bar Comedy+ (720p), 70 FailArmy (720p), 71 Just for Laughs Gags (1080p), 72 Mr Bean Live Action (1080p), 73 The Pet Collective (720p)
 
-**Movies** 73–76: 73 Rakuten TV Action Movies UK (1080p), 74 Rakuten TV Comedy Movies UK (1080p), 75 Rakuten TV Drama Movies UK (1080p), 76 Rakuten TV Family Movies UK (1080p)
+**Movies** 74–77: 74 Rakuten TV Action Movies UK (1080p), 75 Rakuten TV Comedy Movies UK (1080p), 76 Rakuten TV Drama Movies UK (1080p), 77 Rakuten TV Family Movies UK (1080p)
 
-**Cartoons & anime** 77–78: 77 Animax Asia India (1080p) [Geo-blocked], 78 Mr Bean Animated (1080p)
+**Cartoons & anime** 78–79: 78 Animax Asia India (1080p) [Geo-blocked], 79 Mr Bean Animated (1080p)
 
-**Science, nature & history** 79–91: 79 Autentic History (1080p), 80 BBC Earth US (1080p), 81 Curiosity NOW EN (1080p), 82 DocuBay TV (1080p), 83 Get.factual (720p), 84 History Hit (1080p), 85 History TV18 HD (1080p) [Geo-blocked], 86 InWonder (1080p), 87 MagellanTV Now (1080p), 88 NatureTime AU (1080p), 89 UCTV (720p) [Not 24/7], 90 WildEarth (1080p), 91 Wonder (1080p)
+**Science, nature & history** 80–92: 80 Autentic History (1080p), 81 BBC Earth US (1080p), 82 Curiosity NOW EN (1080p), 83 DocuBay TV (1080p), 84 Get.factual (720p), 85 History Hit (1080p), 86 History TV18 HD (1080p) [Geo-blocked], 87 InWonder (1080p), 88 MagellanTV Now (1080p), 89 NatureTime AU (1080p), 90 UCTV (720p) [Not 24/7], 91 WildEarth (1080p), 92 Wonder (1080p)
 
-**Sports** 92–95: 92 beIN SPORTS XTRA (1080p), 93 DD Sports HD (1080p), 94 Eurosport (India) HD (1080p), 95 Red Bull TV (1080p)
+**Sports** 93–96: 93 beIN SPORTS XTRA (1080p), 94 DD Sports HD (1080p), 95 Eurosport (India) HD (1080p), 96 Red Bull TV (1080p)
 
-**Music** 96–96: 96 MTV Biggest Pop (1080p)
+**Music** 97–97: 97 MTV Biggest Pop (1080p)
 
 ## Unavailable
 
@@ -55,7 +55,6 @@ Version 13 · generated 2026-11-14T06:55:36Z · 96 channels, 59 unavailable, 28 
 - Win TV (576p) (WinTV.in@SD, Other): HTTP 404
 - WOW Kidz Tamil (720p) (WOWKidz.in@Tamil, Other): Unsupported stream address
 - IBC Bakthi (1080p) (IBCBakthi.uk@SD, Hindu devotional): [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ibc.massstream.net'. (_ssl.c:10
-- Comedy Central (United States) CA (ComedyCentral.us, Entertainment & comedy): Encrypted stream; not checked
 - MTV Global (MTVGlobal.uk, Entertainment & comedy): Requires additional request headers
 - The Bob Ross Channel (720p) (TheBobRossChannel.us, Entertainment & comedy): HTTP 404
 - AXN Adria (576p) (AXNAdria.us, Movies): Requires additional request headers
