@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "version": 14,
- "generated_at": "2026-11-15T06:45:45Z",
+ "version": 15,
+ "generated_at": "2026-11-17T08:04:25Z",
  "min_app_version": 19,
  "refresh_minutes": 360,
  "languages": [
@@ -744,7 +744,7 @@
    "id": "ComedyCentral.us",
    "service_id": 9640,
    "number": "67",
-   "name": "Comedy Central (United States) (1080p)",
+   "name": "Comedy Central (United States) CA",
    "language": "en",
    "category": "en-entertainment",
    "logo": "https://images.pluto.tv/channels/64f8a408bd341e000818fcda/colorLogoPNG.png",
@@ -1213,12 +1213,6 @@
    "name": "The Bob Ross Channel (720p)",
    "language": "en",
    "category": "en-entertainment"
-  },
-  {
-   "id": "AXNAdria.us",
-   "name": "AXN Adria (576p)",
-   "language": "en",
-   "category": "en-movies"
   },
   {
    "id": "AXNBlack.us",

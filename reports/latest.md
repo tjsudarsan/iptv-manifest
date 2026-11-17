@@ -1,6 +1,6 @@
 # Live TV manifest report
 
-Version 14 · generated 2026-11-15T06:45:45Z · 97 channels, 58 unavailable, 28 excluded
+Version 15 · generated 2026-11-17T08:04:25Z · 97 channels, 57 unavailable, 28 excluded
 
 ## Tamil
 
@@ -16,7 +16,7 @@ Version 14 · generated 2026-11-15T06:45:45Z · 97 channels, 58 unavailable, 28 
 
 ## English
 
-**Entertainment & comedy** 66–73: 66 AFV (720p), 67 Comedy Central (United States) (1080p), 68 Dove Channel (1080p), 69 Dry Bar Comedy+ (720p), 70 FailArmy (720p), 71 Just for Laughs Gags (1080p), 72 Mr Bean Live Action (1080p), 73 The Pet Collective (720p)
+**Entertainment & comedy** 66–73: 66 AFV (720p), 67 Comedy Central (United States) CA, 68 Dove Channel (1080p), 69 Dry Bar Comedy+ (720p), 70 FailArmy (720p), 71 Just for Laughs Gags (1080p), 72 Mr Bean Live Action (1080p), 73 The Pet Collective (720p)
 
 **Movies** 74–77: 74 Rakuten TV Action Movies UK (1080p), 75 Rakuten TV Comedy Movies UK (1080p), 76 Rakuten TV Drama Movies UK (1080p), 77 Rakuten TV Family Movies UK (1080p)
 
@@ -57,7 +57,6 @@ Version 14 · generated 2026-11-15T06:45:45Z · 97 channels, 58 unavailable, 28 
 - IBC Bakthi (1080p) (IBCBakthi.uk@SD, Hindu devotional): [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ibc.massstream.net'. (_ssl.c:10
 - MTV Global (MTVGlobal.uk, Entertainment & comedy): Requires additional request headers
 - The Bob Ross Channel (720p) (TheBobRossChannel.us, Entertainment & comedy): HTTP 404
-- AXN Adria (576p) (AXNAdria.us, Movies): Requires additional request headers
 - AXN Black (United States) Czech Republic (AXNBlack.us, Movies): Unsupported stream address
 - AXN CEE (AXNCEE.es, Movies): Requires additional request headers
 - AXN Crime (AXNCrime.us, Movies): Requires additional request headers
