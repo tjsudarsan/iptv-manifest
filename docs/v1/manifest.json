@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "version": 15,
- "generated_at": "2026-11-17T08:04:25Z",
+ "version": 16,
+ "generated_at": "2026-11-18T07:40:24Z",
  "min_app_version": 19,
  "refresh_minutes": 360,
  "languages": [
@@ -161,19 +161,9 @@
    "url": "https://stream.ottlive.co.in/aryatvtamil/index.m3u8"
   },
   {
-   "id": "SunTV.in@HD",
-   "service_id": 9601,
-   "number": "9",
-   "name": "Sun TV HD (1080p)",
-   "language": "ta",
-   "category": "ta-entertainment",
-   "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002Z0M0Y.png?lock=720x540",
-   "url": "https://d2px1d6ssc60fw.cloudfront.net/SunTV/SunTV-HDR10-IN-index.m3u8"
-  },
-  {
    "id": "KalaignarTV.in@SD",
    "service_id": 9543,
-   "number": "10",
+   "number": "9",
    "name": "Kalaignar TV (396p)",
    "language": "ta",
    "category": "ta-entertainment",
@@ -183,7 +173,7 @@
   {
    "id": "SirippoliTV.in@SD",
    "service_id": 9589,
-   "number": "11",
+   "number": "10",
    "name": "Sirippoli TV (576p)",
    "language": "ta",
    "category": "ta-entertainment",
@@ -193,7 +183,7 @@
   {
    "id": "StarVijay.in@UK",
    "service_id": 9599,
-   "number": "12",
+   "number": "11",
    "name": "Star Vijay UK (396p)",
    "language": "ta",
    "category": "ta-entertainment",
@@ -203,7 +193,7 @@
   {
    "id": "ZeeTamil.in@HD",
    "service_id": 9625,
-   "number": "13",
+   "number": "12",
    "name": "Zee Tamil HD (1080p)",
    "language": "ta",
    "category": "ta-entertainment",
@@ -213,7 +203,7 @@
   {
    "id": "ColorsTamil.in@HD",
    "service_id": 9520,
-   "number": "14",
+   "number": "13",
    "name": "Colors Tamil HD (720p)",
    "language": "ta",
    "category": "ta-entertainment",
@@ -223,7 +213,7 @@
   {
    "id": "RajTV.in@SD",
    "service_id": 9580,
-   "number": "15",
+   "number": "14",
    "name": "Raj TV (1080p)",
    "language": "ta",
    "category": "ta-entertainment",
@@ -233,7 +223,7 @@
   {
    "id": "PolimerTV.in@SD",
    "service_id": 9574,
-   "number": "16",
+   "number": "15",
    "name": "Polimer TV (720p)",
    "language": "ta",
    "category": "ta-entertainment",
@@ -243,7 +233,7 @@
   {
    "id": "KalaignarMurasu.in@SD",
    "service_id": 9541,
-   "number": "17",
+   "number": "16",
    "name": "Kalaignar Murasu (396p)",
    "language": "ta",
    "category": "ta-entertainment",
@@ -253,7 +243,7 @@
   {
    "id": "DDTamil.in@HD",
    "service_id": 9522,
-   "number": "18",
+   "number": "17",
    "name": "DD Tamil HD (1080p)",
    "language": "ta",
    "category": "ta-entertainment",
@@ -263,7 +253,7 @@
   {
    "id": "MakkalTV.in@SD",
    "service_id": 9552,
-   "number": "19",
+   "number": "18",
    "name": "Makkal TV (576i)",
    "language": "ta",
    "category": "ta-entertainment",
@@ -273,7 +263,7 @@
   {
    "id": "MarutamTV.in@SD",
    "service_id": 9554,
-   "number": "20",
+   "number": "19",
    "name": "Marutam TV (1080p)",
    "language": "ta",
    "category": "ta-entertainment",
@@ -283,7 +273,7 @@
   {
    "id": "NHTamilGold.in@HD",
    "service_id": 9561,
-   "number": "21",
+   "number": "20",
    "name": "NH Tamil Gold (1080p)",
    "language": "ta",
    "category": "ta-entertainment",
@@ -293,7 +283,7 @@
   {
    "id": "NTCTV.in@SD",
    "service_id": 9562,
-   "number": "22",
+   "number": "21",
    "name": "NTC TV (720p)",
    "language": "ta",
    "category": "ta-entertainment",
@@ -303,17 +293,17 @@
   {
    "id": "OliTV.in@SD",
    "service_id": 9571,
-   "number": "23",
+   "number": "22",
    "name": "Oli TV (India) (1080p)",
    "language": "ta",
    "category": "ta-entertainment",
    "logo": "https://i.ibb.co/XfvTQyJn/main-removebg-preview.png",
-   "url": "https://live.olidigital.in/olitv/olitv/index.m3u8"
+   "url": "https://hlslive.olidigital.in/olitv/olitv/index.m3u8"
   },
   {
    "id": "RajDigitalPlus.in@SD",
    "service_id": 9578,
-   "number": "24",
+   "number": "23",
    "name": "Raj Digital Plus (1080p)",
    "language": "ta",
    "category": "ta-entertainment",
@@ -323,7 +313,7 @@
   {
    "id": "SanaTV.in@SD",
    "service_id": 9585,
-   "number": "25",
+   "number": "24",
    "name": "Sana TV (1080p)",
    "language": "ta",
    "category": "ta-entertainment",
@@ -333,7 +323,7 @@
   {
    "id": "SooriyanTV.ca@SD",
    "service_id": 9594,
-   "number": "26",
+   "number": "25",
    "name": "Sooriyan TV (1080p)",
    "language": "ta",
    "category": "ta-entertainment",
@@ -343,7 +333,7 @@
   {
    "id": "SubinTV.in@SD",
    "service_id": 9600,
-   "number": "27",
+   "number": "26",
    "name": "Subin TV (1080p)",
    "language": "ta",
    "category": "ta-entertainment",
@@ -353,7 +343,7 @@
   {
    "id": "SuriyaTV.in@SD",
    "service_id": 9602,
-   "number": "28",
+   "number": "27",
    "name": "Suriya TV (1080p)",
    "language": "ta",
    "category": "ta-entertainment",
@@ -363,7 +353,7 @@
   {
    "id": "SuriyanTV.in@SD",
    "service_id": 9603,
-   "number": "29",
+   "number": "28",
    "name": "Suriyan TV (576p)",
    "language": "ta",
    "category": "ta-entertainment",
@@ -373,7 +363,7 @@
   {
    "id": "ThalaaTV.in@HD",
    "service_id": 9608,
-   "number": "30",
+   "number": "29",
    "name": "Thalaa TV (1080p)",
    "language": "ta",
    "category": "ta-entertainment",
@@ -383,7 +373,7 @@
   {
    "id": "ThanthiOne.in@SD",
    "service_id": 9609,
-   "number": "31",
+   "number": "30",
    "name": "Thanthi One (576p)",
    "language": "ta",
    "category": "ta-entertainment",
@@ -393,7 +383,7 @@
   {
    "id": "VasanthTV.in@SD",
    "service_id": 9617,
-   "number": "32",
+   "number": "31",
    "name": "Vasanth TV (576p)",
    "language": "ta",
    "category": "ta-entertainment",
@@ -403,7 +393,7 @@
   {
    "id": "VendharTV.in@SD",
    "service_id": 9619,
-   "number": "33",
+   "number": "32",
    "name": "Vendhar TV (576p)",
    "language": "ta",
    "category": "ta-entertainment",
@@ -413,7 +403,7 @@
   {
    "id": "GemTV.in@SD",
    "service_id": 9721,
-   "number": "34",
+   "number": "33",
    "name": "Gem TV (720p)",
    "language": "ta",
    "category": "ta-news",
@@ -423,7 +413,7 @@
   {
    "id": "KalaignarSeithigal.in@SD",
    "service_id": 9542,
-   "number": "35",
+   "number": "34",
    "name": "Kalaignar Seithigal (576p)",
    "language": "ta",
    "category": "ta-news",
@@ -433,7 +423,7 @@
   {
    "id": "MadhimugamTV.in@SD",
    "service_id": 9550,
-   "number": "36",
+   "number": "35",
    "name": "Madhimugam TV (576p)",
    "language": "ta",
    "category": "ta-news",
@@ -443,7 +433,7 @@
   {
    "id": "MalaiMurasuTV.in@SD",
    "service_id": 9553,
-   "number": "37",
+   "number": "36",
    "name": "Malai Murasu TV (576p)",
    "language": "ta",
    "category": "ta-news",
@@ -453,7 +443,7 @@
   {
    "id": "News7Tamil.in@SD",
    "service_id": 9565,
-   "number": "38",
+   "number": "37",
    "name": "News 7 Tamil (576p)",
    "language": "ta",
    "category": "ta-news",
@@ -463,7 +453,7 @@
   {
    "id": "NewsJ.in@SD",
    "service_id": 9566,
-   "number": "39",
+   "number": "38",
    "name": "News J (720p) [Not 24/7]",
    "language": "ta",
    "category": "ta-news",
@@ -473,7 +463,7 @@
   {
    "id": "NewsTamil24x7.in@SD",
    "service_id": 9567,
-   "number": "40",
+   "number": "39",
    "name": "News Tamil 24x7 (1080p)",
    "language": "ta",
    "category": "ta-news",
@@ -483,7 +473,7 @@
   {
    "id": "News18TamilNadu.in@SD",
    "service_id": 9564,
-   "number": "41",
+   "number": "40",
    "name": "News18 Tamil Nadu (1080p)",
    "language": "ta",
    "category": "ta-news",
@@ -493,7 +483,7 @@
   {
    "id": "PolimerNews.in@SD",
    "service_id": 9501,
-   "number": "42",
+   "number": "41",
    "name": "Polimer News (576p)",
    "language": "ta",
    "category": "ta-news",
@@ -503,7 +493,7 @@
   {
    "id": "PuthiyaThalaimurai.in@SD",
    "service_id": 9575,
-   "number": "43",
+   "number": "42",
    "name": "Puthiya Thalaimurai (576p)",
    "language": "ta",
    "category": "ta-news",
@@ -513,7 +503,7 @@
   {
    "id": "PuthiyaThalaimuraiExpress.in@SD",
    "service_id": 9576,
-   "number": "44",
+   "number": "43",
    "name": "Puthiya Thalaimurai Express (720p)",
    "language": "ta",
    "category": "ta-news",
@@ -523,7 +513,7 @@
   {
    "id": "SathiyamTV.in@SD",
    "service_id": 9587,
-   "number": "45",
+   "number": "44",
    "name": "Sathiyam TV (576p)",
    "language": "ta",
    "category": "ta-news",
@@ -533,7 +523,7 @@
   {
    "id": "TamilJanam.in@SD",
    "service_id": 9605,
-   "number": "46",
+   "number": "45",
    "name": "Tamil Janam (576p)",
    "language": "ta",
    "category": "ta-news",
@@ -543,7 +533,7 @@
   {
    "id": "ThanthiTV.in@SD",
    "service_id": 9610,
-   "number": "47",
+   "number": "46",
    "name": "Thanthi TV (576p)",
    "language": "ta",
    "category": "ta-news",
@@ -553,7 +543,7 @@
   {
    "id": "VelichamTV.in@SD",
    "service_id": 9618,
-   "number": "48",
+   "number": "47",
    "name": "Velicham TV (576p)",
    "language": "ta",
    "category": "ta-news",
@@ -563,7 +553,7 @@
   {
    "id": "Chithiram.in@SD",
    "service_id": 9519,
-   "number": "49",
+   "number": "48",
    "name": "Chithiram (576p)",
    "language": "ta",
    "category": "ta-other",
@@ -573,7 +563,7 @@
   {
    "id": "DDSports.in@HD",
    "service_id": 9521,
-   "number": "50",
+   "number": "49",
    "name": "DD Sports HD (1080p)",
    "language": "ta",
    "category": "ta-other",
@@ -583,7 +573,7 @@
   {
    "id": "HistoryTV18.in@HD",
    "service_id": 9533,
-   "number": "51",
+   "number": "50",
    "name": "History TV18 HD (1080p) [Geo-blocked]",
    "language": "ta",
    "category": "ta-other",
@@ -593,8 +583,8 @@
   {
    "id": "ImaiTV.lk@SD",
    "service_id": 9537,
-   "number": "52",
-   "name": "Imai TV (1080p)",
+   "number": "51",
+   "name": "Imai TV (576i)",
    "language": "ta",
    "category": "ta-other",
    "logo": "https://i.imgur.com/9tODclu.png",
@@ -603,7 +593,7 @@
   {
    "id": "NDTVGoodTimes.in@SD",
    "service_id": 9559,
-   "number": "53",
+   "number": "52",
    "name": "NDTV Good Times (1080p)",
    "language": "ta",
    "category": "ta-other",
@@ -613,7 +603,7 @@
   {
    "id": "PuthuyugamTV.in@SD",
    "service_id": 9577,
-   "number": "54",
+   "number": "53",
    "name": "Puthuyugam TV (576p)",
    "language": "ta",
    "category": "ta-other",
@@ -623,7 +613,7 @@
   {
    "id": "ShakthiTV.lk@SD",
    "service_id": 9588,
-   "number": "55",
+   "number": "54",
    "name": "Shakthi TV (576p)",
    "language": "ta",
    "category": "ta-other",
@@ -633,8 +623,8 @@
   {
    "id": "SonyYay.in@SD",
    "service_id": 9718,
-   "number": "56",
-   "name": "Sony Yay! (576p)",
+   "number": "55",
+   "name": "Sony Yay! (1080p)",
    "language": "ta",
    "category": "ta-other",
    "logo": "https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540",
@@ -643,7 +633,7 @@
   {
    "id": "TamilanTV.in@SD",
    "service_id": 9607,
-   "number": "57",
+   "number": "56",
    "name": "Tamilan TV (576p)",
    "language": "ta",
    "category": "ta-other",
@@ -653,7 +643,7 @@
   {
    "id": "AasthaTamil.in@SD",
    "service_id": 9506,
-   "number": "58",
+   "number": "57",
    "name": "Aastha Tamil (480p)",
    "language": "ta",
    "category": "ta-devotional",
@@ -663,7 +653,7 @@
   {
    "id": "BhagyamTV.in@SD",
    "service_id": 9517,
-   "number": "59",
+   "number": "58",
    "name": "Bhagyam TV (1080p)",
    "language": "ta",
    "category": "ta-devotional",
@@ -673,7 +663,7 @@
   {
    "id": "OMTV.in@SD",
    "service_id": 9569,
-   "number": "60",
+   "number": "59",
    "name": "OM TV (576p)",
    "language": "ta",
    "category": "ta-devotional",
@@ -683,7 +673,7 @@
   {
    "id": "SaiTV.in@SD",
    "service_id": 9582,
-   "number": "61",
+   "number": "60",
    "name": "Sai TV (576p)",
    "language": "ta",
    "category": "ta-devotional",
@@ -693,7 +683,7 @@
   {
    "id": "SairamTV.in@SD",
    "service_id": 9583,
-   "number": "62",
+   "number": "61",
    "name": "Sairam TV (576p)",
    "language": "ta",
    "category": "ta-devotional",
@@ -703,7 +693,7 @@
   {
    "id": "SankaraTV.in@SD",
    "service_id": 9586,
-   "number": "63",
+   "number": "62",
    "name": "Sankara TV (576p)",
    "language": "ta",
    "category": "ta-devotional",
@@ -713,7 +703,7 @@
   {
    "id": "SivanTV.ch@SD",
    "service_id": 9590,
-   "number": "64",
+   "number": "63",
    "name": "Sivan TV (1080p)",
    "language": "ta",
    "category": "ta-devotional",
@@ -723,7 +713,7 @@
   {
    "id": "SVBC2.in@SD",
    "service_id": 9581,
-   "number": "65",
+   "number": "64",
    "name": "SVBC 2 (1080p)",
    "language": "ta",
    "category": "ta-devotional",
@@ -733,7 +723,7 @@
   {
    "id": "AFV.us",
    "service_id": 9628,
-   "number": "66",
+   "number": "65",
    "name": "AFV (720p)",
    "language": "en",
    "category": "en-entertainment",
@@ -743,7 +733,7 @@
   {
    "id": "ComedyCentral.us",
    "service_id": 9640,
-   "number": "67",
+   "number": "66",
    "name": "Comedy Central (United States) CA",
    "language": "en",
    "category": "en-entertainment",
@@ -753,7 +743,7 @@
   {
    "id": "DoveChannel.us",
    "service_id": 9653,
-   "number": "68",
+   "number": "67",
    "name": "Dove Channel (1080p)",
    "language": "en",
    "category": "en-entertainment",
@@ -763,7 +753,7 @@
   {
    "id": "DryBarComedyPlus.us",
    "service_id": 9654,
-   "number": "69",
+   "number": "68",
    "name": "Dry Bar Comedy+ (720p)",
    "language": "en",
    "category": "en-entertainment",
@@ -773,7 +763,7 @@
   {
    "id": "FailArmy.us",
    "service_id": 9658,
-   "number": "70",
+   "number": "69",
    "name": "FailArmy (720p)",
    "language": "en",
    "category": "en-entertainment",
@@ -783,7 +773,7 @@
   {
    "id": "JustforLaughsGags.us",
    "service_id": 9671,
-   "number": "71",
+   "number": "70",
    "name": "Just for Laughs Gags (1080p)",
    "language": "en",
    "category": "en-entertainment",
@@ -793,7 +783,7 @@
   {
    "id": "MrBeanLiveAction.uk",
    "service_id": 9679,
-   "number": "72",
+   "number": "71",
    "name": "Mr Bean Live Action (1080p)",
    "language": "en",
    "category": "en-entertainment",
@@ -803,7 +793,7 @@
   {
    "id": "ThePetCollective.us",
    "service_id": 9704,
-   "number": "73",
+   "number": "72",
    "name": "The Pet Collective (720p)",
    "language": "en",
    "category": "en-entertainment",
@@ -813,7 +803,7 @@
   {
    "id": "RakutenTVActionMovies.es",
    "service_id": 9685,
-   "number": "74",
+   "number": "73",
    "name": "Rakuten TV Action Movies UK (1080p)",
    "language": "en",
    "category": "en-movies",
@@ -823,7 +813,7 @@
   {
    "id": "RakutenTVComedyMovies.es",
    "service_id": 9686,
-   "number": "75",
+   "number": "74",
    "name": "Rakuten TV Comedy Movies UK (1080p)",
    "language": "en",
    "category": "en-movies",
@@ -833,7 +823,7 @@
   {
    "id": "RakutenTVDramaMovies.es",
    "service_id": 9687,
-   "number": "76",
+   "number": "75",
    "name": "Rakuten TV Drama Movies UK (1080p)",
    "language": "en",
    "category": "en-movies",
@@ -843,7 +833,7 @@
   {
    "id": "RakutenTVFamilyMovies.es",
    "service_id": 9688,
-   "number": "77",
+   "number": "76",
    "name": "Rakuten TV Family Movies UK (1080p)",
    "language": "en",
    "category": "en-movies",
@@ -853,7 +843,7 @@
   {
    "id": "AnimaxAsia.sg",
    "service_id": 9635,
-   "number": "78",
+   "number": "77",
    "name": "Animax Asia India (1080p) [Geo-blocked]",
    "language": "en",
    "category": "en-cartoons",
@@ -863,7 +853,7 @@
   {
    "id": "MrBeanAnimated.uk",
    "service_id": 9678,
-   "number": "79",
+   "number": "78",
    "name": "Mr Bean Animated (1080p)",
    "language": "en",
    "category": "en-cartoons",
@@ -873,7 +863,7 @@
   {
    "id": "AutenticHistory.de",
    "service_id": 9636,
-   "number": "80",
+   "number": "79",
    "name": "Autentic History (1080p)",
    "language": "en",
    "category": "en-factual",
@@ -883,7 +873,7 @@
   {
    "id": "BBCEarth.uk",
    "service_id": 9637,
-   "number": "81",
+   "number": "80",
    "name": "BBC Earth US (1080p)",
    "language": "en",
    "category": "en-factual",
@@ -893,7 +883,7 @@
   {
    "id": "CuriosityNOW.de",
    "service_id": 9641,
-   "number": "82",
+   "number": "81",
    "name": "Curiosity NOW EN (1080p)",
    "language": "en",
    "category": "en-factual",
@@ -903,7 +893,7 @@
   {
    "id": "DocuBayTV.in",
    "service_id": 9652,
-   "number": "83",
+   "number": "82",
    "name": "DocuBay TV (1080p)",
    "language": "en",
    "category": "en-factual",
@@ -913,7 +903,7 @@
   {
    "id": "Getfactual.us",
    "service_id": 9661,
-   "number": "84",
+   "number": "83",
    "name": "Get.factual (720p)",
    "language": "en",
    "category": "en-factual",
@@ -923,7 +913,7 @@
   {
    "id": "HistoryHit.uk",
    "service_id": 9668,
-   "number": "85",
+   "number": "84",
    "name": "History Hit (1080p)",
    "language": "en",
    "category": "en-factual",
@@ -933,7 +923,7 @@
   {
    "id": "HistoryTV18.in",
    "service_id": 9669,
-   "number": "86",
+   "number": "85",
    "name": "History TV18 HD (1080p) [Geo-blocked]",
    "language": "en",
    "category": "en-factual",
@@ -943,7 +933,7 @@
   {
    "id": "InWonder.nl",
    "service_id": 9670,
-   "number": "87",
+   "number": "86",
    "name": "InWonder (1080p)",
    "language": "en",
    "category": "en-factual",
@@ -953,7 +943,7 @@
   {
    "id": "MagellanTVNow.us",
    "service_id": 9676,
-   "number": "88",
+   "number": "87",
    "name": "MagellanTV Now (1080p)",
    "language": "en",
    "category": "en-factual",
@@ -963,7 +953,7 @@
   {
    "id": "NatureTime.ca",
    "service_id": 9682,
-   "number": "89",
+   "number": "88",
    "name": "NatureTime AU (1080p)",
    "language": "en",
    "category": "en-factual",
@@ -973,7 +963,7 @@
   {
    "id": "UCTV.us",
    "service_id": 9706,
-   "number": "90",
+   "number": "89",
    "name": "UCTV (720p) [Not 24/7]",
    "language": "en",
    "category": "en-factual",
@@ -983,7 +973,7 @@
   {
    "id": "WildEarth.za",
    "service_id": 9709,
-   "number": "91",
+   "number": "90",
    "name": "WildEarth (1080p)",
    "language": "en",
    "category": "en-factual",
@@ -993,7 +983,7 @@
   {
    "id": "Wonder.uk",
    "service_id": 9712,
-   "number": "92",
+   "number": "91",
    "name": "Wonder (1080p)",
    "language": "en",
    "category": "en-factual",
@@ -1003,7 +993,7 @@
   {
    "id": "beINSPORTSXTRA.us",
    "service_id": 9713,
-   "number": "93",
+   "number": "92",
    "name": "beIN SPORTS XTRA (1080p)",
    "language": "en",
    "category": "en-sports",
@@ -1013,7 +1003,7 @@
   {
    "id": "DDSports.in",
    "service_id": 9642,
-   "number": "94",
+   "number": "93",
    "name": "DD Sports HD (1080p)",
    "language": "en",
    "category": "en-sports",
@@ -1023,7 +1013,7 @@
   {
    "id": "Eurosport.in",
    "service_id": 9657,
-   "number": "95",
+   "number": "94",
    "name": "Eurosport (India) HD (1080p)",
    "language": "en",
    "category": "en-sports",
@@ -1033,7 +1023,7 @@
   {
    "id": "RedBullTV.at",
    "service_id": 9689,
-   "number": "96",
+   "number": "95",
    "name": "Red Bull TV (1080p)",
    "language": "en",
    "category": "en-sports",
@@ -1043,7 +1033,7 @@
   {
    "id": "MTVBiggestPop.us",
    "service_id": 9672,
-   "number": "97",
+   "number": "96",
    "name": "MTV Biggest Pop (1080p)",
    "language": "en",
    "category": "en-music",

@@ -1,7 +1,7 @@
 {
- "version": 15,
- "content_hash": "852648814cc5fe9a4c2dbed9ac8db42e90d45fa124f5b6b0e166c1389222c2d0",
- "generated_at": "2026-11-17T08:04:25Z",
+ "version": 16,
+ "content_hash": "bacf72d90c9060eb3686358d6928712abfbac70a23685072615d6bf63ff7b5d2",
+ "generated_at": "2026-11-18T07:40:24Z",
  "service_ids": {
   "7SMusic.in@SD": 9502,
   "AFV.us": 9628,
@@ -578,7 +578,7 @@
    "available": false
   },
   "OliTV.in@SD": {
-   "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
+   "url": "https://hlslive.olidigital.in/olitv/olitv/index.m3u8",
    "available": true
   },
   "PeppersTV.in@SD": {
@@ -707,10 +707,6 @@
   },
   "SubinTV.in@SD": {
    "url": "https://stream.galaxyott.live/live/subintv/index.m3u8",
-   "available": true
-  },
-  "SunTV.in@HD": {
-   "url": "https://d2px1d6ssc60fw.cloudfront.net/SunTV/SunTV-HDR10-IN-index.m3u8",
    "available": true
   },
   "SuriyaTV.in@SD": {
@@ -843,7 +839,7 @@
   }
  },
  "source_counts": {
-  "ta": 118,
+  "ta": 117,
   "en": 64
  }
 }

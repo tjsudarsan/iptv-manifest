@@ -1,32 +1,32 @@
 # Live TV manifest report
 
-Version 15 · generated 2026-11-17T08:04:25Z · 97 channels, 57 unavailable, 28 excluded
+Version 16 · generated 2026-11-18T07:40:24Z · 96 channels, 57 unavailable, 28 excluded
 
 ## Tamil
 
 **Music** 1–8: 1 Isai Aruvi (396p), 2 Raj Musix Tamil (1080p), 3 7S Music (576p), 4 Peppers TV (751p), 5 Tunes 6 (720p), 6 Ultimate TV (1080p), 7 Sana Plus (1080p), 8 Aaryaa TV (1080p)
 
-**Entertainment & comedy** 9–33: 9 Sun TV HD (1080p), 10 Kalaignar TV (396p), 11 Sirippoli TV (576p), 12 Star Vijay UK (396p), 13 Zee Tamil HD (1080p), 14 Colors Tamil HD (720p), 15 Raj TV (1080p), 16 Polimer TV (720p), 17 Kalaignar Murasu (396p), 18 DD Tamil HD (1080p), 19 Makkal TV (576i), 20 Marutam TV (1080p), 21 NH Tamil Gold (1080p), 22 NTC TV (720p), 23 Oli TV (India) (1080p), 24 Raj Digital Plus (1080p), 25 Sana TV (1080p), 26 Sooriyan TV (1080p), 27 Subin TV (1080p), 28 Suriya TV (1080p), 29 Suriyan TV (576p), 30 Thalaa TV (1080p), 31 Thanthi One (576p), 32 Vasanth TV (576p), 33 Vendhar TV (576p)
+**Entertainment & comedy** 9–32: 9 Kalaignar TV (396p), 10 Sirippoli TV (576p), 11 Star Vijay UK (396p), 12 Zee Tamil HD (1080p), 13 Colors Tamil HD (720p), 14 Raj TV (1080p), 15 Polimer TV (720p), 16 Kalaignar Murasu (396p), 17 DD Tamil HD (1080p), 18 Makkal TV (576i), 19 Marutam TV (1080p), 20 NH Tamil Gold (1080p), 21 NTC TV (720p), 22 Oli TV (India) (1080p), 23 Raj Digital Plus (1080p), 24 Sana TV (1080p), 25 Sooriyan TV (1080p), 26 Subin TV (1080p), 27 Suriya TV (1080p), 28 Suriyan TV (576p), 29 Thalaa TV (1080p), 30 Thanthi One (576p), 31 Vasanth TV (576p), 32 Vendhar TV (576p)
 
-**News** 34–48: 34 Gem TV (720p), 35 Kalaignar Seithigal (576p), 36 Madhimugam TV (576p), 37 Malai Murasu TV (576p), 38 News 7 Tamil (576p), 39 News J (720p) [Not 24/7], 40 News Tamil 24x7 (1080p), 41 News18 Tamil Nadu (1080p), 42 Polimer News (576p), 43 Puthiya Thalaimurai (576p), 44 Puthiya Thalaimurai Express (720p), 45 Sathiyam TV (576p), 46 Tamil Janam (576p), 47 Thanthi TV (576p), 48 Velicham TV (576p)
+**News** 33–47: 33 Gem TV (720p), 34 Kalaignar Seithigal (576p), 35 Madhimugam TV (576p), 36 Malai Murasu TV (576p), 37 News 7 Tamil (576p), 38 News J (720p) [Not 24/7], 39 News Tamil 24x7 (1080p), 40 News18 Tamil Nadu (1080p), 41 Polimer News (576p), 42 Puthiya Thalaimurai (576p), 43 Puthiya Thalaimurai Express (720p), 44 Sathiyam TV (576p), 45 Tamil Janam (576p), 46 Thanthi TV (576p), 47 Velicham TV (576p)
 
-**Other** 49–57: 49 Chithiram (576p), 50 DD Sports HD (1080p), 51 History TV18 HD (1080p) [Geo-blocked], 52 Imai TV (1080p), 53 NDTV Good Times (1080p), 54 Puthuyugam TV (576p), 55 Shakthi TV (576p), 56 Sony Yay! (576p), 57 Tamilan TV (576p)
+**Other** 48–56: 48 Chithiram (576p), 49 DD Sports HD (1080p), 50 History TV18 HD (1080p) [Geo-blocked], 51 Imai TV (576i), 52 NDTV Good Times (1080p), 53 Puthuyugam TV (576p), 54 Shakthi TV (576p), 55 Sony Yay! (1080p), 56 Tamilan TV (576p)
 
-**Hindu devotional** 58–65: 58 Aastha Tamil (480p), 59 Bhagyam TV (1080p), 60 OM TV (576p), 61 Sai TV (576p), 62 Sairam TV (576p), 63 Sankara TV (576p), 64 Sivan TV (1080p), 65 SVBC 2 (1080p)
+**Hindu devotional** 57–64: 57 Aastha Tamil (480p), 58 Bhagyam TV (1080p), 59 OM TV (576p), 60 Sai TV (576p), 61 Sairam TV (576p), 62 Sankara TV (576p), 63 Sivan TV (1080p), 64 SVBC 2 (1080p)
 
 ## English
 
-**Entertainment & comedy** 66–73: 66 AFV (720p), 67 Comedy Central (United States) CA, 68 Dove Channel (1080p), 69 Dry Bar Comedy+ (720p), 70 FailArmy (720p), 71 Just for Laughs Gags (1080p), 72 Mr Bean Live Action (1080p), 73 The Pet Collective (720p)
+**Entertainment & comedy** 65–72: 65 AFV (720p), 66 Comedy Central (United States) CA, 67 Dove Channel (1080p), 68 Dry Bar Comedy+ (720p), 69 FailArmy (720p), 70 Just for Laughs Gags (1080p), 71 Mr Bean Live Action (1080p), 72 The Pet Collective (720p)
 
-**Movies** 74–77: 74 Rakuten TV Action Movies UK (1080p), 75 Rakuten TV Comedy Movies UK (1080p), 76 Rakuten TV Drama Movies UK (1080p), 77 Rakuten TV Family Movies UK (1080p)
+**Movies** 73–76: 73 Rakuten TV Action Movies UK (1080p), 74 Rakuten TV Comedy Movies UK (1080p), 75 Rakuten TV Drama Movies UK (1080p), 76 Rakuten TV Family Movies UK (1080p)
 
-**Cartoons & anime** 78–79: 78 Animax Asia India (1080p) [Geo-blocked], 79 Mr Bean Animated (1080p)
+**Cartoons & anime** 77–78: 77 Animax Asia India (1080p) [Geo-blocked], 78 Mr Bean Animated (1080p)
 
-**Science, nature & history** 80–92: 80 Autentic History (1080p), 81 BBC Earth US (1080p), 82 Curiosity NOW EN (1080p), 83 DocuBay TV (1080p), 84 Get.factual (720p), 85 History Hit (1080p), 86 History TV18 HD (1080p) [Geo-blocked], 87 InWonder (1080p), 88 MagellanTV Now (1080p), 89 NatureTime AU (1080p), 90 UCTV (720p) [Not 24/7], 91 WildEarth (1080p), 92 Wonder (1080p)
+**Science, nature & history** 79–91: 79 Autentic History (1080p), 80 BBC Earth US (1080p), 81 Curiosity NOW EN (1080p), 82 DocuBay TV (1080p), 83 Get.factual (720p), 84 History Hit (1080p), 85 History TV18 HD (1080p) [Geo-blocked], 86 InWonder (1080p), 87 MagellanTV Now (1080p), 88 NatureTime AU (1080p), 89 UCTV (720p) [Not 24/7], 90 WildEarth (1080p), 91 Wonder (1080p)
 
-**Sports** 93–96: 93 beIN SPORTS XTRA (1080p), 94 DD Sports HD (1080p), 95 Eurosport (India) HD (1080p), 96 Red Bull TV (1080p)
+**Sports** 92–95: 92 beIN SPORTS XTRA (1080p), 93 DD Sports HD (1080p), 94 Eurosport (India) HD (1080p), 95 Red Bull TV (1080p)
 
-**Music** 97–97: 97 MTV Biggest Pop (1080p)
+**Music** 96–96: 96 MTV Biggest Pop (1080p)
 
 ## Unavailable
 
