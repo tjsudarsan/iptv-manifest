@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "version": 16,
- "generated_at": "2026-11-18T07:40:24Z",
+ "version": 17,
+ "generated_at": "2026-11-19T07:36:43Z",
  "min_app_version": 19,
  "refresh_minutes": 360,
  "languages": [
@@ -588,7 +588,7 @@
    "language": "ta",
    "category": "ta-other",
    "logo": "https://i.imgur.com/9tODclu.png",
-   "url": "https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8"
+   "url": "https://jalworldiptv.vercel.app/iptv/imaitv/playlist.m3u8"
   },
   {
    "id": "NDTVGoodTimes.in@SD",

@@ -1,6 +1,6 @@
 # Live TV manifest report
 
-Version 16 · generated 2026-11-18T07:40:24Z · 96 channels, 57 unavailable, 28 excluded
+Version 17 · generated 2026-11-19T07:36:43Z · 96 channels, 57 unavailable, 29 excluded
 
 ## Tamil
 
@@ -113,6 +113,7 @@ Version 16 · generated 2026-11-18T07:40:24Z · 96 channels, 57 unavailable, 28 
 - Mei Alai TV (576p) (MeiAlaiTV.in@SD): Excluded: owner channel selection
 - Moon TV (576p) (MoonTV.in@SD): Excluded: owner channel selection
 - Nambikkai TV (576p) (NambikkaiTV.in@SD): Excluded: devotional channel outside Hindu selection
+- Sivan Temple TV (720p) (SivanTempleTV.in@SD): Excluded: devotional channel outside Hindu selection
 - TamilVision-TV (1080p) (TamilVisionTV.ca@SD): Excluded: owner channel selection
 - Thendral TV (576p) (ThendralTV.in@SD): Excluded: owner channel selection
 - Vaanavil TV (720p) (VaanavilTV.in@SD): Excluded: owner channel selection

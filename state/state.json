@@ -1,7 +1,7 @@
 {
- "version": 16,
- "content_hash": "bacf72d90c9060eb3686358d6928712abfbac70a23685072615d6bf63ff7b5d2",
- "generated_at": "2026-11-18T07:40:24Z",
+ "version": 17,
+ "content_hash": "f35c1f35f09d08fd6b830b42f38ec8f57060a87e1d846f4b2b58d5e677c5a099",
+ "generated_at": "2026-11-19T07:36:43Z",
  "service_ids": {
   "7SMusic.in@SD": 9502,
   "AFV.us": 9628,
@@ -160,6 +160,7 @@
   "ShakthiTV.lk@SD": 9588,
   "SirippoliTV.in@SD": 9589,
   "SivanTV.ch@SD": 9590,
+  "SivanTempleTV.in@SD": 9722,
   "SkySportsF1.uk": 9690,
   "Sonic.in@SD": 9591,
   "SonyBBCEarth.in": 9691,
@@ -430,7 +431,7 @@
    "available": false
   },
   "ImaiTV.lk@SD": {
-   "url": "https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8",
+   "url": "https://jalworldiptv.vercel.app/iptv/imaitv/playlist.m3u8",
    "available": true
   },
   "InWonder.nl": {
@@ -839,7 +840,7 @@
   }
  },
  "source_counts": {
-  "ta": 117,
+  "ta": 118,
   "en": 64
  }
 }
