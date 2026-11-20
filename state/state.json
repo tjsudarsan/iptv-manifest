@@ -1,7 +1,7 @@
 {
- "version": 17,
- "content_hash": "f35c1f35f09d08fd6b830b42f38ec8f57060a87e1d846f4b2b58d5e677c5a099",
- "generated_at": "2026-11-19T07:36:43Z",
+ "version": 18,
+ "content_hash": "f0f4a4ac8b74bf2e335ec42b0107376e26f5222fdfbbb1b4108b93c0b821a0a8",
+ "generated_at": "2026-11-20T07:27:27Z",
  "service_ids": {
   "7SMusic.in@SD": 9502,
   "AFV.us": 9628,
@@ -53,6 +53,7 @@
   "DiscoveryTurbo.in": 9647,
   "DisneyChannel.in": 9648,
   "DisneyChannel.in@HD": 9529,
+  "DisneyChannel.in@SD": 9723,
   "DisneyInternationalHD.in": 9649,
   "DisneyJunior.in": 9650,
   "DisneyJunior.in@SD": 9530,
@@ -123,6 +124,7 @@
   "NambikkaiTV.in@SD": 9563,
   "NationalGeographic.in@HD": 9717,
   "NationalGeographic.us": 9680,
+  "NationalGeographicWild.in@HD": 9724,
   "NationalGeographicWild.us": 9681,
   "NatureTime.ca": 9682,
   "News18TamilNadu.in@SD": 9564,
@@ -231,7 +233,7 @@
    "available": true
   },
   "AFV.us": {
-   "url": "https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8",
+   "url": "https://linear-1208.frequency.stream/mt/vizio/1208/hls/master/playlist.m3u8",
    "available": true
   },
   "AXNBlack.us": {
@@ -271,7 +273,7 @@
    "available": true
   },
   "BBCEarth.uk": {
-   "url": "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8",
+   "url": "https://amg00793-amg00793c6-vizio-us-2670.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearthaall-vizious/playlist.m3u8",
    "available": true
   },
   "BeritaRTM.my@SD": {
@@ -335,6 +337,26 @@
    "available": false
   },
   "DiscoveryHistory.uk": {
+   "url": "",
+   "available": false
+  },
+  "DiscoveryScience.in": {
+   "url": "",
+   "available": false
+  },
+  "DiscoveryTurbo.in": {
+   "url": "",
+   "available": false
+  },
+  "DisneyChannel.in": {
+   "url": "",
+   "available": false
+  },
+  "DisneyChannel.in@HD": {
+   "url": "",
+   "available": false
+  },
+  "DisneyChannel.in@SD": {
    "url": "",
    "available": false
   },
@@ -510,6 +532,10 @@
    "url": "",
    "available": false
   },
+  "MoviesNowPlus.in@HD": {
+   "url": "",
+   "available": false
+  },
   "MrBeanAnimated.uk": {
    "url": "https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8",
    "available": true
@@ -534,7 +560,15 @@
    "url": "https://galaxyott.live/hls/ntv.m3u8",
    "available": true
   },
+  "NationalGeographic.in@HD": {
+   "url": "",
+   "available": false
+  },
   "NationalGeographic.us": {
+   "url": "",
+   "available": false
+  },
+  "NationalGeographicWild.in@HD": {
    "url": "",
    "available": false
   },
@@ -690,6 +724,22 @@
    "url": "",
    "available": false
   },
+  "SonyBBCEarth.in": {
+   "url": "",
+   "available": false
+  },
+  "SonyBBCEarth.in@HD": {
+   "url": "",
+   "available": false
+  },
+  "SonyPix.in": {
+   "url": "",
+   "available": false
+  },
+  "SonyPix.in@HD": {
+   "url": "",
+   "available": false
+  },
   "SonyYay.in@SD": {
    "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
    "available": true
@@ -747,8 +797,8 @@
    "available": true
   },
   "TheBobRossChannel.us": {
-   "url": "",
-   "available": false
+   "url": "https://wurlcineverse.global.transmit.live/hls/678863ef58870f59fceabf94/v1/cinedigm_entertainment_corp_thebobrosschannel_1/vizio_us/latest/main/hls/playlist.m3u8",
+   "available": true
   },
   "ThePetCollective.us": {
    "url": "https://the-pet-collective-international-dk.samsung.wurl.tv/playlist.m3u8",
@@ -840,7 +890,7 @@
   }
  },
  "source_counts": {
-  "ta": 118,
-  "en": 64
+  "ta": 125,
+  "en": 69
  }
 }

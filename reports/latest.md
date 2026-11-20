@@ -1,6 +1,6 @@
 # Live TV manifest report
 
-Version 17 · generated 2026-11-19T07:36:43Z · 96 channels, 57 unavailable, 29 excluded
+Version 18 · generated 2026-11-20T07:27:27Z · 97 channels, 68 unavailable, 29 excluded
 
 ## Tamil
 
@@ -10,23 +10,23 @@ Version 17 · generated 2026-11-19T07:36:43Z · 96 channels, 57 unavailable, 29 
 
 **News** 33–47: 33 Gem TV (720p), 34 Kalaignar Seithigal (576p), 35 Madhimugam TV (576p), 36 Malai Murasu TV (576p), 37 News 7 Tamil (576p), 38 News J (720p) [Not 24/7], 39 News Tamil 24x7 (1080p), 40 News18 Tamil Nadu (1080p), 41 Polimer News (576p), 42 Puthiya Thalaimurai (576p), 43 Puthiya Thalaimurai Express (720p), 44 Sathiyam TV (576p), 45 Tamil Janam (576p), 46 Thanthi TV (576p), 47 Velicham TV (576p)
 
-**Other** 48–56: 48 Chithiram (576p), 49 DD Sports HD (1080p), 50 History TV18 HD (1080p) [Geo-blocked], 51 Imai TV (576i), 52 NDTV Good Times (1080p), 53 Puthuyugam TV (576p), 54 Shakthi TV (576p), 55 Sony Yay! (1080p), 56 Tamilan TV (576p)
+**Other** 48–56: 48 Chithiram (576p), 49 DD Sports HD (1080p), 50 History TV18 HD (1080p), 51 Imai TV (576i), 52 NDTV Good Times (1080p), 53 Puthuyugam TV (576p), 54 Shakthi TV (576p), 55 Sony Yay! (1080p), 56 Tamilan TV (576p)
 
 **Hindu devotional** 57–64: 57 Aastha Tamil (480p), 58 Bhagyam TV (1080p), 59 OM TV (576p), 60 Sai TV (576p), 61 Sairam TV (576p), 62 Sankara TV (576p), 63 Sivan TV (1080p), 64 SVBC 2 (1080p)
 
 ## English
 
-**Entertainment & comedy** 65–72: 65 AFV (720p), 66 Comedy Central (United States) CA, 67 Dove Channel (1080p), 68 Dry Bar Comedy+ (720p), 69 FailArmy (720p), 70 Just for Laughs Gags (1080p), 71 Mr Bean Live Action (1080p), 72 The Pet Collective (720p)
+**Entertainment & comedy** 65–73: 65 AFV (1080p), 66 Comedy Central (United States) CA, 67 Dove Channel (1080p), 68 Dry Bar Comedy+ (720p), 69 FailArmy (720p), 70 Just for Laughs Gags (1080p), 71 Mr Bean Live Action (1080p), 72 The Bob Ross Channel (1080p), 73 The Pet Collective (720p)
 
-**Movies** 73–76: 73 Rakuten TV Action Movies UK (1080p), 74 Rakuten TV Comedy Movies UK (1080p), 75 Rakuten TV Drama Movies UK (1080p), 76 Rakuten TV Family Movies UK (1080p)
+**Movies** 74–77: 74 Rakuten TV Action Movies UK (1080p), 75 Rakuten TV Comedy Movies UK (1080p), 76 Rakuten TV Drama Movies UK (1080p), 77 Rakuten TV Family Movies UK (1080p)
 
-**Cartoons & anime** 77–78: 77 Animax Asia India (1080p) [Geo-blocked], 78 Mr Bean Animated (1080p)
+**Cartoons & anime** 78–79: 78 Animax Asia India (1080p) [Geo-blocked], 79 Mr Bean Animated (1080p)
 
-**Science, nature & history** 79–91: 79 Autentic History (1080p), 80 BBC Earth US (1080p), 81 Curiosity NOW EN (1080p), 82 DocuBay TV (1080p), 83 Get.factual (720p), 84 History Hit (1080p), 85 History TV18 HD (1080p) [Geo-blocked], 86 InWonder (1080p), 87 MagellanTV Now (1080p), 88 NatureTime AU (1080p), 89 UCTV (720p) [Not 24/7], 90 WildEarth (1080p), 91 Wonder (1080p)
+**Science, nature & history** 80–92: 80 Autentic History (1080p), 81 BBC Earth US (1080p), 82 Curiosity NOW EN (1080p), 83 DocuBay TV (1080p), 84 Get.factual (720p), 85 History Hit (1080p), 86 History TV18 HD (1080p), 87 InWonder (1080p), 88 MagellanTV Now (1080p), 89 NatureTime AU (1080p), 90 UCTV (720p) [Not 24/7], 91 WildEarth (1080p), 92 Wonder (1080p)
 
-**Sports** 92–95: 92 beIN SPORTS XTRA (1080p), 93 DD Sports HD (1080p), 94 Eurosport (India) HD (1080p), 95 Red Bull TV (1080p)
+**Sports** 93–96: 93 beIN SPORTS XTRA (1080p), 94 DD Sports HD (1080p), 95 Eurosport (India) HD (1080p), 96 Red Bull TV (1080p)
 
-**Music** 96–96: 96 MTV Biggest Pop (1080p)
+**Music** 97–97: 97 MTV Biggest Pop (1080p)
 
 ## Unavailable
 
@@ -39,24 +39,30 @@ Version 17 · generated 2026-11-19T07:36:43Z · 96 channels, 57 unavailable, 29 
 - IBC Tamil (1080p) (IBCTamil.uk@SD, Entertainment & comedy): [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ibc.massstream.net'. (_ssl.c:10
 - Jaya Plus (576p) (JayaPlus.in@SD, Entertainment & comedy): HTTP 404
 - Monara TV (720p) [Not 24/7] (MonaraTV.lk@SD, Entertainment & comedy): [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)
-- Movies Now HD (576p) (MoviesNow.in@HD, Entertainment & comedy): Unsupported stream address
+- Movies Now + (1080p) (MoviesNowPlus.in@HD, Entertainment & comedy): Unsupported stream address
+- Movies Now HD (1080p) (MoviesNow.in@HD, Entertainment & comedy): Unsupported stream address
 - NDTV LANKA (1080p) (NDTVLANKA.lk@SD, Entertainment & comedy): [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)
 - Okey (1080p) (Okey.my@SD, Entertainment & comedy): Requires additional request headers
+- Sony Pix HD (1080p) (SonyPix.in@HD, Entertainment & comedy): Unsupported stream address
 - Star Tamil Television (360p) (StarTamilTelevision.lk@SD, Entertainment & comedy): timed out
 - TV2 (Malaysia) (1080p) (TV2.my@SD, Entertainment & comedy): Requires additional request headers
 - Berita RTM (1080p) (BeritaRTM.my@SD, News): Requires additional request headers
 - Zee Tamil News (720p) (ZeeTamilNews.in@SD, News): DNS lookup failed
 - Cartoon Network HD+ (1080p) (CartoonNetworkHDPlus.in@HD, Other): Unsupported stream address
+- Disney Channel (India) (576p) (DisneyChannel.in@SD, Other): Unsupported stream address
+- Disney Channel (India) HD (1080p) (DisneyChannel.in@HD, Other): Unsupported stream address
+- National Geographic (India) HD (1080p) (NationalGeographic.in@HD, Other): Unsupported stream address
+- National Geographic Wild (India) HD (1080p) (NationalGeographicWild.in@HD, Other): Unsupported stream address
 - Nickelodeon (India) (576p) (Nickelodeon.in@SD, Other): Unsupported stream address
 - Pogo (576p) (Pogo.in@SD, Other): Unsupported stream address
 - Sonic (576p) (Sonic.in@SD, Other): Unsupported stream address
+- Sony BBC Earth HD (1080p) (SonyBBCEarth.in@HD, Other): Unsupported stream address
 - Travelxp 4K HDR (2160p) [Geo-blocked] (Travelxp.in@4KHDR, Other): HTTP 403
 - Travelxp HD (1080p) [Geo-blocked] (Travelxp.in@HD, Other): HTTP 503
 - Win TV (576p) (WinTV.in@SD, Other): HTTP 404
 - WOW Kidz Tamil (720p) (WOWKidz.in@Tamil, Other): Unsupported stream address
 - IBC Bakthi (1080p) (IBCBakthi.uk@SD, Hindu devotional): [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ibc.massstream.net'. (_ssl.c:10
 - MTV Global (MTVGlobal.uk, Entertainment & comedy): Requires additional request headers
-- The Bob Ross Channel (720p) (TheBobRossChannel.us, Entertainment & comedy): HTTP 404
 - AXN Black (United States) Czech Republic (AXNBlack.us, Movies): Unsupported stream address
 - AXN CEE (AXNCEE.es, Movies): Requires additional request headers
 - AXN Crime (AXNCrime.us, Movies): Requires additional request headers
@@ -65,19 +71,24 @@ Version 17 · generated 2026-11-19T07:36:43Z · 96 channels, 57 unavailable, 29 
 - HBO Family Asia HD (1080p) (HBOFamilyAsia.sg, Movies): Unsupported stream address
 - HBO Hits Asia HD (1080p) (HBOHitsAsia.sg, Movies): Unsupported stream address
 - HBO Signature Asia HD (1080p) (HBOSignatureAsia.sg, Movies): Unsupported stream address
-- Movies Now HD (576p) (MoviesNow.in, Movies): Unsupported stream address
+- Movies Now HD (1080p) (MoviesNow.in, Movies): Unsupported stream address
+- Sony Pix HD (1080p) (SonyPix.in, Movies): Unsupported stream address
 - Warner TV Asia (720p) (WarnerTVAsia.us, Movies): Requires additional request headers
 - Boomerang (United States) (720p) (Boomerang.us, Cartoons & anime): Unsupported stream address
 - Cartoon Network Asia (720p) (CartoonNetworkAsia.sg, Cartoons & anime): Unsupported stream address
+- Disney Channel (India) (576p) (DisneyChannel.in, Cartoons & anime): Unsupported stream address
 - Disney XD (United States) (720p) (DisneyXD.us, Cartoons & anime): Unsupported stream address
 - Nick Jr. (India) (576p) (NickJr.in, Cartoons & anime): Unsupported stream address
 - Discovery Channel (India) HD (1080p) (DiscoveryChannel.in, Science, nature & history): Unsupported stream address
 - Discovery History (DiscoveryHistory.uk, Science, nature & history): Unsupported stream address
+- Discovery Science (576p) (DiscoveryScience.in, Science, nature & history): Unsupported stream address
 - History (United States) (720p) (History.us, Science, nature & history): Unsupported stream address
 - National Geographic (United States) (720p) (NationalGeographic.us, Science, nature & history): Unsupported stream address
 - National Geographic Wild (United States) HD East (720p) (NationalGeographicWild.us, Science, nature & history): Unsupported stream address
+- Sony BBC Earth HD (1080p) (SonyBBCEarth.in, Science, nature & history): Unsupported stream address
 - Terra Mater WILD English (1080p) (TerraMaterWILD.de, Science, nature & history): DNS lookup failed
 - Travel Channel (Poland) (576i) (TravelChannel.pl, Science, nature & history): Unsupported stream address
+- Discovery Turbo (India) (576p) (DiscoveryTurbo.in, Sports): Unsupported stream address
 - ESPN (United States) (432p) (ESPN.us, Sports): Unsupported stream address
 - ESPN 2 (United States) HD (720p) (ESPN2.us, Sports): Unsupported stream address
 - Fox Sports 1 (720p) (FoxSports1.us, Sports): Unsupported stream address
