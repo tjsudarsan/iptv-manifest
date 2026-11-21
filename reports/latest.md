@@ -1,6 +1,6 @@
 # Live TV manifest report
 
-Version 18 · generated 2026-11-20T07:27:27Z · 97 channels, 68 unavailable, 29 excluded
+Version 19 · generated 2026-11-21T07:22:19Z · 97 channels, 77 unavailable, 29 excluded
 
 ## Tamil
 
@@ -44,8 +44,11 @@ Version 18 · generated 2026-11-20T07:27:27Z · 97 channels, 68 unavailable, 29 
 - NDTV LANKA (1080p) (NDTVLANKA.lk@SD, Entertainment & comedy): [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)
 - Okey (1080p) (Okey.my@SD, Entertainment & comedy): Requires additional request headers
 - Sony Pix HD (1080p) (SonyPix.in@HD, Entertainment & comedy): Unsupported stream address
+- Star Movies (India) HD (1080p) (StarMovies.in@HD, Entertainment & comedy): Unsupported stream address
+- Star Movies Select HD (1080p) (StarMoviesSelect.in@HD, Entertainment & comedy): Unsupported stream address
 - Star Tamil Television (360p) (StarTamilTelevision.lk@SD, Entertainment & comedy): timed out
 - TV2 (Malaysia) (1080p) (TV2.my@SD, Entertainment & comedy): Requires additional request headers
+- Zee Thirai HD (1080p) (ZeeThirai.in@HD, Entertainment & comedy): Unsupported stream address
 - Berita RTM (1080p) (BeritaRTM.my@SD, News): Requires additional request headers
 - Zee Tamil News (720p) (ZeeTamilNews.in@SD, News): DNS lookup failed
 - Cartoon Network HD+ (1080p) (CartoonNetworkHDPlus.in@HD, Other): Unsupported stream address
@@ -57,6 +60,7 @@ Version 18 · generated 2026-11-20T07:27:27Z · 97 channels, 68 unavailable, 29 
 - Pogo (576p) (Pogo.in@SD, Other): Unsupported stream address
 - Sonic (576p) (Sonic.in@SD, Other): Unsupported stream address
 - Sony BBC Earth HD (1080p) (SonyBBCEarth.in@HD, Other): Unsupported stream address
+- Star Sports 2 HD (1080p) (StarSports2.in@HD, Other): Unsupported stream address
 - Travelxp 4K HDR (2160p) [Geo-blocked] (Travelxp.in@4KHDR, Other): HTTP 403
 - Travelxp HD (1080p) [Geo-blocked] (Travelxp.in@HD, Other): HTTP 503
 - Win TV (576p) (WinTV.in@SD, Other): HTTP 404
@@ -87,6 +91,7 @@ Version 18 · generated 2026-11-20T07:27:27Z · 97 channels, 68 unavailable, 29 
 - National Geographic Wild (United States) HD East (720p) (NationalGeographicWild.us, Science, nature & history): Unsupported stream address
 - Sony BBC Earth HD (1080p) (SonyBBCEarth.in, Science, nature & history): Unsupported stream address
 - Terra Mater WILD English (1080p) (TerraMaterWILD.de, Science, nature & history): DNS lookup failed
+- TLC (India) HD (1080p) (TLC.in, Science, nature & history): Unsupported stream address
 - Travel Channel (Poland) (576i) (TravelChannel.pl, Science, nature & history): Unsupported stream address
 - Discovery Turbo (India) (576p) (DiscoveryTurbo.in, Sports): Unsupported stream address
 - ESPN (United States) (432p) (ESPN.us, Sports): Unsupported stream address
@@ -94,6 +99,10 @@ Version 18 · generated 2026-11-20T07:27:27Z · 97 channels, 68 unavailable, 29 
 - Fox Sports 1 (720p) (FoxSports1.us, Sports): Unsupported stream address
 - Fox Sports 2 (720p) (FoxSports2.us, Sports): Fails from India (TV check 2026-11-04: timeout)
 - Sky Sports F1 (720p) (SkySportsF1.uk, Sports): Requires additional request headers
+- Sony Sports Ten 1 (576p) (SonySportsTen1.in, Sports): Unsupported stream address
+- Sony Sports Ten 2 HD (1080p) (SonySportsTen2.in, Sports): Unsupported stream address
+- Sony Sports Ten 5 (576p) (SonySportsTen5.in, Sports): Unsupported stream address
+- Star Sports 2 HD (1080p) (StarSports2.in, Sports): Unsupported stream address
 - Willow (720p) (Willow.us, Sports): Unsupported stream address
 - Willow Sports (1080p) (WillowSports.us, Sports): Fails from India (TV check 2026-11-04: HTTP 403)
 - MTV Classic CA (720p) (MTVClassic.us, Music): Encrypted stream; not checked

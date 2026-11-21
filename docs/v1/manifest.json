@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "version": 18,
- "generated_at": "2026-11-20T07:27:27Z",
+ "version": 19,
+ "generated_at": "2026-11-21T07:22:19Z",
  "min_app_version": 19,
  "refresh_minutes": 360,
  "languages": [
@@ -1137,6 +1137,18 @@
    "category": "ta-entertainment"
   },
   {
+   "id": "StarMovies.in@HD",
+   "name": "Star Movies (India) HD (1080p)",
+   "language": "ta",
+   "category": "ta-entertainment"
+  },
+  {
+   "id": "StarMoviesSelect.in@HD",
+   "name": "Star Movies Select HD (1080p)",
+   "language": "ta",
+   "category": "ta-entertainment"
+  },
+  {
    "id": "StarTamilTelevision.lk@SD",
    "name": "Star Tamil Television (360p)",
    "language": "ta",
@@ -1145,6 +1157,12 @@
   {
    "id": "TV2.my@SD",
    "name": "TV2 (Malaysia) (1080p)",
+   "language": "ta",
+   "category": "ta-entertainment"
+  },
+  {
+   "id": "ZeeThirai.in@HD",
+   "name": "Zee Thirai HD (1080p)",
    "language": "ta",
    "category": "ta-entertainment"
   },
@@ -1211,6 +1229,12 @@
   {
    "id": "SonyBBCEarth.in@HD",
    "name": "Sony BBC Earth HD (1080p)",
+   "language": "ta",
+   "category": "ta-other"
+  },
+  {
+   "id": "StarSports2.in@HD",
+   "name": "Star Sports 2 HD (1080p)",
    "language": "ta",
    "category": "ta-other"
   },
@@ -1395,6 +1419,12 @@
    "category": "en-factual"
   },
   {
+   "id": "TLC.in",
+   "name": "TLC (India) HD (1080p)",
+   "language": "en",
+   "category": "en-factual"
+  },
+  {
    "id": "TravelChannel.pl",
    "name": "Travel Channel (Poland) (576i)",
    "language": "en",
@@ -1433,6 +1463,30 @@
   {
    "id": "SkySportsF1.uk",
    "name": "Sky Sports F1 (720p)",
+   "language": "en",
+   "category": "en-sports"
+  },
+  {
+   "id": "SonySportsTen1.in",
+   "name": "Sony Sports Ten 1 (576p)",
+   "language": "en",
+   "category": "en-sports"
+  },
+  {
+   "id": "SonySportsTen2.in",
+   "name": "Sony Sports Ten 2 HD (1080p)",
+   "language": "en",
+   "category": "en-sports"
+  },
+  {
+   "id": "SonySportsTen5.in",
+   "name": "Sony Sports Ten 5 (576p)",
+   "language": "en",
+   "category": "en-sports"
+  },
+  {
+   "id": "StarSports2.in",
+   "name": "Star Sports 2 HD (1080p)",
    "language": "en",
    "category": "en-sports"
   },

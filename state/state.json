@@ -1,7 +1,7 @@
 {
- "version": 18,
- "content_hash": "f0f4a4ac8b74bf2e335ec42b0107376e26f5222fdfbbb1b4108b93c0b821a0a8",
- "generated_at": "2026-11-20T07:27:27Z",
+ "version": 19,
+ "content_hash": "db5dea8a77c6d9cb709fdfd0bf334f7528ee2b7590bb5b647b0abb4c0d5dd1b6",
+ "generated_at": "2026-11-21T07:22:19Z",
  "service_ids": {
   "7SMusic.in@SD": 9502,
   "AFV.us": 9628,
@@ -225,6 +225,7 @@
   "ZeeTamil.in@HD": 9625,
   "ZeeTamil.in@SD": 9626,
   "ZeeTamilNews.in@SD": 9627,
+  "ZeeThirai.in@HD": 9725,
   "beINSPORTSXTRA.us": 9713
  },
  "streams": {
@@ -740,6 +741,18 @@
    "url": "",
    "available": false
   },
+  "SonySportsTen1.in": {
+   "url": "",
+   "available": false
+  },
+  "SonySportsTen2.in": {
+   "url": "",
+   "available": false
+  },
+  "SonySportsTen5.in": {
+   "url": "",
+   "available": false
+  },
   "SonyYay.in@SD": {
    "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
    "available": true
@@ -747,6 +760,22 @@
   "SooriyanTV.ca@SD": {
    "url": "https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8",
    "available": true
+  },
+  "StarMovies.in@HD": {
+   "url": "",
+   "available": false
+  },
+  "StarMoviesSelect.in@HD": {
+   "url": "",
+   "available": false
+  },
+  "StarSports2.in": {
+   "url": "",
+   "available": false
+  },
+  "StarSports2.in@HD": {
+   "url": "",
+   "available": false
   },
   "StarTamilTelevision.lk@SD": {
    "url": "",
@@ -767,6 +796,10 @@
   "SuriyanTV.in@SD": {
    "url": "https://hlslive.olidigital.in/suriyantv/suriyantv/index.m3u8",
    "available": true
+  },
+  "TLC.in": {
+   "url": "",
+   "available": false
   },
   "TV2.my@SD": {
    "url": "",
@@ -884,13 +917,17 @@
    "url": "",
    "available": false
   },
+  "ZeeThirai.in@HD": {
+   "url": "",
+   "available": false
+  },
   "beINSPORTSXTRA.us": {
    "url": "https://bein-xtra-bein.amagi.tv/playlist.m3u8",
    "available": true
   }
  },
  "source_counts": {
-  "ta": 125,
-  "en": 69
+  "ta": 129,
+  "en": 74
  }
 }
