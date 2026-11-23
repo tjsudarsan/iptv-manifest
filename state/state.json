@@ -1,7 +1,7 @@
 {
- "version": 19,
- "content_hash": "db5dea8a77c6d9cb709fdfd0bf334f7528ee2b7590bb5b647b0abb4c0d5dd1b6",
- "generated_at": "2026-11-21T07:22:19Z",
+ "version": 20,
+ "content_hash": "e6dc350f739fef017b1b6f07b4fa752d6da875c01dbe415cd1bc441051765098",
+ "generated_at": "2026-11-23T07:51:41Z",
  "service_ids": {
   "7SMusic.in@SD": 9502,
   "AFV.us": 9628,
@@ -134,6 +134,7 @@
   "NickJr.in": 9683,
   "Nickelodeon.in@SD": 9568,
   "NickelodeonGlobal.uk": 9684,
+  "NijamTV.in@SD": 9726,
   "OMTV.in@SD": 9569,
   "Okey.my@SD": 9570,
   "OliTV.in@SD": 9571,
@@ -293,10 +294,6 @@
    "url": "",
    "available": false
   },
-  "CartoonNetworkHDPlus.in@HD": {
-   "url": "",
-   "available": false
-  },
   "Chithiram.in@SD": {
    "url": "https://cdn.pishow.tv/ott/live/1243/master.m3u8",
    "available": true
@@ -329,35 +326,7 @@
    "url": "",
    "available": false
   },
-  "DiscoveryChannel.in": {
-   "url": "",
-   "available": false
-  },
-  "DiscoveryChannel.in@HD": {
-   "url": "",
-   "available": false
-  },
   "DiscoveryHistory.uk": {
-   "url": "",
-   "available": false
-  },
-  "DiscoveryScience.in": {
-   "url": "",
-   "available": false
-  },
-  "DiscoveryTurbo.in": {
-   "url": "",
-   "available": false
-  },
-  "DisneyChannel.in": {
-   "url": "",
-   "available": false
-  },
-  "DisneyChannel.in@HD": {
-   "url": "",
-   "available": false
-  },
-  "DisneyChannel.in@SD": {
    "url": "",
    "available": false
   },
@@ -384,10 +353,6 @@
   "ESPN2.us": {
    "url": "",
    "available": false
-  },
-  "Eurosport.in": {
-   "url": "https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8",
-   "available": true
   },
   "FailArmy.us": {
    "url": "https://failarmy-international-au.samsung.wurl.tv/playlist.m3u8",
@@ -465,10 +430,6 @@
    "url": "https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8",
    "available": true
   },
-  "JayaPlus.in@SD": {
-   "url": "",
-   "available": false
-  },
   "JustforLaughsGags.us": {
    "url": "https://streams2.sofast.tv/ptnr-yupptv/title-JUST_FOR_LAUGHS_GAGS_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2790d143-5874-4146-bf91-9063c52b2f15/manifest.m3u8",
    "available": true
@@ -494,10 +455,6 @@
    "available": false
   },
   "MTVGlobal.uk": {
-   "url": "",
-   "available": false
-  },
-  "MTVLive.us": {
    "url": "",
    "available": false
   },
@@ -533,10 +490,6 @@
    "url": "",
    "available": false
   },
-  "MoviesNowPlus.in@HD": {
-   "url": "",
-   "available": false
-  },
   "MrBeanAnimated.uk": {
    "url": "https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8",
    "available": true
@@ -561,15 +514,7 @@
    "url": "https://galaxyott.live/hls/ntv.m3u8",
    "available": true
   },
-  "NationalGeographic.in@HD": {
-   "url": "",
-   "available": false
-  },
   "NationalGeographic.us": {
-   "url": "",
-   "available": false
-  },
-  "NationalGeographicWild.in@HD": {
    "url": "",
    "available": false
   },
@@ -597,14 +542,6 @@
    "url": "https://stream.ottlive.co.in/newstamil/index.m3u8",
    "available": true
   },
-  "NickJr.in": {
-   "url": "",
-   "available": false
-  },
-  "Nickelodeon.in@SD": {
-   "url": "",
-   "available": false
-  },
   "OMTV.in@SD": {
    "url": "https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8",
    "available": true
@@ -620,10 +557,6 @@
   "PeppersTV.in@SD": {
    "url": "https://cdn.pishow.tv/ott/live/1383/master.m3u8",
    "available": true
-  },
-  "Pogo.in@SD": {
-   "url": "",
-   "available": false
   },
   "PolimerNews.in@SD": {
    "url": "https://cdn.pishow.tv/ott/live/1245/master.m3u8",
@@ -721,38 +654,6 @@
    "url": "",
    "available": false
   },
-  "Sonic.in@SD": {
-   "url": "",
-   "available": false
-  },
-  "SonyBBCEarth.in": {
-   "url": "",
-   "available": false
-  },
-  "SonyBBCEarth.in@HD": {
-   "url": "",
-   "available": false
-  },
-  "SonyPix.in": {
-   "url": "",
-   "available": false
-  },
-  "SonyPix.in@HD": {
-   "url": "",
-   "available": false
-  },
-  "SonySportsTen1.in": {
-   "url": "",
-   "available": false
-  },
-  "SonySportsTen2.in": {
-   "url": "",
-   "available": false
-  },
-  "SonySportsTen5.in": {
-   "url": "",
-   "available": false
-  },
   "SonyYay.in@SD": {
    "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
    "available": true
@@ -762,18 +663,6 @@
    "available": true
   },
   "StarMovies.in@HD": {
-   "url": "",
-   "available": false
-  },
-  "StarMoviesSelect.in@HD": {
-   "url": "",
-   "available": false
-  },
-  "StarSports2.in": {
-   "url": "",
-   "available": false
-  },
-  "StarSports2.in@HD": {
    "url": "",
    "available": false
   },
@@ -796,10 +685,6 @@
   "SuriyanTV.in@SD": {
    "url": "https://hlslive.olidigital.in/suriyantv/suriyantv/index.m3u8",
    "available": true
-  },
-  "TLC.in": {
-   "url": "",
-   "available": false
   },
   "TV2.my@SD": {
    "url": "",
@@ -917,17 +802,13 @@
    "url": "",
    "available": false
   },
-  "ZeeThirai.in@HD": {
-   "url": "",
-   "available": false
-  },
   "beINSPORTSXTRA.us": {
    "url": "https://bein-xtra-bein.amagi.tv/playlist.m3u8",
    "available": true
   }
  },
  "source_counts": {
-  "ta": 129,
-  "en": 74
+  "ta": 114,
+  "en": 60
  }
 }

@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "version": 19,
- "generated_at": "2026-11-21T07:22:19Z",
+ "version": 20,
+ "generated_at": "2026-11-23T07:51:41Z",
  "min_app_version": 19,
  "refresh_minutes": 360,
  "languages": [
@@ -574,7 +574,7 @@
    "id": "HistoryTV18.in@HD",
    "service_id": 9533,
    "number": "50",
-   "name": "History TV18 HD (1080p)",
+   "name": "History TV18 HD (1080p) [Geo-blocked]",
    "language": "ta",
    "category": "ta-other",
    "logo": "https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540",
@@ -934,7 +934,7 @@
    "id": "HistoryTV18.in",
    "service_id": 9669,
    "number": "86",
-   "name": "History TV18 HD (1080p)",
+   "name": "History TV18 HD (1080p) [Geo-blocked]",
    "language": "en",
    "category": "en-factual",
    "logo": "https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540",
@@ -1021,19 +1021,9 @@
    "url": "https://cdn.pishow.tv/ott/live/1161/master.m3u8"
   },
   {
-   "id": "Eurosport.in",
-   "service_id": 9657,
-   "number": "95",
-   "name": "Eurosport (India) HD (1080p)",
-   "language": "en",
-   "category": "en-sports",
-   "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002E9LQS.png?lock=720x540",
-   "url": "https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8"
-  },
-  {
    "id": "RedBullTV.at",
    "service_id": 9689,
-   "number": "96",
+   "number": "95",
    "name": "Red Bull TV (1080p)",
    "language": "en",
    "category": "en-sports",
@@ -1043,7 +1033,7 @@
   {
    "id": "MTVBiggestPop.us",
    "service_id": 9672,
-   "number": "97",
+   "number": "96",
    "name": "MTV Biggest Pop (1080p)",
    "language": "en",
    "category": "en-music",
@@ -1083,20 +1073,8 @@
    "category": "ta-entertainment"
   },
   {
-   "id": "DiscoveryChannel.in@HD",
-   "name": "Discovery Channel (India) HD (1080p)",
-   "language": "ta",
-   "category": "ta-entertainment"
-  },
-  {
    "id": "IBCTamil.uk@SD",
    "name": "IBC Tamil (1080p)",
-   "language": "ta",
-   "category": "ta-entertainment"
-  },
-  {
-   "id": "JayaPlus.in@SD",
-   "name": "Jaya Plus (576p)",
    "language": "ta",
    "category": "ta-entertainment"
   },
@@ -1107,14 +1085,8 @@
    "category": "ta-entertainment"
   },
   {
-   "id": "MoviesNowPlus.in@HD",
-   "name": "Movies Now + (1080p)",
-   "language": "ta",
-   "category": "ta-entertainment"
-  },
-  {
    "id": "MoviesNow.in@HD",
-   "name": "Movies Now HD (1080p)",
+   "name": "Movies Now HD (576p)",
    "language": "ta",
    "category": "ta-entertainment"
   },
@@ -1131,20 +1103,8 @@
    "category": "ta-entertainment"
   },
   {
-   "id": "SonyPix.in@HD",
-   "name": "Sony Pix HD (1080p)",
-   "language": "ta",
-   "category": "ta-entertainment"
-  },
-  {
    "id": "StarMovies.in@HD",
    "name": "Star Movies (India) HD (1080p)",
-   "language": "ta",
-   "category": "ta-entertainment"
-  },
-  {
-   "id": "StarMoviesSelect.in@HD",
-   "name": "Star Movies Select HD (1080p)",
    "language": "ta",
    "category": "ta-entertainment"
   },
@@ -1161,12 +1121,6 @@
    "category": "ta-entertainment"
   },
   {
-   "id": "ZeeThirai.in@HD",
-   "name": "Zee Thirai HD (1080p)",
-   "language": "ta",
-   "category": "ta-entertainment"
-  },
-  {
    "id": "BeritaRTM.my@SD",
    "name": "Berita RTM (1080p)",
    "language": "ta",
@@ -1177,66 +1131,6 @@
    "name": "Zee Tamil News (720p)",
    "language": "ta",
    "category": "ta-news"
-  },
-  {
-   "id": "CartoonNetworkHDPlus.in@HD",
-   "name": "Cartoon Network HD+ (1080p)",
-   "language": "ta",
-   "category": "ta-other"
-  },
-  {
-   "id": "DisneyChannel.in@SD",
-   "name": "Disney Channel (India) (576p)",
-   "language": "ta",
-   "category": "ta-other"
-  },
-  {
-   "id": "DisneyChannel.in@HD",
-   "name": "Disney Channel (India) HD (1080p)",
-   "language": "ta",
-   "category": "ta-other"
-  },
-  {
-   "id": "NationalGeographic.in@HD",
-   "name": "National Geographic (India) HD (1080p)",
-   "language": "ta",
-   "category": "ta-other"
-  },
-  {
-   "id": "NationalGeographicWild.in@HD",
-   "name": "National Geographic Wild (India) HD (1080p)",
-   "language": "ta",
-   "category": "ta-other"
-  },
-  {
-   "id": "Nickelodeon.in@SD",
-   "name": "Nickelodeon (India) (576p)",
-   "language": "ta",
-   "category": "ta-other"
-  },
-  {
-   "id": "Pogo.in@SD",
-   "name": "Pogo (576p)",
-   "language": "ta",
-   "category": "ta-other"
-  },
-  {
-   "id": "Sonic.in@SD",
-   "name": "Sonic (576p)",
-   "language": "ta",
-   "category": "ta-other"
-  },
-  {
-   "id": "SonyBBCEarth.in@HD",
-   "name": "Sony BBC Earth HD (1080p)",
-   "language": "ta",
-   "category": "ta-other"
-  },
-  {
-   "id": "StarSports2.in@HD",
-   "name": "Star Sports 2 HD (1080p)",
-   "language": "ta",
-   "category": "ta-other"
   },
   {
    "id": "Travelxp.in@4KHDR",
@@ -1324,13 +1218,7 @@
   },
   {
    "id": "MoviesNow.in",
-   "name": "Movies Now HD (1080p)",
-   "language": "en",
-   "category": "en-movies"
-  },
-  {
-   "id": "SonyPix.in",
-   "name": "Sony Pix HD (1080p)",
+   "name": "Movies Now HD (576p)",
    "language": "en",
    "category": "en-movies"
   },
@@ -1353,38 +1241,14 @@
    "category": "en-cartoons"
   },
   {
-   "id": "DisneyChannel.in",
-   "name": "Disney Channel (India) (576p)",
-   "language": "en",
-   "category": "en-cartoons"
-  },
-  {
    "id": "DisneyXD.us",
    "name": "Disney XD (United States) (720p)",
    "language": "en",
    "category": "en-cartoons"
   },
   {
-   "id": "NickJr.in",
-   "name": "Nick Jr. (India) (576p)",
-   "language": "en",
-   "category": "en-cartoons"
-  },
-  {
-   "id": "DiscoveryChannel.in",
-   "name": "Discovery Channel (India) HD (1080p)",
-   "language": "en",
-   "category": "en-factual"
-  },
-  {
    "id": "DiscoveryHistory.uk",
    "name": "Discovery History",
-   "language": "en",
-   "category": "en-factual"
-  },
-  {
-   "id": "DiscoveryScience.in",
-   "name": "Discovery Science (576p)",
    "language": "en",
    "category": "en-factual"
   },
@@ -1407,20 +1271,8 @@
    "category": "en-factual"
   },
   {
-   "id": "SonyBBCEarth.in",
-   "name": "Sony BBC Earth HD (1080p)",
-   "language": "en",
-   "category": "en-factual"
-  },
-  {
    "id": "TerraMaterWILD.de",
    "name": "Terra Mater WILD English (1080p)",
-   "language": "en",
-   "category": "en-factual"
-  },
-  {
-   "id": "TLC.in",
-   "name": "TLC (India) HD (1080p)",
    "language": "en",
    "category": "en-factual"
   },
@@ -1429,12 +1281,6 @@
    "name": "Travel Channel (Poland) (576i)",
    "language": "en",
    "category": "en-factual"
-  },
-  {
-   "id": "DiscoveryTurbo.in",
-   "name": "Discovery Turbo (India) (576p)",
-   "language": "en",
-   "category": "en-sports"
   },
   {
    "id": "ESPN.us",
@@ -1467,30 +1313,6 @@
    "category": "en-sports"
   },
   {
-   "id": "SonySportsTen1.in",
-   "name": "Sony Sports Ten 1 (576p)",
-   "language": "en",
-   "category": "en-sports"
-  },
-  {
-   "id": "SonySportsTen2.in",
-   "name": "Sony Sports Ten 2 HD (1080p)",
-   "language": "en",
-   "category": "en-sports"
-  },
-  {
-   "id": "SonySportsTen5.in",
-   "name": "Sony Sports Ten 5 (576p)",
-   "language": "en",
-   "category": "en-sports"
-  },
-  {
-   "id": "StarSports2.in",
-   "name": "Star Sports 2 HD (1080p)",
-   "language": "en",
-   "category": "en-sports"
-  },
-  {
    "id": "Willow.us",
    "name": "Willow (720p)",
    "language": "en",
@@ -1505,12 +1327,6 @@
   {
    "id": "MTVClassic.us",
    "name": "MTV Classic CA (720p)",
-   "language": "en",
-   "category": "en-music"
-  },
-  {
-   "id": "MTVLive.us",
-   "name": "MTV Live (720p)",
    "language": "en",
    "category": "en-music"
   }
