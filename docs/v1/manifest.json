@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "version": 20,
- "generated_at": "2026-11-23T07:51:41Z",
+ "version": 21,
+ "generated_at": "2026-11-24T10:03:14Z",
  "min_app_version": 19,
  "refresh_minutes": 360,
  "languages": [
@@ -194,11 +194,11 @@
    "id": "ZeeTamil.in@HD",
    "service_id": 9625,
    "number": "12",
-   "name": "Zee Tamil HD (1080p)",
+   "name": "Zee Tamil HD (720p)",
    "language": "ta",
    "category": "ta-entertainment",
    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00233WCL.png?lock=720x540",
-   "url": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Tamil_HD/hls/Zee_Tamil_HD.m3u8"
+   "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeetamil1.smil/playlist.m3u8"
   },
   {
    "id": "ColorsTamil.in@HD",
@@ -218,7 +218,7 @@
    "language": "ta",
    "category": "ta-entertainment",
    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_TV/images/LOGO_HD/image.png",
-   "url": "https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/b8640d6b-d131-4401-9451-944e1e65fe79/0.m3u8"
+   "url": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RAJTV/master_1.m3u8"
   },
   {
    "id": "PolimerTV.in@SD",
@@ -1103,12 +1103,6 @@
    "category": "ta-entertainment"
   },
   {
-   "id": "StarMovies.in@HD",
-   "name": "Star Movies (India) HD (1080p)",
-   "language": "ta",
-   "category": "ta-entertainment"
-  },
-  {
    "id": "StarTamilTelevision.lk@SD",
    "name": "Star Tamil Television (360p)",
    "language": "ta",
@@ -1123,12 +1117,6 @@
   {
    "id": "BeritaRTM.my@SD",
    "name": "Berita RTM (1080p)",
-   "language": "ta",
-   "category": "ta-news"
-  },
-  {
-   "id": "ZeeTamilNews.in@SD",
-   "name": "Zee Tamil News (720p)",
    "language": "ta",
    "category": "ta-news"
   },
@@ -1261,12 +1249,6 @@
   {
    "id": "NationalGeographic.us",
    "name": "National Geographic (United States) (720p)",
-   "language": "en",
-   "category": "en-factual"
-  },
-  {
-   "id": "NationalGeographicWild.us",
-   "name": "National Geographic Wild (United States) HD East (720p)",
    "language": "en",
    "category": "en-factual"
   },

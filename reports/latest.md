@@ -1,12 +1,12 @@
 # Live TV manifest report
 
-Version 20 · generated 2026-11-23T07:51:41Z · 96 channels, 48 unavailable, 30 excluded
+Version 21 · generated 2026-11-24T10:03:14Z · 96 channels, 45 unavailable, 30 excluded
 
 ## Tamil
 
 **Music** 1–8: 1 Isai Aruvi (396p), 2 Raj Musix Tamil (1080p), 3 7S Music (576p), 4 Peppers TV (751p), 5 Tunes 6 (720p), 6 Ultimate TV (1080p), 7 Sana Plus (1080p), 8 Aaryaa TV (1080p)
 
-**Entertainment & comedy** 9–32: 9 Kalaignar TV (396p), 10 Sirippoli TV (576p), 11 Star Vijay UK (396p), 12 Zee Tamil HD (1080p), 13 Colors Tamil HD (720p), 14 Raj TV (1080p), 15 Polimer TV (720p), 16 Kalaignar Murasu (396p), 17 DD Tamil HD (1080p), 18 Makkal TV (576i), 19 Marutam TV (1080p), 20 NH Tamil Gold (1080p), 21 NTC TV (720p), 22 Oli TV (India) (1080p), 23 Raj Digital Plus (1080p), 24 Sana TV (1080p), 25 Sooriyan TV (1080p), 26 Subin TV (1080p), 27 Suriya TV (1080p), 28 Suriyan TV (576p), 29 Thalaa TV (1080p), 30 Thanthi One (576p), 31 Vasanth TV (576p), 32 Vendhar TV (576p)
+**Entertainment & comedy** 9–32: 9 Kalaignar TV (396p), 10 Sirippoli TV (576p), 11 Star Vijay UK (396p), 12 Zee Tamil HD (720p), 13 Colors Tamil HD (720p), 14 Raj TV (1080p), 15 Polimer TV (720p), 16 Kalaignar Murasu (396p), 17 DD Tamil HD (1080p), 18 Makkal TV (576i), 19 Marutam TV (1080p), 20 NH Tamil Gold (1080p), 21 NTC TV (720p), 22 Oli TV (India) (1080p), 23 Raj Digital Plus (1080p), 24 Sana TV (1080p), 25 Sooriyan TV (1080p), 26 Subin TV (1080p), 27 Suriya TV (1080p), 28 Suriyan TV (576p), 29 Thalaa TV (1080p), 30 Thanthi One (576p), 31 Vasanth TV (576p), 32 Vendhar TV (576p)
 
 **News** 33–47: 33 Gem TV (720p), 34 Kalaignar Seithigal (576p), 35 Madhimugam TV (576p), 36 Malai Murasu TV (576p), 37 News 7 Tamil (576p), 38 News J (720p) [Not 24/7], 39 News Tamil 24x7 (1080p), 40 News18 Tamil Nadu (1080p), 41 Polimer News (576p), 42 Puthiya Thalaimurai (576p), 43 Puthiya Thalaimurai Express (720p), 44 Sathiyam TV (576p), 45 Tamil Janam (576p), 46 Thanthi TV (576p), 47 Velicham TV (576p)
 
@@ -40,11 +40,9 @@ Version 20 · generated 2026-11-23T07:51:41Z · 96 channels, 48 unavailable, 30 
 - Movies Now HD (576p) (MoviesNow.in@HD, Entertainment & comedy): Unsupported stream address
 - NDTV LANKA (1080p) (NDTVLANKA.lk@SD, Entertainment & comedy): [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)
 - Okey (1080p) (Okey.my@SD, Entertainment & comedy): Requires additional request headers
-- Star Movies (India) HD (1080p) (StarMovies.in@HD, Entertainment & comedy): Unsupported stream address
 - Star Tamil Television (360p) (StarTamilTelevision.lk@SD, Entertainment & comedy): timed out
 - TV2 (Malaysia) (1080p) (TV2.my@SD, Entertainment & comedy): Requires additional request headers
 - Berita RTM (1080p) (BeritaRTM.my@SD, News): Requires additional request headers
-- Zee Tamil News (720p) (ZeeTamilNews.in@SD, News): DNS lookup failed
 - Travelxp 4K HDR (2160p) [Geo-blocked] (Travelxp.in@4KHDR, Other): HTTP 403
 - Travelxp HD (1080p) [Geo-blocked] (Travelxp.in@HD, Other): HTTP 503
 - Win TV (576p) (WinTV.in@SD, Other): HTTP 404
@@ -67,7 +65,6 @@ Version 20 · generated 2026-11-23T07:51:41Z · 96 channels, 48 unavailable, 30 
 - Discovery History (DiscoveryHistory.uk, Science, nature & history): Unsupported stream address
 - History (United States) (720p) (History.us, Science, nature & history): Unsupported stream address
 - National Geographic (United States) (720p) (NationalGeographic.us, Science, nature & history): Unsupported stream address
-- National Geographic Wild (United States) HD East (720p) (NationalGeographicWild.us, Science, nature & history): Unsupported stream address
 - Terra Mater WILD English (1080p) (TerraMaterWILD.de, Science, nature & history): DNS lookup failed
 - Travel Channel (Poland) (576i) (TravelChannel.pl, Science, nature & history): Unsupported stream address
 - ESPN (United States) (432p) (ESPN.us, Sports): Unsupported stream address
@@ -100,7 +97,7 @@ Version 20 · generated 2026-11-23T07:51:41Z · 96 channels, 48 unavailable, 30 
 - MTA6 Asia (1080p) (MTA6Asia.uk@SD): Excluded: devotional channel outside Hindu selection
 - MTA7 Asia (1080p) (MTA7Asia.uk@SD): Excluded: devotional channel outside Hindu selection
 - Madha TV (576p) (MadhaTV.in@SD): Excluded: devotional channel outside Hindu selection
-- Mahimai TV (576p) (MahimaiTV.in@SD): Excluded: devotional channel outside Hindu selection
+- Mahimai TV (1080p) (MahimaiTV.in@SD): Excluded: devotional channel outside Hindu selection
 - Mei Alai TV (576p) (MeiAlaiTV.in@SD): Excluded: owner channel selection
 - Moon TV (576p) (MoonTV.in@SD): Excluded: owner channel selection
 - Nambikkai TV (576p) (NambikkaiTV.in@SD): Excluded: devotional channel outside Hindu selection
