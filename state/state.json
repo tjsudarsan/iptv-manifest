@@ -1,7 +1,7 @@
 {
- "version": 21,
- "content_hash": "088d8f8ae09af1856189207c2c4d8d47847c45f1009b336c42a62a5df4e6f1f9",
- "generated_at": "2026-11-24T10:03:14Z",
+ "version": 22,
+ "content_hash": "24195f61ed55c77ba6c743955c5dcd829894b5ad3f175f8fad6e9c72b374ad04",
+ "generated_at": "2026-11-27T08:46:04Z",
  "service_ids": {
   "7SMusic.in@SD": 9502,
   "AFV.us": 9628,
@@ -243,12 +243,16 @@
    "available": false
   },
   "AXNCEE.es": {
-   "url": "",
-   "available": false
+   "url": "https://rundle.tv/proxy5.php?src=https://cronos.mangora1.cfd/axy/usergend3h5jkc9rnd.m3u8",
+   "available": true
   },
   "AXNCrime.us": {
    "url": "",
    "available": false
+  },
+  "AXNWhite.us": {
+   "url": "https://rundle.tv/proxy5.php?src=https://onyx1.mofta001.cfd/axwhite/usergenx23rnd.m3u8",
+   "available": true
   },
   "AaryaaTV.in@SD": {
    "url": "https://stream.ottlive.co.in/aryatvtamil/index.m3u8",
@@ -379,18 +383,6 @@
    "available": false
   },
   "HBOAsia.sg": {
-   "url": "",
-   "available": false
-  },
-  "HBOFamilyAsia.sg": {
-   "url": "",
-   "available": false
-  },
-  "HBOHitsAsia.sg": {
-   "url": "",
-   "available": false
-  },
-  "HBOSignatureAsia.sg": {
    "url": "",
    "available": false
   },
@@ -538,6 +530,10 @@
    "url": "https://stream.ottlive.co.in/newstamil/index.m3u8",
    "available": true
   },
+  "Nickelodeon.in@SD": {
+   "url": "",
+   "available": false
+  },
   "OMTV.in@SD": {
    "url": "https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8",
    "available": true
@@ -647,6 +643,10 @@
    "available": true
   },
   "SkySportsF1.uk": {
+   "url": "",
+   "available": false
+  },
+  "SonySportsTen2.in": {
    "url": "",
    "available": false
   },
@@ -796,7 +796,7 @@
   }
  },
  "source_counts": {
-  "ta": 112,
-  "en": 59
+  "ta": 113,
+  "en": 58
  }
 }

@@ -1,6 +1,6 @@
 # Live TV manifest report
 
-Version 21 · generated 2026-11-24T10:03:14Z · 96 channels, 45 unavailable, 30 excluded
+Version 22 · generated 2026-11-27T08:46:04Z · 98 channels, 43 unavailable, 30 excluded
 
 ## Tamil
 
@@ -16,17 +16,17 @@ Version 21 · generated 2026-11-24T10:03:14Z · 96 channels, 45 unavailable, 30 
 
 ## English
 
-**Entertainment & comedy** 65–73: 65 AFV (1080p), 66 Comedy Central (United States) CA, 67 Dove Channel (1080p), 68 Dry Bar Comedy+ (720p), 69 FailArmy (720p), 70 Just for Laughs Gags (1080p), 71 Mr Bean Live Action (1080p), 72 The Bob Ross Channel (1080p), 73 The Pet Collective (720p)
+**Entertainment & comedy** 65–74: 65 AFV (1080p), 66 AXN White (United States) (576i), 67 Comedy Central (United States) CA, 68 Dove Channel (1080p), 69 Dry Bar Comedy+ (720p), 70 FailArmy (720p), 71 Just for Laughs Gags (1080p), 72 Mr Bean Live Action (1080p), 73 The Bob Ross Channel (1080p), 74 The Pet Collective (720p)
 
-**Movies** 74–77: 74 Rakuten TV Action Movies UK (1080p), 75 Rakuten TV Comedy Movies UK (1080p), 76 Rakuten TV Drama Movies UK (1080p), 77 Rakuten TV Family Movies UK (1080p)
+**Movies** 75–79: 75 AXN CEE Romania HD (576i), 76 Rakuten TV Action Movies UK (1080p), 77 Rakuten TV Comedy Movies UK (1080p), 78 Rakuten TV Drama Movies UK (1080p), 79 Rakuten TV Family Movies UK (1080p)
 
-**Cartoons & anime** 78–79: 78 Animax Asia India (1080p) [Geo-blocked], 79 Mr Bean Animated (1080p)
+**Cartoons & anime** 80–81: 80 Animax Asia India (1080p) [Geo-blocked], 81 Mr Bean Animated (1080p)
 
-**Science, nature & history** 80–92: 80 Autentic History (1080p), 81 BBC Earth US (1080p), 82 Curiosity NOW EN (1080p), 83 DocuBay TV (1080p), 84 Get.factual (720p), 85 History Hit (1080p), 86 History TV18 HD (1080p) [Geo-blocked], 87 InWonder (1080p), 88 MagellanTV Now (1080p), 89 NatureTime AU (1080p), 90 UCTV (720p) [Not 24/7], 91 WildEarth (1080p), 92 Wonder (1080p)
+**Science, nature & history** 82–94: 82 Autentic History (1080p), 83 BBC Earth US (1080p), 84 Curiosity NOW EN (1080p), 85 DocuBay TV (1080p), 86 Get.factual (720p), 87 History Hit (1080p), 88 History TV18 HD (1080p) [Geo-blocked], 89 InWonder (1080p), 90 MagellanTV Now (1080p), 91 NatureTime AU (1080p), 92 UCTV (720p) [Not 24/7], 93 WildEarth (1080p), 94 Wonder (1080p)
 
-**Sports** 93–95: 93 beIN SPORTS XTRA (1080p), 94 DD Sports HD (1080p), 95 Red Bull TV (1080p)
+**Sports** 95–97: 95 beIN SPORTS XTRA (1080p), 96 DD Sports HD (1080p), 97 Red Bull TV (1080p)
 
-**Music** 96–96: 96 MTV Biggest Pop (1080p)
+**Music** 98–98: 98 MTV Biggest Pop (1080p)
 
 ## Unavailable
 
@@ -43,20 +43,17 @@ Version 21 · generated 2026-11-24T10:03:14Z · 96 channels, 45 unavailable, 30 
 - Star Tamil Television (360p) (StarTamilTelevision.lk@SD, Entertainment & comedy): timed out
 - TV2 (Malaysia) (1080p) (TV2.my@SD, Entertainment & comedy): Requires additional request headers
 - Berita RTM (1080p) (BeritaRTM.my@SD, News): Requires additional request headers
+- Nickelodeon (India) (Nickelodeon.in@SD, Other): Unsupported stream address
 - Travelxp 4K HDR (2160p) [Geo-blocked] (Travelxp.in@4KHDR, Other): HTTP 403
 - Travelxp HD (1080p) [Geo-blocked] (Travelxp.in@HD, Other): HTTP 503
 - Win TV (576p) (WinTV.in@SD, Other): HTTP 404
 - WOW Kidz Tamil (720p) (WOWKidz.in@Tamil, Other): Unsupported stream address
 - IBC Bakthi (1080p) (IBCBakthi.uk@SD, Hindu devotional): [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ibc.massstream.net'. (_ssl.c:10
 - MTV Global (MTVGlobal.uk, Entertainment & comedy): Requires additional request headers
-- AXN Black (United States) Czech Republic (AXNBlack.us, Movies): Unsupported stream address
-- AXN CEE (AXNCEE.es, Movies): Requires additional request headers
+- AXN Black (United States) Czech Republic (AXNBlack.us, Movies): The read operation timed out
 - AXN Crime (AXNCrime.us, Movies): Requires additional request headers
 - HBO (United States) (720p) (HBO.us, Movies): Unsupported stream address
-- HBO Asia HD (1080p) (HBOAsia.sg, Movies): Unsupported stream address
-- HBO Family Asia HD (1080p) (HBOFamilyAsia.sg, Movies): Unsupported stream address
-- HBO Hits Asia HD (1080p) (HBOHitsAsia.sg, Movies): Unsupported stream address
-- HBO Signature Asia HD (1080p) (HBOSignatureAsia.sg, Movies): Unsupported stream address
+- HBO Asia (720p) (HBOAsia.sg, Movies): Unsupported stream address
 - Movies Now HD (576p) (MoviesNow.in, Movies): Unsupported stream address
 - Warner TV Asia (720p) (WarnerTVAsia.us, Movies): Requires additional request headers
 - Boomerang (United States) (720p) (Boomerang.us, Cartoons & anime): Unsupported stream address
@@ -72,6 +69,7 @@ Version 21 · generated 2026-11-24T10:03:14Z · 96 channels, 45 unavailable, 30 
 - Fox Sports 1 (720p) (FoxSports1.us, Sports): Unsupported stream address
 - Fox Sports 2 (720p) (FoxSports2.us, Sports): Fails from India (TV check 2026-11-04: timeout)
 - Sky Sports F1 (720p) (SkySportsF1.uk, Sports): Requires additional request headers
+- Sony Sports Ten 2 (1080p) (SonySportsTen2.in, Sports): Unsupported stream address
 - Willow (720p) (Willow.us, Sports): Unsupported stream address
 - Willow Sports (1080p) (WillowSports.us, Sports): Fails from India (TV check 2026-11-04: HTTP 403)
 - MTV Classic CA (720p) (MTVClassic.us, Music): Encrypted stream; not checked

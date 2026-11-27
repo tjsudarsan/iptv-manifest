@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "version": 21,
- "generated_at": "2026-11-24T10:03:14Z",
+ "version": 22,
+ "generated_at": "2026-11-27T08:46:04Z",
  "min_app_version": 19,
  "refresh_minutes": 360,
  "languages": [
@@ -731,9 +731,19 @@
    "url": "https://linear-1208.frequency.stream/mt/vizio/1208/hls/master/playlist.m3u8"
   },
   {
+   "id": "AXNWhite.us",
+   "service_id": 9633,
+   "number": "66",
+   "name": "AXN White (United States) (576i)",
+   "language": "en",
+   "category": "en-entertainment",
+   "logo": "https://i.imgur.com/47IKxmt.png",
+   "url": "https://rundle.tv/proxy5.php?src=https://onyx1.mofta001.cfd/axwhite/usergenx23rnd.m3u8"
+  },
+  {
    "id": "ComedyCentral.us",
    "service_id": 9640,
-   "number": "66",
+   "number": "67",
    "name": "Comedy Central (United States) CA",
    "language": "en",
    "category": "en-entertainment",
@@ -743,7 +753,7 @@
   {
    "id": "DoveChannel.us",
    "service_id": 9653,
-   "number": "67",
+   "number": "68",
    "name": "Dove Channel (1080p)",
    "language": "en",
    "category": "en-entertainment",
@@ -753,7 +763,7 @@
   {
    "id": "DryBarComedyPlus.us",
    "service_id": 9654,
-   "number": "68",
+   "number": "69",
    "name": "Dry Bar Comedy+ (720p)",
    "language": "en",
    "category": "en-entertainment",
@@ -763,7 +773,7 @@
   {
    "id": "FailArmy.us",
    "service_id": 9658,
-   "number": "69",
+   "number": "70",
    "name": "FailArmy (720p)",
    "language": "en",
    "category": "en-entertainment",
@@ -773,7 +783,7 @@
   {
    "id": "JustforLaughsGags.us",
    "service_id": 9671,
-   "number": "70",
+   "number": "71",
    "name": "Just for Laughs Gags (1080p)",
    "language": "en",
    "category": "en-entertainment",
@@ -783,7 +793,7 @@
   {
    "id": "MrBeanLiveAction.uk",
    "service_id": 9679,
-   "number": "71",
+   "number": "72",
    "name": "Mr Bean Live Action (1080p)",
    "language": "en",
    "category": "en-entertainment",
@@ -793,7 +803,7 @@
   {
    "id": "TheBobRossChannel.us",
    "service_id": 9703,
-   "number": "72",
+   "number": "73",
    "name": "The Bob Ross Channel (1080p)",
    "language": "en",
    "category": "en-entertainment",
@@ -803,7 +813,7 @@
   {
    "id": "ThePetCollective.us",
    "service_id": 9704,
-   "number": "73",
+   "number": "74",
    "name": "The Pet Collective (720p)",
    "language": "en",
    "category": "en-entertainment",
@@ -811,9 +821,19 @@
    "url": "https://the-pet-collective-international-dk.samsung.wurl.tv/playlist.m3u8"
   },
   {
+   "id": "AXNCEE.es",
+   "service_id": 9631,
+   "number": "75",
+   "name": "AXN CEE Romania HD (576i)",
+   "language": "en",
+   "category": "en-movies",
+   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+   "url": "https://rundle.tv/proxy5.php?src=https://cronos.mangora1.cfd/axy/usergend3h5jkc9rnd.m3u8"
+  },
+  {
    "id": "RakutenTVActionMovies.es",
    "service_id": 9685,
-   "number": "74",
+   "number": "76",
    "name": "Rakuten TV Action Movies UK (1080p)",
    "language": "en",
    "category": "en-movies",
@@ -823,7 +843,7 @@
   {
    "id": "RakutenTVComedyMovies.es",
    "service_id": 9686,
-   "number": "75",
+   "number": "77",
    "name": "Rakuten TV Comedy Movies UK (1080p)",
    "language": "en",
    "category": "en-movies",
@@ -833,7 +853,7 @@
   {
    "id": "RakutenTVDramaMovies.es",
    "service_id": 9687,
-   "number": "76",
+   "number": "78",
    "name": "Rakuten TV Drama Movies UK (1080p)",
    "language": "en",
    "category": "en-movies",
@@ -843,7 +863,7 @@
   {
    "id": "RakutenTVFamilyMovies.es",
    "service_id": 9688,
-   "number": "77",
+   "number": "79",
    "name": "Rakuten TV Family Movies UK (1080p)",
    "language": "en",
    "category": "en-movies",
@@ -853,7 +873,7 @@
   {
    "id": "AnimaxAsia.sg",
    "service_id": 9635,
-   "number": "78",
+   "number": "80",
    "name": "Animax Asia India (1080p) [Geo-blocked]",
    "language": "en",
    "category": "en-cartoons",
@@ -863,7 +883,7 @@
   {
    "id": "MrBeanAnimated.uk",
    "service_id": 9678,
-   "number": "79",
+   "number": "81",
    "name": "Mr Bean Animated (1080p)",
    "language": "en",
    "category": "en-cartoons",
@@ -873,7 +893,7 @@
   {
    "id": "AutenticHistory.de",
    "service_id": 9636,
-   "number": "80",
+   "number": "82",
    "name": "Autentic History (1080p)",
    "language": "en",
    "category": "en-factual",
@@ -883,7 +903,7 @@
   {
    "id": "BBCEarth.uk",
    "service_id": 9637,
-   "number": "81",
+   "number": "83",
    "name": "BBC Earth US (1080p)",
    "language": "en",
    "category": "en-factual",
@@ -893,7 +913,7 @@
   {
    "id": "CuriosityNOW.de",
    "service_id": 9641,
-   "number": "82",
+   "number": "84",
    "name": "Curiosity NOW EN (1080p)",
    "language": "en",
    "category": "en-factual",
@@ -903,7 +923,7 @@
   {
    "id": "DocuBayTV.in",
    "service_id": 9652,
-   "number": "83",
+   "number": "85",
    "name": "DocuBay TV (1080p)",
    "language": "en",
    "category": "en-factual",
@@ -913,7 +933,7 @@
   {
    "id": "Getfactual.us",
    "service_id": 9661,
-   "number": "84",
+   "number": "86",
    "name": "Get.factual (720p)",
    "language": "en",
    "category": "en-factual",
@@ -923,7 +943,7 @@
   {
    "id": "HistoryHit.uk",
    "service_id": 9668,
-   "number": "85",
+   "number": "87",
    "name": "History Hit (1080p)",
    "language": "en",
    "category": "en-factual",
@@ -933,7 +953,7 @@
   {
    "id": "HistoryTV18.in",
    "service_id": 9669,
-   "number": "86",
+   "number": "88",
    "name": "History TV18 HD (1080p) [Geo-blocked]",
    "language": "en",
    "category": "en-factual",
@@ -943,7 +963,7 @@
   {
    "id": "InWonder.nl",
    "service_id": 9670,
-   "number": "87",
+   "number": "89",
    "name": "InWonder (1080p)",
    "language": "en",
    "category": "en-factual",
@@ -953,7 +973,7 @@
   {
    "id": "MagellanTVNow.us",
    "service_id": 9676,
-   "number": "88",
+   "number": "90",
    "name": "MagellanTV Now (1080p)",
    "language": "en",
    "category": "en-factual",
@@ -963,7 +983,7 @@
   {
    "id": "NatureTime.ca",
    "service_id": 9682,
-   "number": "89",
+   "number": "91",
    "name": "NatureTime AU (1080p)",
    "language": "en",
    "category": "en-factual",
@@ -973,7 +993,7 @@
   {
    "id": "UCTV.us",
    "service_id": 9706,
-   "number": "90",
+   "number": "92",
    "name": "UCTV (720p) [Not 24/7]",
    "language": "en",
    "category": "en-factual",
@@ -983,7 +1003,7 @@
   {
    "id": "WildEarth.za",
    "service_id": 9709,
-   "number": "91",
+   "number": "93",
    "name": "WildEarth (1080p)",
    "language": "en",
    "category": "en-factual",
@@ -993,7 +1013,7 @@
   {
    "id": "Wonder.uk",
    "service_id": 9712,
-   "number": "92",
+   "number": "94",
    "name": "Wonder (1080p)",
    "language": "en",
    "category": "en-factual",
@@ -1003,7 +1023,7 @@
   {
    "id": "beINSPORTSXTRA.us",
    "service_id": 9713,
-   "number": "93",
+   "number": "95",
    "name": "beIN SPORTS XTRA (1080p)",
    "language": "en",
    "category": "en-sports",
@@ -1013,7 +1033,7 @@
   {
    "id": "DDSports.in",
    "service_id": 9642,
-   "number": "94",
+   "number": "96",
    "name": "DD Sports HD (1080p)",
    "language": "en",
    "category": "en-sports",
@@ -1023,7 +1043,7 @@
   {
    "id": "RedBullTV.at",
    "service_id": 9689,
-   "number": "95",
+   "number": "97",
    "name": "Red Bull TV (1080p)",
    "language": "en",
    "category": "en-sports",
@@ -1033,7 +1053,7 @@
   {
    "id": "MTVBiggestPop.us",
    "service_id": 9672,
-   "number": "96",
+   "number": "98",
    "name": "MTV Biggest Pop (1080p)",
    "language": "en",
    "category": "en-music",
@@ -1121,6 +1141,12 @@
    "category": "ta-news"
   },
   {
+   "id": "Nickelodeon.in@SD",
+   "name": "Nickelodeon (India)",
+   "language": "ta",
+   "category": "ta-other"
+  },
+  {
    "id": "Travelxp.in@4KHDR",
    "name": "Travelxp 4K HDR (2160p) [Geo-blocked]",
    "language": "ta",
@@ -1163,12 +1189,6 @@
    "category": "en-movies"
   },
   {
-   "id": "AXNCEE.es",
-   "name": "AXN CEE",
-   "language": "en",
-   "category": "en-movies"
-  },
-  {
    "id": "AXNCrime.us",
    "name": "AXN Crime",
    "language": "en",
@@ -1182,25 +1202,7 @@
   },
   {
    "id": "HBOAsia.sg",
-   "name": "HBO Asia HD (1080p)",
-   "language": "en",
-   "category": "en-movies"
-  },
-  {
-   "id": "HBOFamilyAsia.sg",
-   "name": "HBO Family Asia HD (1080p)",
-   "language": "en",
-   "category": "en-movies"
-  },
-  {
-   "id": "HBOHitsAsia.sg",
-   "name": "HBO Hits Asia HD (1080p)",
-   "language": "en",
-   "category": "en-movies"
-  },
-  {
-   "id": "HBOSignatureAsia.sg",
-   "name": "HBO Signature Asia HD (1080p)",
+   "name": "HBO Asia (720p)",
    "language": "en",
    "category": "en-movies"
   },
@@ -1291,6 +1293,12 @@
   {
    "id": "SkySportsF1.uk",
    "name": "Sky Sports F1 (720p)",
+   "language": "en",
+   "category": "en-sports"
+  },
+  {
+   "id": "SonySportsTen2.in",
+   "name": "Sony Sports Ten 2 (1080p)",
    "language": "en",
    "category": "en-sports"
   },
