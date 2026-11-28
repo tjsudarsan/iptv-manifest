@@ -1,6 +1,6 @@
 # Live TV manifest report
 
-Version 22 · generated 2026-11-27T08:46:04Z · 98 channels, 43 unavailable, 30 excluded
+Version 23 · generated 2026-11-28T08:00:05Z · 98 channels, 44 unavailable, 30 excluded
 
 ## Tamil
 
@@ -73,6 +73,7 @@ Version 22 · generated 2026-11-27T08:46:04Z · 98 channels, 43 unavailable, 30 
 - Willow (720p) (Willow.us, Sports): Unsupported stream address
 - Willow Sports (1080p) (WillowSports.us, Sports): Fails from India (TV check 2026-11-04: HTTP 403)
 - MTV Classic CA (720p) (MTVClassic.us, Music): Encrypted stream; not checked
+- MTV Live (1080p) (MTVLive.us, Music): Unsupported stream address
 
 ## Excluded
 

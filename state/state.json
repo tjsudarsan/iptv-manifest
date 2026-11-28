@@ -1,7 +1,7 @@
 {
- "version": 22,
- "content_hash": "24195f61ed55c77ba6c743955c5dcd829894b5ad3f175f8fad6e9c72b374ad04",
- "generated_at": "2026-11-27T08:46:04Z",
+ "version": 23,
+ "content_hash": "02f243eaf078a514ef5a9d521048e1e4a24b4b11fc14ff42fbdee556748e2a15",
+ "generated_at": "2026-11-28T08:00:05Z",
  "service_ids": {
   "7SMusic.in@SD": 9502,
   "AFV.us": 9628,
@@ -311,7 +311,7 @@
    "available": true
   },
   "CuriosityNOW.de": {
-   "url": "https://amg00170-amg00170c4-samsung-gb-4232.playouts.now.amagi.tv/playlist.m3u8",
+   "url": "https://eafbca58.wurl.com/master/319dc4325e352117ff2ba16d22f2fb8968990c39/U2VsZWN0VFZfQ3VyaW9zaXR5Tk9XVVNfSExT/playlist.m3u8",
    "available": true
   },
   "DDSports.in": {
@@ -447,6 +447,10 @@
    "available": false
   },
   "MTVGlobal.uk": {
+   "url": "",
+   "available": false
+  },
+  "MTVLive.us": {
    "url": "",
    "available": false
   },
@@ -797,6 +801,6 @@
  },
  "source_counts": {
   "ta": 113,
-  "en": 58
+  "en": 59
  }
 }
